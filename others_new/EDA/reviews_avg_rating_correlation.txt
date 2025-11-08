@@ -1,0 +1,1 @@
+Correlation (Review Count vs Avg Review Rating): -0.075
