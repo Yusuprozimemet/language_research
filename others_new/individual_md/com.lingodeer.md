@@ -1,0 +1,749 @@
+# LingoDeer - Learn Languages
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | LingoDeer - Learn Languages | N/A |
+| **Package/ID** | com.lingodeer | N/A |
+| **Rating** | 4.4608016 | N/A |
+| **Total Ratings** | 445,608 | N/A |
+| **Installs** | 10,000,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+Want to learn a new language, such as Japanese, French, Spanish or Korean on your own? Give LingoDeer a try!
+
+Available courses for English speakers:
+Korean, Japanese, Mandarin Chinese, Arabic, French, German, Greek, Hindi, Indonesian, Italian, Malay, Polish, Brazilian Portuguese, Russian, Spanish (Latin American or European), Thai, Turkish, Ukrainian, Vietnamese.
+
+What can LingoDeer do for you?
+※ Learn to read and write a language with a unique alphabet system, such as Korean or Japanese 
+※ Learn to form sentences in your own words by following a structured course
+※ Learn the essential vocabulary and grammar from beginner to intermediate levels (A1-B1)
+※ Improve listening and improve pronunciation with HD recordings by native speakers 
+※ Reinforce learning with various review activities: flashcards, quizzes, target trainings and more
+※ Track your progress and statistics
+※ Download lessons to learn offline
+
+What makes LingoDeer different? Its teaching power. 
+
+Instead of relying on users to figure things out, LingoDeer offers a structured, clear and motivating path toward fluency. 
+
+By providing the best structured curricula among apps and clear explanations on grammar, LingoDeer enables users to form sentences in their own words, not just memorize and repeat after a phrasebook.
+
+As a result, users gain a clear sense of progression through following this path and are able to maintain long-term motivation. 
+
+What’s more, the variety of activities supported in LingoDeer gives users the flexibility to personalize their study. From speaking exercises about food allergies, to drilling words with flashcards or 5-min pop quizzes during lunch breaks, let LingoDeer surprise you with every session.
+
+If you don’t know where to start with learning a new language, start with LingoDeer. 
+
+PLEASE NOTE: 
+You will need a LingoDeer membership in order to access all courses and features. 
+
+Support: 
+Found a bug? Let us know and help us make LingoDeer better!
+Email: hi@lingodeer.com 
+https://m.me/lingodeer
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 100 (100 analyzed)
+**Rating Distribution:** 75 positive (4-5★), 8 neutral (3★), 17 negative (1-2★)
+**Average Sentiment:** 0.28 (-1=very negative, +1=very positive)
+**Primary Language:** en
+**Key Insights:** Average rating: 4.1/5.0 | Overall sentiment: positive (score: 0.28) | Reviews in 9 languages, primarily en (51 reviews) | Reviews from 1 platform(s): google | Key themes: app, good, great
+
+
+### 🔑 Key Themes & Phrases
+
+- **app** (relevance: 0.109)
+- **good** (relevance: 0.081)
+- **great** (relevance: 0.073)
+- **learn** (relevance: 0.053)
+- **really** (relevance: 0.049)
+- **ik** (relevance: 0.045)
+- **learning** (relevance: 0.043)
+- **leren** (relevance: 0.040)
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 68 reviews (68.0%)
+- **4 ★★★★☆**: 7 reviews (7.0%)
+- **3 ★★★☆☆**: 8 reviews (8.0%)
+- **2 ★★☆☆☆**: 2 reviews (2.0%)
+- **1 ★☆☆☆☆**: 15 reviews (15.0%)
+
+### 🌍 Languages in Reviews
+
+- **en**: 51 reviews
+- **nl**: 23 reviews
+- **unknown**: 14 reviews
+- **af**: 4 reviews
+- **de**: 2 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 100 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/LingoDeer_-_Learn_Languages_analytics.png)
+
+### Word Cloud
+![Word Cloud](charts/LingoDeer_-_Learn_Languages_wordcloud.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★ - google - 2025-10-28T10:34:25)
+> Alleen maar betalen, ik ga gewoon andere apps gebruiken.
+
+**Review 2** (★★★★★ - google - 2022-09-21T20:19:03)
+> I love learning Korean and this helps so much!!
+
+**Review 3** (★★★ - google - 2021-04-06T18:02:43)
+> Ik wilde proberen om een jaar lingodeer te doen, in dacht dat dat per maand er af zou gaan, ik heb het nu meteen opgezegd. Ik wil graag weten of ik dat geld meteen terug krijg?
+
+**Review 4** (★★★★★ - google - 2019-10-21T11:34:45)
+> Great
+
+**Review 5** (★★★★★ - google - 2019-05-12T14:33:45)
+> great
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "LingoDeer - Learn Languages",
+  "google_package": "com.lingodeer",
+  "google": {
+    "title": "LingoDeer - Learn Languages",
+    "description": "Want to learn a new language, such as Japanese, French, Spanish or Korean on your own? Give LingoDeer a try!\r\n\r\nAvailable courses for English speakers:\r\nKorean, Japanese, Mandarin Chinese, Arabic, French, German, Greek, Hindi, Indonesian, Italian, Malay, Polish, Brazilian Portuguese, Russian, Spanish (Latin American or European), Thai, Turkish, Ukrainian, Vietnamese.\r\n\r\nWhat can LingoDeer do for you?\r\n※ Learn to read and write a language with a unique alphabet system, such as Korean or Japanese \r\n※ Learn to form sentences in your own words by following a structured course\r\n※ Learn the essential vocabulary and grammar from beginner to intermediate levels (A1-B1)\r\n※ Improve listening and improve pronunciation with HD recordings by native speakers \r\n※ Reinforce learning with various review activities: flashcards, quizzes, target trainings and more\r\n※ Track your progress and statistics\r\n※ Download lessons to learn offline\r\n\r\nWhat makes LingoDeer different? Its teaching power. \r\n\r\nInstead of relying on users to figure things out, LingoDeer offers a structured, clear and motivating path toward fluency. \r\n\r\nBy providing the best structured curricula among apps and clear explanations on grammar, LingoDeer enables users to form sentences in their own words, not just memorize and repeat after a phrasebook.\r\n\r\nAs a result, users gain a clear sense of progression through following this path and are able to maintain long-term motivation. \r\n\r\nWhat’s more, the variety of activities supported in LingoDeer gives users the flexibility to personalize their study. From speaking exercises about food allergies, to drilling words with flashcards or 5-min pop quizzes during lunch breaks, let LingoDeer surprise you with every session.\r\n\r\nIf you don’t know where to start with learning a new language, start with LingoDeer. \r\n\r\nPLEASE NOTE: \r\nYou will need a LingoDeer membership in order to access all courses and features. \r\n\r\nSupport: \r\nFound a bug? Let us know and help us make LingoDeer better!\r\nEmail: hi@lingodeer.com \r\nhttps://m.me/lingodeer",
+    "rating": 4.4608016,
+    "rating_text": null,
+    "ratings_total": 445608,
+    "ratings_histogram": [
+      28198,
+      13064,
+      17850,
+      52530,
+      333937
+    ],
+    "installs": "10,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Alleen maar betalen, ik ga gewoon andere apps gebruiken.",
+      "date": "2025-10-28T10:34:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Werkt voorlopig beter (en goedkoper) dan duolingo👍",
+      "date": "2025-10-04T09:49:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "환상적인",
+      "date": "2025-09-18T08:08:43"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Jammer hoor. Na 1 hoofdstuk al betalen.",
+      "date": "2025-09-16T17:03:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Way better than Duolingo.",
+      "date": "2025-09-12T04:11:41"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very good to start any language. I used it for Korean and Chinese. It has a good structure, and also the prononciation is very good, and your own prononciation is rated as wel...",
+      "date": "2025-05-26T11:57:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Gemakkelijk om te leren. De theorie staat er ook overal bij wat enorm handig is.",
+      "date": "2025-04-09T09:47:22"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Het was handig voor toen ik er nog makkelijk mee kon leren alleen na chapter 1 moet je al betalen. Jammer. Dus nu moet ik een andere app vinden om mee te leren. Voor de rest is het een prima ap van wat ik zag...",
+      "date": "2025-02-08T09:36:17"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuke leerzame taalapp die ook uitleg geeft, iets wat ik bij Duo mis. Ook ben ik meer met de taal zelf bezig nu ipv streaks en badges te proberen halen. Fijn dat je levenslang kan nemen, met de korting viel de prijs best mee. Wel jammer dat ze geen Zweeds aanbieden, met Duo in het verleden redelijk ver gekomen en had gehoopt om het met Deer terug te kunnen opnemen. Vandaar dat ik ook Memrise genomen heb. Ik combineer deze nu met Deer voor Frans, Spaans, Duits en Chinees.",
+      "date": "2025-01-28T21:43:59"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "after lesson 1 you have to pay money thats realy annoying",
+      "date": "2025-01-14T18:56:02"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "No course in Dutch..",
+      "date": "2024-10-13T02:04:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Op een rustige manier Thai leren schrijven en veel oefeningen beste app om thai te leren die ik al tegen gekomen ben 11/10",
+      "date": "2024-07-23T10:55:50"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "De eerste les van de gevorderde niveau ging heel goed. Ik heb die met veel genoegen goed afgerond. Geluidsopnamen gemaakt, scores bijgehouden, profiel aangemaakt... Totdat ik bij het beginnen aan de tweede les bleef steken in een reclame voor een abonnement. Het lukte me maar niet met les twee te beginnen. Dus heb ik de app maar weer verwijderd. Jammer.",
+      "date": "2024-07-18T16:59:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Just started learning my Korean further with this app and I am very happy until now",
+      "date": "2024-05-21T18:10:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I really enjoy learning a new language with this application",
+      "date": "2024-02-19T17:57:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great speaking exercises, nice features to review new words and grammar, and helpful knowledge cards. Would highly recommend!",
+      "date": "2024-01-15T08:21:11"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "It’s a pretty good app to learn new languages but in my experience the Japanese section is a little hard and you gotta pay after three lessons tho",
+      "date": "2024-01-13T20:00:04"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Downloaded the app to learn Turkisch. You can't learn anything (except 5 words) unless you get an expensive subscription. Duolingo is free :)",
+      "date": "2023-12-09T15:19:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Gute App",
+      "date": "2023-06-26T02:04:01"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Nice",
+      "date": "2023-03-01T19:16:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Learning Korean and Japanese is better on this app, than on Duo Lingo",
+      "date": "2023-01-06T07:44:18"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Geweldig",
+      "date": "2022-12-12T21:14:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Habe mir die Vollversion gekauft, da ich kein Freund von Abos bin. War zwar teuer, aber ich persönlich finde, das Geld lohnt sich ohne Zweifel! Ich mache aktuell den Koreanischkurs und bin schon ganz gespannt die kommenden Sprachen mit dieser App zu lernen. Meine persönliche Lieblingsapp zum Sprachen lernen, mit einem extrem großen Abstand zu manch anderen. 링고디어, 감사합니다! ^^",
+      "date": "2022-11-26T17:23:47"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Iets moeilijker dan Duolingo, maar nog steeds te makkelijk",
+      "date": "2022-10-25T14:34:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfect om nieuwe talen te leren",
+      "date": "2022-10-22T14:04:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I love learning Korean and this helps so much!!",
+      "date": "2022-09-21T20:19:03"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ever since the new update that you have to pay for \"premium\" so you can continue to lesson two -_- so sad to see as I used to love this app.... if i wanted to pay for this I wouldve taken an actual class 🙄",
+      "date": "2022-08-22T21:11:16"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Its a good app but I can't do this & that in the Korean language. So I can't go further than that. That's why I give the app ✦✦✦✦☆ four stars.",
+      "date": "2022-08-03T14:36:44"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Could you put Netherlands in it because i am not that good in English and i wanna leern a language to",
+      "date": "2022-04-28T22:56:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It really helps",
+      "date": "2022-04-09T11:47:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Its helping a lot :)",
+      "date": "2022-02-20T20:43:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik kan nu russisch😎",
+      "date": "2022-02-14T17:09:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Je kan snel talen leren geweldige app",
+      "date": "2022-02-10T21:26:11"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Je moet zelf betalen! Dus je kan geen Koreaans leren! Ik geef zelf 0 sterren",
+      "date": "2022-01-02T17:16:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel leuk voor talen te leren",
+      "date": "2021-12-30T10:05:42"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Really good system to learn",
+      "date": "2021-12-24T14:55:53"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Automatic subscription continues with no warning, €80 down the drain",
+      "date": "2021-12-05T23:29:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "U CAN FINALLY LEARN KOREAN THANK YOU",
+      "date": "2021-11-02T11:17:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I love this app❤️ its really helping me it could help you to!",
+      "date": "2021-08-19T19:26:57"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Het is een hele fijne manier om te leren",
+      "date": "2021-08-17T19:52:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Good 👌",
+      "date": "2021-08-06T16:08:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Love it",
+      "date": "2021-07-25T07:45:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel goed",
+      "date": "2021-07-15T12:02:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Watashi wa",
+      "date": "2021-06-17T02:12:53"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Je moet betalen om verder te kunnen leren...",
+      "date": "2021-06-14T21:12:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I would recomend this for learning labguadges, this app is amazing!!🤍",
+      "date": "2021-06-13T17:05:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I love it it Helps a lot",
+      "date": "2021-05-24T14:13:07"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Ik kan het helaas niet betalen. In dat geval is Duolingo toch een betere keus als ik een taal wil leren. Het is een hele goede app, maar jammer dat ik moet betalen om een taal te leren.",
+      "date": "2021-04-20T22:05:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goed",
+      "date": "2021-04-15T21:34:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I'm learning Korean perfectly thanks a lots. 🙌 But can you please add Korean for lusófonos all the lesson please..... because it's gonna help me a lot. But for the rest the app is amazing. Keep it up this app is amazing♡",
+      "date": "2021-04-12T18:27:19"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Ik wilde proberen om een jaar lingodeer te doen, in dacht dat dat per maand er af zou gaan, ik heb het nu meteen opgezegd. Ik wil graag weten of ik dat geld meteen terug krijg?",
+      "date": "2021-04-06T18:02:43"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app, functions really well",
+      "date": "2021-02-16T16:02:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It works really good to me but its hard tho",
+      "date": "2021-02-10T10:02:44"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het is leuk",
+      "date": "2020-12-06T16:32:53"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super app with good structure, motivating, fun, with enough variation to gradually build up knowledge. To become addicted to learning.",
+      "date": "2020-11-12T18:08:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Veel prettiger om zo Koreaans te leren.",
+      "date": "2020-10-20T16:36:53"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuk je kan er veel leren dus ja ik geef het een 4",
+      "date": "2020-09-24T22:08:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great for Vietnamese",
+      "date": "2020-09-11T08:57:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Its feryy easy yet challenging expecially if u are a beginner",
+      "date": "2020-08-30T02:28:05"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "there should be an easier way to learn and write ひりがな and カタカナ but its perfect otherwise！",
+      "date": "2020-06-24T20:21:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very usefull when you go premium",
+      "date": "2020-06-13T17:09:24"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app! Bite-sized lessons and all skills get tested. Really love how each chapter has a short story and you can record your pronunciation!",
+      "date": "2020-05-11T05:47:50"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Nice",
+      "date": "2020-04-23T20:27:58"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Used to be a great app. But since premium came you can't do all the lessons anymore. Even though it was so effective. Such a shame",
+      "date": "2020-04-19T20:49:18"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "free-mium",
+      "date": "2020-04-18T01:11:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Really good app. Wish they also had a book to follow the app",
+      "date": "2020-04-12T10:43:48"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Would be better if you add Arabic and Turkish.",
+      "date": "2020-04-04T16:55:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Best app to learn any language ever. I am having so much fun learning Japanese!",
+      "date": "2020-03-23T17:59:42"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Arigato shimasu Lingo deer, это отлично спасибо линго деер",
+      "date": "2020-03-22T18:52:04"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Je leert er wel van, Maar niet veel want ik was bij eten en drinken en toen moest ik betalen. Ik ga niet betalen voor een app die me nog niet eens het maximale leert.",
+      "date": "2020-02-02T13:27:08"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Good",
+      "date": "2020-01-27T14:39:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I love Lingodeer to learn Spanish. It's easy & fun. 😊",
+      "date": "2019-12-16T21:16:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het is een geweldige app om nieuwe talen te leren! Ik raad deze app zeker aan!",
+      "date": "2019-12-15T11:32:46"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Een super goede app.",
+      "date": "2019-12-09T22:22:39"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "An ad keeps popping up when i want to move on to the next chapter? Like i can't move on unless I pay a monthly 'spring deal'. So all the lessons aren't free anymore? Too bad.",
+      "date": "2019-11-04T14:39:23"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great",
+      "date": "2019-10-21T11:34:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "So far very good. I like this,thank you.",
+      "date": "2019-09-06T21:10:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "echt een top app",
+      "date": "2019-08-14T12:51:16"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Good until I had to pay -_-",
+      "date": "2019-08-09T23:26:41"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great and complete learning app",
+      "date": "2019-08-07T19:19:00"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "ik vind het gewoon erg kut dat je niet vanuit het nederlands kunt zingen",
+      "date": "2019-08-04T21:38:46"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Hele handige app om talen mee te leren!",
+      "date": "2019-08-01T22:51:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I tried many apps, but this is the best one so far for learning Korean, they learn you quite a lot, but they are not going too fast, so you don't understand. The words are nicely introduced and overall it's a great app!",
+      "date": "2019-07-30T22:43:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very good up until now, great exercise structure and explanation!",
+      "date": "2019-07-02T19:54:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Excellent app! It teaches you useful words and sentences while carefully explaining the grammar behind it. Perfectly suitable for beginners, intermediates and advanced learners!",
+      "date": "2019-06-28T12:26:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "excellent app with many options to repeat learned words and phrases. please expant the possibility to practise speach through correction by the app.",
+      "date": "2019-06-23T11:08:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Good beginners app to learn a new language.",
+      "date": "2019-06-20T21:08:53"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I suddenly have to pay for the lessons and I'm not happy about it!",
+      "date": "2019-06-20T07:00:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Best japanese learning app ever!",
+      "date": "2019-06-17T17:14:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "up till now really great!",
+      "date": "2019-06-09T19:52:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "my favorite app to learn Japanese!",
+      "date": "2019-06-06T23:37:44"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super!",
+      "date": "2019-05-27T17:11:18"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It is a more fun way to learn a language",
+      "date": "2019-05-25T14:10:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "such a good app to learn ❤",
+      "date": "2019-05-25T11:59:23"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "watashi wa ni ho ku ji desu",
+      "date": "2019-05-24T21:38:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het is makkelijk en werkt goed.",
+      "date": "2019-05-23T16:50:23"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "i'm from Belgium and i really like the korean language and know i can learn it , it's a super good app ! i know the korean alphabet inside out !",
+      "date": "2019-05-21T18:18:28"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app!",
+      "date": "2019-05-20T10:56:16"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "teveel reclame",
+      "date": "2019-05-12T23:26:23"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "great",
+      "date": "2019-05-12T14:33:45"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:51:09 using advanced analytics*

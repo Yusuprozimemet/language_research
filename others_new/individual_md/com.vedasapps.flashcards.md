@@ -1,0 +1,177 @@
+# Noji: Study with Flashcards
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | Noji: Study with Flashcards | N/A |
+| **Package/ID** | com.vedasapps.flashcards | N/A |
+| **Rating** | 3.745614 | N/A |
+| **Total Ratings** | 24,896 | N/A |
+| **Installs** | 1,000,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+Noji - is the flashcards app that based on an enhanced spaced repetition algorithm and allows you to increase vocabulary in learning languages, prepare for exams and study new materials. Noji app could be an effective study helper tool and avoid managing physical note cards by using digital index cards.
+You can get all the benefits from our app:
+
+- Study with cards: create, customize and share your own flashcard decks or download over 50000 of decks compiled for learning languages and different topics.
+- Spaced repetition: In our app you create flash cards and the in-built algorithm manages everything else. It understands what piece of information you are about to forget and shows you the very index cards right on time and helps you to memorize it.
+- Share decks: share any of your sets with your friends, schoolmates or language learners just like you.
+- Study modes: Use different review modes to keep you engaged while studying, which includes: writing review, multiple answers, audio player, and the good old review.
+- Learning Languages: It helps you with improving your language learning and increasing or building up your vocabulary. Study English, Spanish, German, Kanji, Chinese, Russian, Hindi, Portuguese and more.
+You’ll feel all the power of spaced repetition method with our flashcard app, if you are:
+- Students - download the app on your device and be a part of the thousands of students who succeed with preparing for exams and learning languages.
+- Teachers - make your database of knowledge using cards and share them with your students.
+- Language learners - flashcards are the best way to increase vocabulary and learn languages on the go. You can find a hundred pre-made decks with different languages, or upload and create your own and share them with language learners just like you.
+
+Our app interface is simple and clear but the same it is extremely powerful in learning languages, preparing for exams and it could become a real study helper tool for you. It helps you manage thousands of flashcards without wasting time on their management. You can create index cards on mobile phones and tablets. Also we have Portuguese localization, German localization, French localization, Spanish localization and Chinese localization.
+Join our community of thousands of students around the world who succeed with spaced repetition method of study. We also love getting personalized feedback, so don't be shy to message us right in the app! We personally answer all messages.
+Get the Noji app and master flashcards on the go.
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 8 (8 analyzed)
+**Rating Distribution:** 4 positive (4-5★), 1 neutral (3★), 3 negative (1-2★)
+**Average Sentiment:** 0.23 (-1=very negative, +1=very positive)
+**Primary Language:** en
+**Key Insights:** Average rating: 3.4/5.0 | Overall sentiment: positive (score: 0.23) | Reviews in 3 languages, primarily en (6 reviews) | Reviews from 1 platform(s): google | Key themes: app, recommend, cards
+
+
+### 🔑 Key Themes & Phrases
+
+- **app** (relevance: 0.275)
+- **recommend** (relevance: 0.155)
+- **cards** (relevance: 0.135)
+- **anki** (relevance: 0.130)
+- **like** (relevance: 0.124)
+- **lost** (relevance: 0.122)
+- **using** (relevance: 0.116)
+- **paying** (relevance: 0.113)
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 4 reviews (50.0%)
+- **3 ★★★☆☆**: 1 reviews (12.5%)
+- **2 ★★☆☆☆**: 1 reviews (12.5%)
+- **1 ★☆☆☆☆**: 2 reviews (25.0%)
+
+### 🌍 Languages in Reviews
+
+- **en**: 6 reviews
+- **unknown**: 1 reviews
+- **ru**: 1 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 8 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/Noji__Study_with_Flashcards_analytics.png)
+
+### Word Cloud
+![Word Cloud](charts/Noji__Study_with_Flashcards_wordcloud.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★★★★★ - google - 2025-07-19T15:32:48)
+> I enjoy using this app because it helps me study effectively. Reminders help and I especially appreciate the built in intervals for repeating the cards
+
+**Review 2** (★ - google - 2025-02-12T11:26:58)
+> Quite a bad app. I dont know what is pro about this. First of all it only works when you are online, second, after about 3 weeks you get a sudden guest maximum reached. So you cant continue using the app without paying at all! Terrible idea... but I get it, they have to pay for their commercials som...
+
+**Review 3** (★★★★★ - google - 2024-09-12T13:27:16)
+> excellent
+
+**Review 4** (★★ - google - 2023-09-01T15:32:28)
+> This is not the original Anki app. It is a rip off. I recommend Anki desktop or for Android since those are free and work better.
+
+**Review 5** (★ - google - 2023-07-04T15:37:37)
+> progress keeps getting lost, I recommend not paying for this
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "Noji: Study with Flashcards",
+  "google_package": "com.vedasapps.flashcards",
+  "google": {
+    "title": "Noji: Study with Flashcards",
+    "description": "Noji - is the flashcards app that based on an enhanced spaced repetition algorithm and allows you to increase vocabulary in learning languages, prepare for exams and study new materials. Noji app could be an effective study helper tool and avoid managing physical note cards by using digital index cards.\r\nYou can get all the benefits from our app:\r\n\r\n- Study with cards: create, customize and share your own flashcard decks or download over 50000 of decks compiled for learning languages and different topics.\r\n- Spaced repetition: In our app you create flash cards and the in-built algorithm manages everything else. It understands what piece of information you are about to forget and shows you the very index cards right on time and helps you to memorize it.\r\n- Share decks: share any of your sets with your friends, schoolmates or language learners just like you.\r\n- Study modes: Use different review modes to keep you engaged while studying, which includes: writing review, multiple answers, audio player, and the good old review.\r\n- Learning Languages: It helps you with improving your language learning and increasing or building up your vocabulary. Study English, Spanish, German, Kanji, Chinese, Russian, Hindi, Portuguese and more.\r\nYou’ll feel all the power of spaced repetition method with our flashcard app, if you are:\r\n- Students - download the app on your device and be a part of the thousands of students who succeed with preparing for exams and learning languages.\r\n- Teachers - make your database of knowledge using cards and share them with your students.\r\n- Language learners - flashcards are the best way to increase vocabulary and learn languages on the go. You can find a hundred pre-made decks with different languages, or upload and create your own and share them with language learners just like you.\r\n\r\nOur app interface is simple and clear but the same it is extremely powerful in learning languages, preparing for exams and it could become a real study helper tool for you. It helps you manage thousands of flashcards without wasting time on their management. You can create index cards on mobile phones and tablets. Also we have Portuguese localization, German localization, French localization, Spanish localization and Chinese localization.\r\nJoin our community of thousands of students around the world who succeed with spaced repetition method of study. We also love getting personalized feedback, so don't be shy to message us right in the app! We personally answer all messages.\r\nGet the Noji app and master flashcards on the go.",
+    "rating": 3.745614,
+    "rating_text": null,
+    "ratings_total": 24896,
+    "ratings_histogram": [
+      6105,
+      979,
+      759,
+      2288,
+      14730
+    ],
+    "installs": "1,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I enjoy using this app because it helps me study effectively. Reminders help and I especially appreciate the built in intervals for repeating the cards",
+      "date": "2025-07-19T15:32:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I've been using Noji for about 2 months now and honestly, it's been a game changer for my exam prep. The design is super clear, making it easy to get lost in my studies without feeling overwhelmed. I especially love how smooth the app performs, no lag or crashes. Please make it a free applicati. mode is a lifesaver too since I can study on the go without internet. It's helped me drill down on some tough subjects like immune system stuff. Highly recommend for anyone needing a solid flashcard app!",
+      "date": "2025-07-19T11:04:56"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Quite a bad app. I dont know what is pro about this. First of all it only works when you are online, second, after about 3 weeks you get a sudden guest maximum reached. So you cant continue using the app without paying at all! Terrible idea... but I get it, they have to pay for their commercials some way. I'd recommend anyone to just try the normal anki app. Maybe this app is good when you pay for it though...",
+      "date": "2025-02-12T11:26:58"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "I like the app, the only thing it is missing is the option to download general algorithm cards.",
+      "date": "2024-12-11T15:37:56"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "excellent",
+      "date": "2024-09-12T13:27:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "удобный мобильный словарь",
+      "date": "2024-02-19T17:23:27"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "This is not the original Anki app. It is a rip off. I recommend Anki desktop or for Android since those are free and work better.",
+      "date": "2023-09-01T15:32:28"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "progress keeps getting lost, I recommend not paying for this",
+      "date": "2023-07-04T15:37:37"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:52:21 using advanced analytics*

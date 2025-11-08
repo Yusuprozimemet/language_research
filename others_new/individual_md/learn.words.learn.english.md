@@ -1,0 +1,89 @@
+# Learn English Vocabulary,Words
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | Learn English Vocabulary,Words | N/A |
+| **Package/ID** | learn.words.learn.english | N/A |
+| **Rating** | 4.66 | N/A |
+| **Total Ratings** | 2,676 | N/A |
+| **Installs** | 500,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+Learn English Vocabulary Recite 10000 Words is an app based on AI and the theory of Ebbinghaus✌️ forgetting curve, focus on helping you learn and memorize English words EASILY and QUICKLY🚀;
+Learn English Vocabulary provide multi ways to help you remember words, such as picture, Mind Map, AI-generated articles, quotes by famous people, example sentence, roots and affixes, synonym, word group etc,  and it will intelligently arrange you to review words in time to achieve good long-term memory☺️. 
+
+🔥 Learn English Vocabulary Recite 10000 Words contains many word library📚, such as Oxford, Collins, IELTS, TOEFL, GRE, etc, the most one has 15000+ words, each word contains definitions, illustrations, pronunciations and example sentences to help you master new words quickly. You can choose suitable word library for learning. After each learning, it provide a variety of interesting and smart tests.
+
+🌟🌟🌟🌟🌟 Learn English Vocabulary Recite 10000 Words' features:   
+- Learn and review according to the Ebbinghaus✌️ brain forgetting curve
+- Learn English words with the help of AI,  AI-generated articles and words Mind Map
+- Learn English Vocabulary Recite 10000 Words provide 3 learning modes: 
+     -- Ebbinghaus Mode(recite words 4 times a day)
+     -- Moderate Mode(recite words 2 times a day) 
+     -- Simple Mode(recite words 1 time a day)
+- Provide learning plan based on the word library and the number of words you plan to learn per day
+- AI Learn English Vocabulary Recite 10000 Words analyze your learning progress to adjust you learning plan intelligently🔥, so that you can remember words easily and quickly🚀
+- You can select multi words and let AI generated articles to help you learn effectively
+- Strengthen the memory of words through smart tests
+- Remember vocabulary through related illustrations picture
+- Classify words to total list, unfamiliar list, and mastered lists, mark the words you proficient as "mastered" to reduce the words amount of learning
+- AI Learn English Vocabulary Recite 10000 Words provide definitions for each word, 20+ language support
+- English-English definitions from the dictionary
+- Example sentences are provided for each word
+- Listen to standard English audio🔊, provide British and American phonetic symbols and pronunciation
+- You can search🔍 English words like in an English dictionary
+- You can create your own learning list in Learn English Build Vocabulary
+- You can select a word library that suits you
+- You can set how many words to learn every day in Learn English Words
+- Set the starting learning time of each day
+- Provide multiple font sizes
+- Learn more, you get more gold coins to exchange lovely virtual classmates, and at the same time, you boost your learning experience level
+
+❤️ We hope AI Learn English Vocabulary Recite 10000 Words can help you learn English words easily and quickly.  
+Your comments and rating are welcomed to make Learn English Vocabulary Recite 10000 Words better and better. Thanks a lot
+
+Disclaimer:
+GRE® is a registered trademark of the Educational Testing Service (ETS). ETS does not endorse, nor is it affiliated in any way with this application.
+
+## 📊 Reviews Analytics
+
+No reviews available for analysis.
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "Learn English Vocabulary,Words",
+  "google_package": "learn.words.learn.english",
+  "google": {
+    "title": "Learn English Vocabulary,Words",
+    "description": "Learn English Vocabulary Recite 10000 Words is an app based on AI and the theory of Ebbinghaus✌️ forgetting curve, focus on helping you learn and memorize English words EASILY and QUICKLY🚀;\r\nLearn English Vocabulary provide multi ways to help you remember words, such as picture, Mind Map, AI-generated articles, quotes by famous people, example sentence, roots and affixes, synonym, word group etc,  and it will intelligently arrange you to review words in time to achieve good long-term memory☺️. \r\n\r\n🔥 Learn English Vocabulary Recite 10000 Words contains many word library📚, such as Oxford, Collins, IELTS, TOEFL, GRE, etc, the most one has 15000+ words, each word contains definitions, illustrations, pronunciations and example sentences to help you master new words quickly. You can choose suitable word library for learning. After each learning, it provide a variety of interesting and smart tests.\r\n\r\n🌟🌟🌟🌟🌟 Learn English Vocabulary Recite 10000 Words' features:   \r\n- Learn and review according to the Ebbinghaus✌️ brain forgetting curve\r\n- Learn English words with the help of AI,  AI-generated articles and words Mind Map\r\n- Learn English Vocabulary Recite 10000 Words provide 3 learning modes: \r\n     -- Ebbinghaus Mode(recite words 4 times a day)\r\n     -- Moderate Mode(recite words 2 times a day) \r\n     -- Simple Mode(recite words 1 time a day)\r\n- Provide learning plan based on the word library and the number of words you plan to learn per day\r\n- AI Learn English Vocabulary Recite 10000 Words analyze your learning progress to adjust you learning plan intelligently🔥, so that you can remember words easily and quickly🚀\r\n- You can select multi words and let AI generated articles to help you learn effectively\r\n- Strengthen the memory of words through smart tests\r\n- Remember vocabulary through related illustrations picture\r\n- Classify words to total list, unfamiliar list, and mastered lists, mark the words you proficient as \"mastered\" to reduce the words amount of learning\r\n- AI Learn English Vocabulary Recite 10000 Words provide definitions for each word, 20+ language support\r\n- English-English definitions from the dictionary\r\n- Example sentences are provided for each word\r\n- Listen to standard English audio🔊, provide British and American phonetic symbols and pronunciation\r\n- You can search🔍 English words like in an English dictionary\r\n- You can create your own learning list in Learn English Build Vocabulary\r\n- You can select a word library that suits you\r\n- You can set how many words to learn every day in Learn English Words\r\n- Set the starting learning time of each day\r\n- Provide multiple font sizes\r\n- Learn more, you get more gold coins to exchange lovely virtual classmates, and at the same time, you boost your learning experience level\r\n\r\n❤️ We hope AI Learn English Vocabulary Recite 10000 Words can help you learn English words easily and quickly.  \r\nYour comments and rating are welcomed to make Learn English Vocabulary Recite 10000 Words better and better. Thanks a lot\r\n\r\nDisclaimer:\r\nGRE® is a registered trademark of the Educational Testing Service (ETS). ETS does not endorse, nor is it affiliated in any way with this application.",
+    "rating": 4.66,
+    "rating_text": null,
+    "ratings_total": 2676,
+    "ratings_histogram": [
+      100,
+      25,
+      75,
+      225,
+      2200
+    ],
+    "installs": "500,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": []
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:52:48 using advanced analytics*

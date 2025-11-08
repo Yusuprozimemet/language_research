@@ -1,0 +1,35 @@
+{
+  "name": "Learn German for Beginners",
+  "google_package": "com.german.zeemish",
+  "google": {
+    "title": "Learn German for Beginners",
+    "description": "Learn German with the world’s most effective language learning educational app for Free. This app is an ultimate  quick German learning package for absolute beginners. Whether you are a beginner or an intermediate German speaker this program will help you to be an expert in German language. You can practice Speaking, Listening, Reading and writing in order to build your vocabulary and grammar skills. Now With Free German Translator.\r\n\r\nLearn German for Beginner is Designed by experts to help travellers, school students and even if you need fast, easy and quick German learning guide this app is perfect for you.\r\n\r\nWhy Learn German for Beginner?\r\n- 100% Free German Learning\r\n- 100% Offline\r\n- No Account Needed, No Sign In, No Sign Up\r\n- You will learn German from Scratch, No prior knowledge of German needed.\r\n- Free German Translator Included. Translate anything, anywhere, whenever you want.\r\n- 10,000+ German Vocabulary\r\n- Fun and effective game like lessons.\r\n\r\nLearn how to speak German with lessons, courses, audio, activities and quizzes. Including German Alphabet, phrases, vocabulary, pronunciation, parts of speeches, grammar and many more. The App is divided in several classes to give you the easy and quick learning experience.",
+    "rating": 4.68,
+    "rating_text": null,
+    "ratings_total": 11192,
+    "ratings_histogram": [
+      331,
+      211,
+      211,
+      1116,
+      9276
+    ],
+    "installs": "500,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goed voor zinnen",
+      "date": "2019-11-27T11:48:19"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Das is de beste spul ig haben gehad :D echt kei handig",
+      "date": "2015-11-19T20:58:31"
+    }
+  ]
+}

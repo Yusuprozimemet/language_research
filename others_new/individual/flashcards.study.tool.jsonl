@@ -1,0 +1,29 @@
+{
+  "name": "Cogni: Study with Flashcards",
+  "google_package": "flashcards.study.tool",
+  "google": {
+    "title": "Cogni: Study with Flashcards",
+    "description": "Cogni: Study with Flashcards is the ultimate spaced repetition app for learning smarter, not harder. Whether you're studying languages, preparing for exams, or diving into complex topics, this powerful flash card and note card app helps you retain information long-term using active recall and AI-enhanced algorithms.\r\n\r\nFrom Japanese flashcards to medical terminology flashcards, our app supports all your learning goals! Here are some of our key features:\r\n\r\n<b> 🎨 Flash Cards Maker </b>\r\n\r\nCreate, customize, and study your own notes and index cards. Add images, bullet points, and colors to match your learning style.\r\n    \r\n<b> 📥 Access 50,000+ Ready-to-Use Flashcard Decks </b>\r\n    \r\nInstantly jump into learning with thousands of pre-made decks—covering everything from anatomy flashcard sets and pharmacology flash cards to SAT flashcards and MCAT flashcards.\r\n    \r\n<b> ⏰ Smart Spaced Repetition System (SRS) </b>\r\n\r\nOur built-in algorithm ensures you review each card just before you forget it—boosting memory retention with science-backed efficiency.\r\n    \r\n<b> 📶 Offline Mode </b>\r\n    \r\nDownload your decks and study anywhere, anytime—even without internet. Ideal for travel, commuting, or offline focus sessions.\r\n    \r\n<b> 📱 Smooth, Powerful Interface </b>\r\n    \r\nManage thousands of study cards easily. Our modern interface is simple for beginners and robust for power users—designed to make learning effortless.\r\n\r\n<b>  Learn Languages & Improve Your Vocabulary  </b> \r\n\r\nMaster a new language or expand your vocabulary with expertly designed vocabulary flashcards. Whether you're a beginner or looking to level up, our curated decks make language learning efficient and fun.\r\n\r\nChoose from hundreds of language decks:\r\n\r\n- 🇬🇧 English Flashcards\r\n- 🇯🇵 Japanese Flashcards\r\n- 🇩🇪 German Flashcards\r\n- 🇪🇸 Spanish Flashcards\r\n- 🇫🇷 French Flashcards\r\n\r\n<b>  Perfect for Medical, Nursing & Pre-Med Students  </b> \r\n\r\nIf you're in medicine, nursing, or preparing for medical school, flashcards is your ideal study partner. Memorize complex concepts quickly with flashcard decks designed specifically for health sciences and pre-med topics.\r\n\r\nKey decks include:\r\n\r\n- Nursing Flashcards – Cover procedures, clinical practices, pharmacology, and NCLEX prep.\r\n- Medical Terms Flashcards – Quickly learn essential terminology used across healthcare settings.\r\n- Medical Terminology Flashcards – Master prefixes, suffixes, and roots common to medical language.\r\n- Pharmacology Flash Cards – Study drug names, side effects, interactions, and classifications.\r\n- Daily Anatomy Flashcards – Reinforce anatomical knowledge system by system, every day.\r\n- Anatomy Flashcard Sets – Explore in-depth human anatomy with structured, easy-to-review cards.\r\n- MCAT Flashcards – Ace your MCAT exam with focused decks on biology, chemistry, physics, psychology, and critical thinking skills. Designed using spaced repetition and active recall methods to maximize prep time and memory retention.\r\n\r\nWhether you're deep in a nursing program or just beginning your pre-med journey, our AI flashcard system ensures you're reviewing the right information at the right time—with less effort and better results.\r\n\r\n<b>  Cogni Flashcards - Study Smarter  </b> \r\n\r\nWith Cogni Flashcards, you have everything you need to memorize anything—faster and more effectively. Whether you're studying with medical terminology flashcards, mastering a new language, or preparing for tough exams, our AI flashcard system adapts to your progress to deliver optimal results!",
+    "rating": 4.6380954,
+    "rating_text": null,
+    "ratings_total": 2521,
+    "ratings_histogram": [
+      142,
+      0,
+      67,
+      187,
+      2108
+    ],
+    "installs": "100,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Niet persee leuk maar wel handig voor school vind ik zelf je kunt met AI een goed prompt schrijven waardoor je heel goede flashcards kan maken!!!",
+      "date": "2025-06-28T18:25:59"
+    }
+  ]
+}

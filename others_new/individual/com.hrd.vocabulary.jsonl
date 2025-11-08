@@ -1,0 +1,77 @@
+{
+  "name": "Vocabulary - Learn words daily",
+  "google_package": "com.hrd.vocabulary",
+  "google": {
+    "title": "Vocabulary - Learn words daily",
+    "description": "Ready to elevate your word power? The key to successfully expanding your vocabulary is learning new words in a way that stimulates your attention. Studies show that the most effective way of learning new words is with an app that’s specifically designed for that.\r\n\r\n\r\nWith the Vocabulary app, you can:\r\n\r\n- Learn new words with minimal time investment, simply scrolling through your phone\r\n- Choose your own level of difficulty, based on your current English language mastery\r\n- Select Vocabulary categories that best suit your needs and interests\r\n- Speak and write more concisely and confidently, with the right word at your fingertips\r\n- Meet your linguistic goals at your own pace\r\n- Customize the app’s features and make it work for you\r\n\r\nThe Vocabulary app will turn learning and retaining new words into a fun activity that will allow you to “wow” your friends and co-workers.\r\n\r\n*It works on Wear OS: you can use it on your watch.",
+    "rating": 4.6952615,
+    "rating_text": null,
+    "ratings_total": 89419,
+    "ratings_histogram": [
+      2479,
+      1163,
+      2187,
+      9421,
+      74145
+    ],
+    "installs": "1,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Hello, I do like the interface of the app, but it just repeats the same words in the exercises. I tried to fix it but dot know how. Maybe its a bug?",
+      "date": "2025-10-02T11:09:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "enjoyable",
+      "date": "2025-07-27T14:14:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "amazing app for words you never heard but are important",
+      "date": "2025-06-05T14:13:56"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "De app ziet er keurig uit, maar sommige woorden hebben een te beknopte uitleg en de stem is een beetje saai. Desondanks vind ik het nu al een geweldige app!",
+      "date": "2024-08-25T22:13:03"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "nice to learn new words",
+      "date": "2024-01-19T13:18:09"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "3 advertenties in 1 minuut",
+      "date": "2023-10-12T20:30:51"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "aesthetic",
+      "date": "2023-06-17T11:00:53"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Betalend",
+      "date": "2023-03-27T21:31:33"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Good application, it gives u very useful words wich u can actually use in rl.",
+      "date": "2023-01-21T21:49:26"
+    }
+  ]
+}

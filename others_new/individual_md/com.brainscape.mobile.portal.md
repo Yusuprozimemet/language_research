@@ -1,0 +1,326 @@
+# Brainscape: Smarter Flashcards
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | Brainscape: Smarter Flashcards | N/A |
+| **Package/ID** | com.brainscape.mobile.portal | N/A |
+| **Rating** | 4.730038 | N/A |
+| **Total Ratings** | 12,460 | N/A |
+| **Installs** | 1,000,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+Delete your old flashcard apps! Brainscape has the <b>SMARTEST</b> AI-powered flashcard maker, the <b>BEST</b> marketplace of expert flashcards, and the <b>MOST EFFECTIVE</b> spaced repetition study algorithm on the planet.
+
+<u>How does it work?</u> Brainscape’s intelligent study system has been designed in accordance with decades of proven cognitive science to help you learn faster and remember longer than with any other flashcard app. (And we don’t waste time on games. Our flashcards are for serious learners.)
+
+Brainscape distills any subject down into bite-sized facts (neatly organized into decks and classes), which are posed as question-and-answer pairs, compelling you to actively recall information from scratch. You then rate how well you know each concept on a scale of 1 to 5, and Brainscape determines the perfect time interval at which to repeat that flashcard again.
+If you know the answer well, you’ll see that flashcard less often; if you don’t know it well, you’ll see it again and again, at frequent intervals, until it’s deeply ingrained into your brain. And it’s this totally unique combination of active recall, self-assessment (metacognition), and spaced repetition that is scientifically proven to significantly slash your required study time!
+Where do all of Brainscape’s awesome flashcards come from? Three places:
+
+<b>THE WORLD’S TOP EXPERTS</b>. Brainscape partners with top publishers, schools, and educators to create comprehensive collections of certified flashcards for a diverse array of subjects, from foreign languages (we are the best language-learning tool in the world) to high-stakes exams like the AP series, MBE (bar exam), Series 7, NCLEX, MCAT, and more.
+
+<b>YOUR PEERS</b>. Top students, professors, teachers, tutorpreneurs, and businesses around the world have created over 1 million subjects that are available to search on Brainscape’s Knowledge Genome.
+
+<b>YOU!</b> You can easily create and organize thousands of multimedia flashcards featuring text, images, and even audio files, both on Brainscape’s website AND within the app itself. You can also share your decks with your classmates and collaboratively develop content together.
+
+<u>How much does it cost?</u> Creating and sharing great text flashcards is <b>FREE</b>. (Woohoo! And sorry, we do have to charge for image creation for security reasons.) And for unlimited access to ALL of Brainscape's user-generated and premium, expert-curated content, as well as optional features, like bookmarks and card reversibility--or to me your content private, you can upgrade to Pro for $19.99 (monthly), $59.99 (every 6 months), or $95.99 (annually). Alternatively, you can unlock a LIFETIME of learning with Brainscape for a one-time cost of only $199.99 American dolla billz.
+
+<u>The fine print</u>: The 3 recurring subscriptions (monthly, semiannual, and annual) will renew automatically within 24 hours before the end of the current period, unless auto-renew is turned off at least 24 hours before the end of the period. You can cancel auto-renewal any time by going to Account Settings, and the cancellation will apply after the active subscription period is complete. Go ahead and learn more about our Terms and Privacy Policy at brainscape.com/terms.
+
+<u>What’s on the horizon?</u> It’s our vision to empower everyone, everywhere to rise to the challenge of personalized forever-learning. And for this reason, we love hearing from our user community: it’s through your feedback that we can continue to innovate our platform to be more convenient, efficient, and even fun and social to use!
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 32 (32 analyzed)
+**Rating Distribution:** 27 positive (4-5★), 2 neutral (3★), 3 negative (1-2★)
+**Average Sentiment:** 0.29 (-1=very negative, +1=very positive)
+**Primary Language:** en
+**Key Insights:** Average rating: 4.4/5.0 | Overall sentiment: positive (score: 0.29) | Reviews in 4 languages, primarily en (15 reviews) | Reviews from 1 platform(s): google | Key themes: app, good, learn
+
+
+### 🔑 Key Themes & Phrases
+
+- **app** (relevance: 0.233)
+- **good** (relevance: 0.082)
+- **learn** (relevance: 0.062)
+- **use** (relevance: 0.057)
+- **just** (relevance: 0.056)
+- **great** (relevance: 0.054)
+- **great app** (relevance: 0.054)
+- **te** (relevance: 0.051)
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 23 reviews (71.9%)
+- **4 ★★★★☆**: 4 reviews (12.5%)
+- **3 ★★★☆☆**: 2 reviews (6.2%)
+- **2 ★★☆☆☆**: 2 reviews (6.2%)
+- **1 ★☆☆☆☆**: 1 reviews (3.1%)
+
+### 🌍 Languages in Reviews
+
+- **en**: 15 reviews
+- **nl**: 9 reviews
+- **unknown**: 5 reviews
+- **af**: 3 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 32 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/Brainscape__Smarter_Flashcards_analytics.png)
+
+### Word Cloud
+![Word Cloud](charts/Brainscape__Smarter_Flashcards_wordcloud.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★★★★ - google - 2025-11-03T06:41:54)
+> De app is erg makkelijk, overzichtelijk en fijn om mee te leren. De betaalde versie is wel prijzig.
+
+**Review 2** (★★★★★ - google - 2024-09-01T08:46:25)
+> Great app for studying! You can study desks of others and create your one. The app focuses on the questions you rated lower so you quickly also know these. Further it is easy to use.
+
+**Review 3** (★★★ - google - 2023-05-09T07:27:24)
+> Decent app, but too much is behind pay walls and I don't like how I can't remove cards I don't want to learn from decks. I'm sticking with Anki
+
+**Review 4** (★★★★★ - google - 2020-12-18T18:14:37)
+> Great app
+
+**Review 5** (★★★★ - google - 2017-06-26T07:30:26)
+> Good to learn content
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "Brainscape: Smarter Flashcards",
+  "google_package": "com.brainscape.mobile.portal",
+  "google": {
+    "title": "Brainscape: Smarter Flashcards",
+    "description": "Delete your old flashcard apps! Brainscape has the <b>SMARTEST</b> AI-powered flashcard maker, the <b>BEST</b> marketplace of expert flashcards, and the <b>MOST EFFECTIVE</b> spaced repetition study algorithm on the planet.\r\n\r\n<u>How does it work?</u> Brainscape’s intelligent study system has been designed in accordance with decades of proven cognitive science to help you learn faster and remember longer than with any other flashcard app. (And we don’t waste time on games. Our flashcards are for serious learners.)\r\n\r\nBrainscape distills any subject down into bite-sized facts (neatly organized into decks and classes), which are posed as question-and-answer pairs, compelling you to actively recall information from scratch. You then rate how well you know each concept on a scale of 1 to 5, and Brainscape determines the perfect time interval at which to repeat that flashcard again.\r\nIf you know the answer well, you’ll see that flashcard less often; if you don’t know it well, you’ll see it again and again, at frequent intervals, until it’s deeply ingrained into your brain. And it’s this totally unique combination of active recall, self-assessment (metacognition), and spaced repetition that is scientifically proven to significantly slash your required study time!\r\nWhere do all of Brainscape’s awesome flashcards come from? Three places:\r\n\r\n<b>THE WORLD’S TOP EXPERTS</b>. Brainscape partners with top publishers, schools, and educators to create comprehensive collections of certified flashcards for a diverse array of subjects, from foreign languages (we are the best language-learning tool in the world) to high-stakes exams like the AP series, MBE (bar exam), Series 7, NCLEX, MCAT, and more.\r\n\r\n<b>YOUR PEERS</b>. Top students, professors, teachers, tutorpreneurs, and businesses around the world have created over 1 million subjects that are available to search on Brainscape’s Knowledge Genome.\r\n\r\n<b>YOU!</b> You can easily create and organize thousands of multimedia flashcards featuring text, images, and even audio files, both on Brainscape’s website AND within the app itself. You can also share your decks with your classmates and collaboratively develop content together.\r\n\r\n<u>How much does it cost?</u> Creating and sharing great text flashcards is <b>FREE</b>. (Woohoo! And sorry, we do have to charge for image creation for security reasons.) And for unlimited access to ALL of Brainscape's user-generated and premium, expert-curated content, as well as optional features, like bookmarks and card reversibility--or to me your content private, you can upgrade to Pro for $19.99 (monthly), $59.99 (every 6 months), or $95.99 (annually). Alternatively, you can unlock a LIFETIME of learning with Brainscape for a one-time cost of only $199.99 American dolla billz.\r\n\r\n<u>The fine print</u>: The 3 recurring subscriptions (monthly, semiannual, and annual) will renew automatically within 24 hours before the end of the current period, unless auto-renew is turned off at least 24 hours before the end of the period. You can cancel auto-renewal any time by going to Account Settings, and the cancellation will apply after the active subscription period is complete. Go ahead and learn more about our Terms and Privacy Policy at brainscape.com/terms.\r\n\r\n<u>What’s on the horizon?</u> It’s our vision to empower everyone, everywhere to rise to the challenge of personalized forever-learning. And for this reason, we love hearing from our user community: it’s through your feedback that we can continue to innovate our platform to be more convenient, efficient, and even fun and social to use!",
+    "rating": 4.730038,
+    "rating_text": null,
+    "ratings_total": 12460,
+    "ratings_histogram": [
+      331,
+      47,
+      331,
+      1229,
+      10516
+    ],
+    "installs": "1,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "De app is erg makkelijk, overzichtelijk en fijn om mee te leren. De betaalde versie is wel prijzig.",
+      "date": "2025-11-03T06:41:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "it's an useful app, i had to learn 300 latin words and the app handelend it perfect!",
+      "date": "2025-10-02T17:13:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nice",
+      "date": "2025-04-05T11:57:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Being able to just make a photo of words and then the app turned it all in flashcards by itself is SUCH a wonderfull help!!",
+      "date": "2025-01-16T00:16:46"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Easy way to make cards from an excel",
+      "date": "2025-01-09T14:11:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Topp",
+      "date": "2024-10-30T20:37:18"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I love the app! I use it for college and I was looking for an app that would allow me to organize the flashcards by topic and by lesson. and with this app you can do that perfectly.",
+      "date": "2024-10-15T10:00:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very good 😊👌",
+      "date": "2024-10-09T11:42:33"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app for studying! You can study desks of others and create your one. The app focuses on the questions you rated lower so you quickly also know these. Further it is easy to use.",
+      "date": "2024-09-01T08:46:25"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Good app, but much too expensive to upgrade to full features. Pity.",
+      "date": "2024-05-24T09:56:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Actieve manier van leren heerlijk",
+      "date": "2024-04-01T22:28:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It is a simple app, perfect for studying!",
+      "date": "2024-02-22T07:51:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Just an amazing app to learn new words.",
+      "date": "2024-01-26T19:27:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ez to use",
+      "date": "2024-01-22T08:25:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top app en ook nog eens gratis!",
+      "date": "2024-01-17T12:56:08"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Niet mogelijk om foto´s toe te voegen in de gratis versie en VEEL te duur voor een pro-account.",
+      "date": "2023-07-31T22:12:41"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Decent app, but too much is behind pay walls and I don't like how I can't remove cards I don't want to learn from decks. I'm sticking with Anki",
+      "date": "2023-05-09T07:27:24"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Just discover this app and already learnt a lot",
+      "date": "2023-03-31T21:22:56"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top",
+      "date": "2023-03-11T19:41:20"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Er zit een bug in, app sluit telkens af",
+      "date": "2022-06-15T20:04:13"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Kwaliteit van de grafische vormgeving is niet hoog",
+      "date": "2022-02-23T09:30:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Helpful app for training",
+      "date": "2021-11-02T10:44:37"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It's a great app/platform to evolve your knowledge!",
+      "date": "2021-04-09T12:17:12"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It would be 5/5 if you could select all decks and practice them as a whole",
+      "date": "2021-01-18T17:09:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app",
+      "date": "2020-12-18T18:14:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "De gratis versie is al goed genoeg. Als je het veel wil gebruiken kan pro een optie zijn.",
+      "date": "2020-11-19T11:13:44"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "fantastische app, werkt zeer goed",
+      "date": "2019-05-30T15:30:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Hier haal ik al mijn tentamens mee",
+      "date": "2019-01-07T19:17:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Makkelijk om flashcards te maken en te bewerken via browsen. Ook de \nzelfevaluatie die eraan verbonden is, is handig. Gebruiksvriendelijke app \nom te studeren via smartphone of tablet.",
+      "date": "2018-04-28T23:36:18"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Love the way, it suits my way of learning, how it is set up",
+      "date": "2018-01-08T17:54:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goede inprentings app👍👍👍",
+      "date": "2017-07-04T12:29:30"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Good to learn content",
+      "date": "2017-06-26T07:30:26"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:49:15 using advanced analytics*

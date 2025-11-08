@@ -1,0 +1,760 @@
+# Learn Spanish - 11,000 Words
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | Learn Spanish - 11,000 Words | N/A |
+| **Package/ID** | com.funeasylearn.spanish | N/A |
+| **Rating** | 4.273585 | N/A |
+| **Total Ratings** | 37,305 | N/A |
+| **Installs** | 1,000,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+<b>Learn Spanish</b> from 61 native languages, for free & offline, with FunEasyLearn.
+
+Learn to <b>READ 📖 WRITE ✍ and SPEAK Spanish 💬</b>
+Discover the fun & easy way to learn all the reading rules, all the words you’ll ever need and all the useful phrases in the Spanish language.
+
+🚀 <b>Contents</b>
+• <b>6,000 Spanish words</b> (constantly growing): the most common nouns, verbs, adjectives, etc., categorized into 7 levels and 200 topics;
+• <b>5,000 Spanish phrases</b> (frequently used): the most important phrases for daily conversations and travelling, categorized into 10 levels and 120 topics.
+
+Enhance your vocabulary by learning words, sentences and expressions for beginner, intermediate and advanced learners. 
+
+🔔 <b>Why learn Spanish with FunEasyLearn?</b>
+FunEasyLearn reinvents language learning. Our team of linguists and teachers have developed a unique language learning strategy. The secret lies in combining an alphabet with all the reading rules, all the necessary words and a practical phrasebook into one app. This allows our users to read a word or phrase, pronounce it correctly, associate it with an illustration and practice it with listening, writing and speaking games. 
+
+🏆 <b>Top features</b>
+<b>Hand-drawn illustrations</b> – memorize the new vocabulary faster with intuitive illustrations;
+<b>Professional audio recordings</b> – listen to audios recorded by native speakers;
+<b>Detailed statistics</b> – analyze your results and track your progress;
+<b>Review manager</b> – review everything you learn;
+<b>Smart search</b> – find quickly the words and phrases you need;
+<b>Hide what you know</b> – hide the content you already know;
+<b>Speech recognition</b> – improve your pronunciation;
+<b>Offline</b> – use the app anywhere in the world, with no internet connection.
+
+💼 <b>Spanish for business</b>
+Get access to special Spanish lessons created for your business. We provide specialized courses for taxi drivers, hotel & restaurant staffs, flight-attendants, shop-assistants, etc.
+
+✈ <b>Spanish for travelling</b>
+Learn how to book a hotel room, order a meal in a restaurant, ask for directions, carry out a conversation and speak confidently with the native speakers.
+
+🙌 <b>Spanish for adults</b>
+We adapt the contents depending on the age of the learner. Both you and your kid can learn Spanish and have fun.
+
+<b>FunEasyLearn Free Subscription</b>
+<b>Subscribe for FREE</b>, with the flowers you earn while playing language learning games. 
+
+Learn Spanish, play for free! It’s fast & easy. 📴
+
+📥 <b>Download the FunEasyLearn Spanish course right now!</b>
+Recommend the app to your friends and get a reward.
+Rate us and write a review ⭐⭐⭐⭐⭐ It would mean a lot to our team!
+
+Contact us: 
+https://www.FunEasyLearn.com/
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 100 (100 analyzed)
+**Rating Distribution:** 86 positive (4-5★), 3 neutral (3★), 11 negative (1-2★)
+**Average Sentiment:** 0.09 (-1=very negative, +1=very positive)
+**Primary Language:** nl
+**Key Insights:** Average rating: 4.4/5.0 | Overall sentiment: neutral (score: 0.09) | Reviews in 9 languages, primarily nl (58 reviews) | Reviews from 1 platform(s): google | Key themes: leuk, app, en
+
+
+### 🔑 Key Themes & Phrases
+
+- **leuk** (relevance: 0.097)
+- **app** (relevance: 0.087)
+- **en** (relevance: 0.087)
+- **leuke** (relevance: 0.070)
+- **leren** (relevance: 0.068)
+- **te** (relevance: 0.053)
+- **om** (relevance: 0.048)
+- **spaans** (relevance: 0.043)
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 69 reviews (69.0%)
+- **4 ★★★★☆**: 17 reviews (17.0%)
+- **3 ★★★☆☆**: 3 reviews (3.0%)
+- **2 ★★☆☆☆**: 6 reviews (6.0%)
+- **1 ★☆☆☆☆**: 5 reviews (5.0%)
+
+### 🌍 Languages in Reviews
+
+- **nl**: 58 reviews
+- **unknown**: 14 reviews
+- **af**: 14 reviews
+- **en**: 9 reviews
+- **sv**: 1 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 100 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/Learn_Spanish_-_11_000_Words_analytics.png)
+
+### Word Cloud
+![Word Cloud](charts/Learn_Spanish_-_11_000_Words_wordcloud.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★★★★★ - google - 2025-09-17T16:05:12)
+> top!!
+
+**Review 2** (★ - google - 2023-11-09T02:34:50)
+> New interface is ugly :(
+
+**Review 3** (★★★★★ - google - 2022-08-06T12:48:59)
+> Tof leuk
+
+**Review 4** (★★ - google - 2020-11-05T00:18:27)
+> Weinig is gratis.Je moet toch gaan betalen om naar een volgend level te gaan.Jammer..
+
+**Review 5** (★★★★ - google - 2019-02-10T09:25:43)
+> leuk niet alleen vertalen maar ook schrijven en lezen wordt aangleerd
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "Learn Spanish - 11,000 Words",
+  "google_package": "com.funeasylearn.spanish",
+  "google": {
+    "title": "Learn Spanish - 11,000 Words",
+    "description": "<b>Learn Spanish</b> from 61 native languages, for free & offline, with FunEasyLearn.\r\n\r\nLearn to <b>READ 📖 WRITE ✍ and SPEAK Spanish 💬</b>\r\nDiscover the fun & easy way to learn all the reading rules, all the words you’ll ever need and all the useful phrases in the Spanish language.\r\n\r\n🚀 <b>Contents</b>\r\n• <b>6,000 Spanish words</b> (constantly growing): the most common nouns, verbs, adjectives, etc., categorized into 7 levels and 200 topics;\r\n• <b>5,000 Spanish phrases</b> (frequently used): the most important phrases for daily conversations and travelling, categorized into 10 levels and 120 topics.\r\n\r\nEnhance your vocabulary by learning words, sentences and expressions for beginner, intermediate and advanced learners. \r\n\r\n🔔 <b>Why learn Spanish with FunEasyLearn?</b>\r\nFunEasyLearn reinvents language learning. Our team of linguists and teachers have developed a unique language learning strategy. The secret lies in combining an alphabet with all the reading rules, all the necessary words and a practical phrasebook into one app. This allows our users to read a word or phrase, pronounce it correctly, associate it with an illustration and practice it with listening, writing and speaking games. \r\n\r\n🏆 <b>Top features</b>\r\n<b>Hand-drawn illustrations</b> – memorize the new vocabulary faster with intuitive illustrations;\r\n<b>Professional audio recordings</b> – listen to audios recorded by native speakers;\r\n<b>Detailed statistics</b> – analyze your results and track your progress;\r\n<b>Review manager</b> – review everything you learn;\r\n<b>Smart search</b> – find quickly the words and phrases you need;\r\n<b>Hide what you know</b> – hide the content you already know;\r\n<b>Speech recognition</b> – improve your pronunciation;\r\n<b>Offline</b> – use the app anywhere in the world, with no internet connection.\r\n\r\n💼 <b>Spanish for business</b>\r\nGet access to special Spanish lessons created for your business. We provide specialized courses for taxi drivers, hotel & restaurant staffs, flight-attendants, shop-assistants, etc.\r\n\r\n✈ <b>Spanish for travelling</b>\r\nLearn how to book a hotel room, order a meal in a restaurant, ask for directions, carry out a conversation and speak confidently with the native speakers.\r\n\r\n🙌 <b>Spanish for adults</b>\r\nWe adapt the contents depending on the age of the learner. Both you and your kid can learn Spanish and have fun.\r\n\r\n<b>FunEasyLearn Free Subscription</b>\r\n<b>Subscribe for FREE</b>, with the flowers you earn while playing language learning games. \r\n\r\nLearn Spanish, play for free! It’s fast & easy. 📴\r\n\r\n📥 <b>Download the FunEasyLearn Spanish course right now!</b>\r\nRecommend the app to your friends and get a reward.\r\nRate us and write a review ⭐⭐⭐⭐⭐ It would mean a lot to our team!\r\n\r\nContact us: \r\nhttps://www.FunEasyLearn.com/",
+    "rating": 4.273585,
+    "rating_text": null,
+    "ratings_total": 37305,
+    "ratings_histogram": [
+      3510,
+      1404,
+      1404,
+      5977,
+      24981
+    ],
+    "installs": "1,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "top!!",
+      "date": "2025-09-17T16:05:12"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "it's not for free, misleading",
+      "date": "2025-09-16T19:15:59"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "gaat goed het leren. Wat mij betreft mogen het meer woorden in̈ een LES",
+      "date": "2025-07-18T13:17:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Tot nu toe geweldig. Begin net. Hoop veel te leren.",
+      "date": "2025-07-05T13:09:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ben nu weer begonnen en hoop met jullie lessen sneller weer Spaans op te pikken",
+      "date": "2025-06-06T14:16:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "leuk en leerzaam om te doen",
+      "date": "2025-04-02T14:05:07"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Goede combi tussen woorden en begrip en schrijven",
+      "date": "2025-02-22T15:16:28"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fun easy learn heeft de beste apps om vreemde talen te leren!",
+      "date": "2025-02-10T17:49:41"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "leuke manier om spaans te leren..",
+      "date": "2025-01-06T12:57:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het is voor mij om mijn spaans beter te leren samen met de kleinkinderen . Super mercikes",
+      "date": "2024-11-25T05:55:43"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Ik wil graag op een hoger niveau zonder abonnement",
+      "date": "2024-10-07T10:45:05"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top",
+      "date": "2024-09-23T22:26:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "wel leuk maar jammer dat je altijd moet betalen",
+      "date": "2024-08-17T00:00:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nice, good and Intiutive app",
+      "date": "2024-05-02T09:47:48"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Cannot even start the app without paying for...free?",
+      "date": "2024-04-22T21:37:32"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuk om te doen",
+      "date": "2024-03-29T20:10:17"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Eenvoudig en spelende wijze Makkelijk om te begrijpen",
+      "date": "2024-03-14T22:59:33"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Toffe en leerrijke app Al spelend iets bijleren 👍",
+      "date": "2024-02-06T10:00:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk en uitdagend",
+      "date": "2024-01-11T07:22:30"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Dan toch betalend?",
+      "date": "2023-12-07T14:36:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk en leerzaam",
+      "date": "2023-11-30T19:16:43"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke les",
+      "date": "2023-11-28T17:52:53"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nog maar net gestart en nu al super enthousiast. Wát een fijne manier om de Spaanse taal te leren. Héérlijk gewoon! Dankjewel! Ik ben gestart met de basis (= gratis), maar ga zéker hiermee verder doen via een abonnement voor de verdieping van mijn lessen en het vlot & volledig leren spreken van de Spaanse taal. Love it! 💖",
+      "date": "2023-11-19T10:22:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke app, leer iedere dag nieuwe woorden",
+      "date": "2023-11-16T20:43:13"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "leerzaam en leuk",
+      "date": "2023-11-11T10:19:30"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "New interface is ugly :(",
+      "date": "2023-11-09T02:34:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Net pas begonnen dus nog geen echt oordeel",
+      "date": "2023-10-29T10:13:42"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Je kunt er snel en op een leuke manier mee leeren",
+      "date": "2023-09-14T22:14:10"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuke leerapp",
+      "date": "2023-08-25T09:07:31"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Chaotische app. First I wanna try out.. and see what the app is. But for me the app was to chaotic. So I deleted the app the same day... then 7 days later the amount of 54.99€ was from my credit card. Without any notification. So I want the amount back ....",
+      "date": "2023-08-13T20:55:42"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super leuk en makkelijk",
+      "date": "2023-08-11T10:16:49"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Good for learning words",
+      "date": "2023-07-27T02:06:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top applicatie",
+      "date": "2023-07-12T21:02:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Erg leuk!",
+      "date": "2023-07-09T09:22:58"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "niet echt duidelijk hoe te gebruiken en bij sommige woorden denk ik dat is toch een ander woord",
+      "date": "2023-07-02T17:34:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Good App",
+      "date": "2023-06-26T00:58:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leerzaam",
+      "date": "2023-06-24T12:42:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Mijn dochter leert 10 woorden tegelijk! Dank u wel🥰😆🏃‍♂️",
+      "date": "2023-05-23T18:21:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke en gratis app om basis spaans te leren",
+      "date": "2023-04-05T15:29:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke manier om spaans te leren.",
+      "date": "2023-03-16T22:35:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het is een fantastische manier om spaans te leren en.je hebt geen internet nodig. Plus, ik heb gezien dat je makkelijk, medium en moeilijk kan instellen. ^-^",
+      "date": "2023-03-07T12:12:29"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Speels, plezant",
+      "date": "2023-02-19T16:34:17"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Prima app, soms wat moeilijk",
+      "date": "2023-01-30T16:02:08"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Grappig en eenvoudig in gebruik",
+      "date": "2023-01-02T16:01:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goed",
+      "date": "2022-09-21T10:44:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Speels leren , leuk 👌aangenaam",
+      "date": "2022-09-14T23:27:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Veel verschillende woorden en zinnen. Werkt heel goed en gratis. Een aanrader!",
+      "date": "2022-08-22T21:43:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fijn om zo Spaans te leren",
+      "date": "2022-08-22T20:27:23"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuk om te doen juist goed opletten op de schrijfwijze",
+      "date": "2022-08-10T19:22:02"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Top heel simpel",
+      "date": "2022-08-07T14:57:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Tof leuk",
+      "date": "2022-08-06T12:48:59"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leerrijk",
+      "date": "2022-07-19T20:48:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Zeer goed, elke dag minimaal 10 minuten en heb al veel bijgeleerd.",
+      "date": "2022-06-15T09:38:05"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke app",
+      "date": "2022-05-09T20:57:55"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Het is niet leuk dat als door wilt spelen je moet betalen😐💢",
+      "date": "2022-04-30T22:14:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super leuk en erg handig",
+      "date": "2022-04-07T20:25:34"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "IK WEET NU AL KAPOT VEEL",
+      "date": "2022-04-05T22:53:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk leren",
+      "date": "2022-03-21T12:50:29"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Geluid valt weg",
+      "date": "2022-03-14T17:39:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Beste manier om Spaans te leren",
+      "date": "2022-03-12T18:31:04"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It makes learning easier in a very fun way. I will recommend it strongly.",
+      "date": "2022-02-19T17:59:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Duidelijk, langzaam ,rustige manier van spreken Toppie!",
+      "date": "2022-02-10T08:33:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super duidelijke en overzichtelijke app om als beginner Spaans te leren! Zonder reclame!",
+      "date": "2022-01-31T09:26:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "leuke app en uitdagend.",
+      "date": "2022-01-30T14:18:26"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Op een leuke manier spaans leren in zowel woord als geschrift.",
+      "date": "2022-01-20T10:53:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super leuk Spaans leren",
+      "date": "2022-01-14T14:59:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik ga in augustus of juli in Spanje dus ik hoop dat dot handig gaat zijn zodat ik het kan aanraden aan mijn familie.",
+      "date": "2022-01-14T07:39:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Uitstekende app om een taal te leren.",
+      "date": "2022-01-13T10:30:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top, Iedereen kan beginnen Laagdrempelig",
+      "date": "2021-12-10T13:49:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super leuk spel ik ga in 2022 naar Spanje en dit is echt super leuk om Spaans te leren download het zeker🐣",
+      "date": "2021-10-13T15:58:57"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Wat een slecht product",
+      "date": "2021-10-08T20:47:51"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "leuk en makkelijk",
+      "date": "2021-09-05T10:05:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super leuke app",
+      "date": "2021-07-15T23:33:34"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "leuk maar heel irritante stemmen",
+      "date": "2021-04-04T20:21:35"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Goeie methode, blijft snel in je hoofd hangen!",
+      "date": "2021-03-23T17:53:57"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Weinig is gratis.Je moet toch gaan betalen om naar een volgend level te gaan.Jammer..",
+      "date": "2020-11-05T00:18:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Je kan het makkelijk en snel leren Na een dag kende ik al 10 letters!",
+      "date": "2020-09-17T14:16:34"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel veel geleerd",
+      "date": "2020-09-14T14:03:53"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Eenvoudig met leerstof",
+      "date": "2020-06-11T10:05:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Excelente",
+      "date": "2020-03-23T03:28:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke app",
+      "date": "2019-12-17T15:53:59"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuk om woordenschat te oefenen maar er staan ook wel een aantal fouten in..",
+      "date": "2019-12-08T13:25:41"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Er zijn veel handig worden die ik graag wil leren in her Spaans voor in de zorg bijvoorbeeld. Wel zijn er een hoop plaatjes niet zichtbaar en doen niet alle geluid fragmenten het meer. Dit vindt ik erg jamer ook omdat ik hier geld aan uitgegeven heb en nu niet alles, wat eerst wel kon nu al lange tijd niet meer kan gebruiken.",
+      "date": "2019-12-07T15:26:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk",
+      "date": "2019-11-30T16:53:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik had hiervoor nog 4 andere apps geprobeerd, Dit is de beste. Opbouw is goed en veel herhalingen waardoor je alles beter onthoudt.",
+      "date": "2019-10-11T06:13:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke leerzame app. Lekker woordjes stampen.",
+      "date": "2019-09-26T20:04:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Al \"spelend\" Spaans leren, leuk en efficiënt!",
+      "date": "2019-09-17T08:58:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leer bij",
+      "date": "2019-08-30T21:55:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "echt handig en je leert bij ook al spreekt je al wat Spaans! vele variaties in om het Spaans te leren spreken en schrijven en begrijpen!👌",
+      "date": "2019-08-05T18:21:12"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het is erg leuk en je leert heel goed spaans. aleen vind ik het logo niet zo mooi. ze moeten die veranderen. ik vind bijen niet zo leuk",
+      "date": "2019-07-28T15:17:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel goede applicatie voor het leren van spaans!! fantastisch!!",
+      "date": "2019-07-12T16:22:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Voor mij nuttiger als spelletjes en roddelrubrieken lezen. En als je iets niet goed kunt kun je blijven herhalen. Nu 2 jaar later vind ik het nog steeds een fantastische app. Er blijven toch altijd woorden die je nog niet weet of vergeten bent.",
+      "date": "2019-06-17T11:38:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel leuk om te doen!",
+      "date": "2019-05-31T11:19:43"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "leuke en makkelijke app",
+      "date": "2019-05-15T12:34:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "uitstekend",
+      "date": "2019-05-10T10:01:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "erg handig en makkelijk!",
+      "date": "2019-04-24T09:52:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "makkelijk leren!",
+      "date": "2019-04-14T17:16:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "echt leuk om via deze app spaans te leren",
+      "date": "2019-02-26T13:02:04"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "kan leuk zijn, alleen jammer dat er veel reclame in zit en toch betaald moet worden als je iets meer opties wilt. hier kom je al heel snel achter",
+      "date": "2019-02-11T07:28:30"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "leuk niet alleen vertalen maar ook schrijven en lezen wordt aangleerd",
+      "date": "2019-02-10T09:25:43"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:50:06 using advanced analytics*

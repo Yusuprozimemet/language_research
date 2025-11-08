@@ -1,0 +1,132 @@
+# AI Grammar Checker for English
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | AI Grammar Checker for English | N/A |
+| **Package/ID** | com.hellotalk.aigrammar | N/A |
+| **Rating** | 3.4615386 | N/A |
+| **Total Ratings** | 31,386 | N/A |
+| **Installs** | 1,000,000+ | N/A |
+| **Genre** | Productivity | N/A |
+
+## 📝 Description
+
+AI Grammar Checker for English
+- Check your grammar and spelling errors at any time.
+ 
+Whether writing academic English papers, proofreading workplace emails, hashing out business, or social writing, AI Grammar Checker could help you by correcting grammatical errors in real-time and make sure your message is clear and mistake-free.
+
+<b>Main Features:</b>
+
+<b>English Grammar Auto-correct</b>
+Whether misspelled words, inaccurate phrases, wrong verb tenses, subject-predicate inconsistencies, or punctuation, AI Grammar Checker can efficiently and accurately correct different kinds of spelling and grammatical errors for you.
+ 
+<b>Massive Real Error Correction Data</b>
+AI Grammar Checker is based on thousands of error correction data from real people on HelloTalk. Corrections are more genuine and accurate, as if there were a native speaker online at any time to help you check your English grammar. Every modification is in line with the way native speakers talk, which could make your English more authentic!
+
+<b>OCR Text Scanner</b>
+AI Grammar has a built-in OCR camera function, which can accurately identify text in a picture, without having to manually input it, and automatically correct any grammar mistakes.
+
+<b>Detailed Analysis Provided</b>
+AI Grammar Checker will record each grammatical error and compare the original content with the corrected content to help you better understand the grammatical errors you often make. Thoughtful error correction tips to help you notice your grammar weaknesses and avoid repeating mistakes.
+What’s more, if you want to see the analysis from other grammar websites or Google search, you can search directly inside the application.
+ 
+<b>Perfect Your Writing and Listening</b>
+AI Grammar Checker also supports text reading. The proofread content matches authentic pronunciation, which allows you to cultivate a better feel for the language while remembering the correct English grammar.
+
+<b>Word Translation</b>
+You can get the translation and pronunciation of words with just one click. At present, word translation supports translation in 109 languages including Chinese, Japanese, Korean, and so on. With automatic grammar correction, there won't be any obstacles to you improving your English.
+
+Here are some real reviews on Google Play:
+@Maggie Yung: It's a good app, helps me to improve my English writing.
+@deepa Subramanian: Awesome. It's so easy and will help us become more confident in what we write. It is very useful for formal chats and writing formal letters.
+
+Utilize AI Grammar Checker to improve your writing, so that grammar is no longer an obstacle when expressing yourself in English!
+
+If you have any comments or suggestions please email us: aigrammar@hellotalk.com
+* Learn more: https://www.aigrammar.com
+* Privacy Policy: https://www.aigrammar.net/privacy-policy
+* Terms of Service: https://www.aigrammar.net/terms-of-service
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 2 (2 analyzed)
+**Rating Distribution:** 2 positive (4-5★), 0 neutral (3★), 0 negative (1-2★)
+**Average Sentiment:** 0.35 (-1=very negative, +1=very positive)
+**Primary Language:** unknown
+**Key Insights:** Average rating: 5.0/5.0 | Overall sentiment: positive (score: 0.35) | Reviews from 1 platform(s): google
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 2 reviews (100.0%)
+
+### 🌍 Languages in Reviews
+
+- **unknown**: 2 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 2 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/AI_Grammar_Checker_for_English_analytics.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★★★★★ - google - 2022-08-10T16:12:51)
+> good
+
+**Review 2** (★★★★★ - google - 2020-09-04T22:57:09)
+> Je a 2 D
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "AI Grammar Checker for English",
+  "google_package": "com.hellotalk.aigrammar",
+  "google": {
+    "title": "AI Grammar Checker for English",
+    "description": "AI Grammar Checker for English\r\n- Check your grammar and spelling errors at any time.\r\n \r\nWhether writing academic English papers, proofreading workplace emails, hashing out business, or social writing, AI Grammar Checker could help you by correcting grammatical errors in real-time and make sure your message is clear and mistake-free.\r\n\r\n<b>Main Features:</b>\r\n\r\n<b>English Grammar Auto-correct</b>\r\nWhether misspelled words, inaccurate phrases, wrong verb tenses, subject-predicate inconsistencies, or punctuation, AI Grammar Checker can efficiently and accurately correct different kinds of spelling and grammatical errors for you.\r\n \r\n<b>Massive Real Error Correction Data</b>\r\nAI Grammar Checker is based on thousands of error correction data from real people on HelloTalk. Corrections are more genuine and accurate, as if there were a native speaker online at any time to help you check your English grammar. Every modification is in line with the way native speakers talk, which could make your English more authentic!\r\n\r\n<b>OCR Text Scanner</b>\r\nAI Grammar has a built-in OCR camera function, which can accurately identify text in a picture, without having to manually input it, and automatically correct any grammar mistakes.\r\n\r\n<b>Detailed Analysis Provided</b>\r\nAI Grammar Checker will record each grammatical error and compare the original content with the corrected content to help you better understand the grammatical errors you often make. Thoughtful error correction tips to help you notice your grammar weaknesses and avoid repeating mistakes.\r\nWhat’s more, if you want to see the analysis from other grammar websites or Google search, you can search directly inside the application.\r\n \r\n<b>Perfect Your Writing and Listening</b>\r\nAI Grammar Checker also supports text reading. The proofread content matches authentic pronunciation, which allows you to cultivate a better feel for the language while remembering the correct English grammar.\r\n\r\n<b>Word Translation</b>\r\nYou can get the translation and pronunciation of words with just one click. At present, word translation supports translation in 109 languages including Chinese, Japanese, Korean, and so on. With automatic grammar correction, there won't be any obstacles to you improving your English.\r\n\r\nHere are some real reviews on Google Play:\r\n@Maggie Yung: It's a good app, helps me to improve my English writing.\r\n@deepa Subramanian: Awesome. It's so easy and will help us become more confident in what we write. It is very useful for formal chats and writing formal letters.\r\n\r\nUtilize AI Grammar Checker to improve your writing, so that grammar is no longer an obstacle when expressing yourself in English!\r\n\r\nIf you have any comments or suggestions please email us: aigrammar@hellotalk.com\r\n* Learn more: https://www.aigrammar.com\r\n* Privacy Policy: https://www.aigrammar.net/privacy-policy\r\n* Terms of Service: https://www.aigrammar.net/terms-of-service",
+    "rating": 3.4615386,
+    "rating_text": null,
+    "ratings_total": 31386,
+    "ratings_histogram": [
+      8293,
+      2666,
+      2666,
+      1599,
+      16079
+    ],
+    "installs": "1,000,000+",
+    "genre": "Productivity"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "good",
+      "date": "2022-08-10T16:12:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Je a 2 D",
+      "date": "2020-09-04T22:57:09"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:50:30 using advanced analytics*

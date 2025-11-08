@@ -1,0 +1,47 @@
+{
+  "name": "PONS Vocabulary Trainer",
+  "google_package": "com.nomtek",
+  "google": {
+    "title": "PONS Vocabulary Trainer",
+    "description": "Do you learn new words, but forget them after a while? Then get the PONS Vocabulary Trainer on your smartphone. With this app you can practice your words anywhere - even when you’re offline. Thanks to its scientifically based 7-stage model, you learn your words in small chunks over a longer period of time until they’re guaranteed to stay in your memory. The app uses an intelligent algorithm to remind you when words are ready for repeating.\r\n\r\nThe training is divided into the phases memorizing, practicing and testing. Various exercises make learning fun, and you will always get feedback and tips from Ponsi, the motivated frog. You can also check your learning statistics to keep track of your performance.\r\n\r\nThe PONS Vocabulary Trainer is waiting for your words. You can \r\n- create your own lessons \r\n- buy ready-made lessons\r\n- create study groups to share words and practice together\r\n- transfer your words easily from the PONS Online dictionary\r\n- Statistics and rankings so you can compete with your classmates.\r\n- Calendar mode so you are prepared for the next vocabulary test.\r\n\r\nThe PONS vocabulary trainer - available for over 25 languages and also accessible as a web version in any browser at trainer.pons.com\r\n \r\nAbout PONS: \r\nPONS has been developing green materials for learning languages for life for over 40 years: from classic dictionaries and grammar aids to audio and software language courses right up to free online services. \r\n\r\nwww.pons.com",
+    "rating": 3.9444444,
+    "rating_text": null,
+    "ratings_total": 5809,
+    "ratings_histogram": [
+      920,
+      283,
+      283,
+      637,
+      3542
+    ],
+    "installs": "1,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "after being unable to use Pon's application I am now happily using the application. Thank for the quick respons!",
+      "date": "2025-10-02T13:20:51"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Doesn't come with prefixed words.",
+      "date": "2024-06-01T23:25:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Gute App",
+      "date": "2023-06-26T01:59:06"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Good app",
+      "date": "2020-05-19T01:55:57"
+    }
+  ]
+}

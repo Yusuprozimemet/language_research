@@ -1,0 +1,35 @@
+{
+  "name": "Learn German Fast: Course",
+  "google_package": "com.mosalingua.defree",
+  "google": {
+    "title": "Learn German Fast: Course",
+    "description": "So, you want to learn German in no time? You need MosaLingua! Innovative and effective, our application has helped more than 13.000,000 people all over the world learn German in only 10 minutes per day - with actual results!\r\n\r\nPopular on app stores, MosaLingua also comes highly recommended by the media and many specialized blogs.\r\n\r\n\r\nLearn more about MosaLingua by watching the demonstration video on https://mosalingua.com/en.\r\nFeel free to try our smartphone application for free: you'll see for yourself how well it works!\r\nIt's a powerful and effective tool - ideal for people who want to speak German in no time, without taking long, boring language courses.\r\n\r\nIt's useful in any situation: our method can help you while you travel, in the workplace, and in everyday life with our courses that suit your language needs.\r\n\r\nTHE BENEFITS OF MOSALINGUA: \r\n1) Useful, practical content\r\nDon't waste your time with notions and courses that won't help you. Instead, learn the 20% that you'll use 80% of the time.\r\n\r\n2) An innovative method based on scientific research\r\nOur international team is made up of expert polyglots who've used the most modern and proven learning, memorization and consolidation techniques (SRS, active recall, metacognition, etc.).\r\n\r\n3) Coaching throughout the learning process\r\nTo succeed, you can count on our review sessions that consolidate what you've learned, our mini German lessons, and our advice for better understanding vocabulary.\r\n\r\n4) Learning and having fun at the same time\r\nAchieve great results and have fun doing so: your progress will boost your MOTIVATION, which is key to any learning plan.\r\n\r\nIf you want to learn German, download the MosaLingua Learn German app and try it free – you won't regret it!",
+    "rating": 4.4,
+    "rating_text": null,
+    "ratings_total": 3572,
+    "ratings_histogram": [
+      274,
+      0,
+      137,
+      480,
+      2541
+    ],
+    "installs": "100,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "na de Franse nu de Duitse versie. Eenvoudig in gebruik en door de kraxht van herhaling erg effectief!",
+      "date": "2019-08-09T19:08:34"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Excellent, super appli. Simple, rapide, on apprend très vite avec le temps !!!",
+      "date": "2019-06-20T22:44:13"
+    }
+  ]
+}

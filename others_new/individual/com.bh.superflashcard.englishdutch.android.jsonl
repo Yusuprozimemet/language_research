@@ -1,0 +1,35 @@
+{
+  "name": "Dutch flashcards",
+  "google_package": "com.bh.superflashcard.englishdutch.android",
+  "google": {
+    "title": "Dutch flashcards",
+    "description": "<b>How to study effectively?</b>\r\n<b>Want to master Dutch vocabulary?</b>\r\n\r\nDutch Vocabulary flashcards are images/text/sound on cards, used to help remember new vocabulary in Dutch. Instead of simply reading the definition in a dictionary, the brain is also challenged via our several learning modes: Listen & Repeat, Study, Slide show, Matching, Memorize, Quiz to make the learning Dutch language more exciting and fun.\r\n\r\n♥ ♥ GREAT CONTENT ♥ ♥\r\nDutch Vocabulary Conversation app includes 100+ Dutch conversations which cover the most used Dutch conversations from 9 categories:\r\n•Greetings\r\n•Food and drink\r\n•Daily Activities\r\n•Travel\r\n•Family\r\n•Hobbies\r\n•Shopping\r\n•Work\r\n•Society\r\n\r\nDutch Vocabulary flashcards app includes 4000+ premade Dutch flashcards which cover the most used Dutch words from 9 categories:\r\n•Calendar\r\n•Description\r\n•Hobbies\r\n•Food and Meals\r\n•Human\r\n•Nature\r\n•Objects\r\n•Society\r\n•Travel\r\n\r\nKeys features:\r\n• Listen and repeat conversation to improve speaking skills\r\n• Daily test to master your vocabulary\r\n• Track study progress using Leitner system.\r\n• Enhance study using quiz, listening, matching games\r\n• Review schedule to help you review flashcards before they are expired.\r\n• Text to speech to study flashcards without looking at screens.\r\n• Download unlimited flashcards to your devices for offline study\r\n• Create your own flashcards to study your own materials.\r\n• Flashcards can be created on our website www.iaceatest.com",
+    "rating": null,
+    "rating_text": null,
+    "ratings_total": null,
+    "ratings_histogram": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "installs": "5,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "top XD",
+      "date": "2015-01-17T23:09:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Hij is een goed app om beter teleren.",
+      "date": "2014-05-10T17:47:00"
+    }
+  ]
+}

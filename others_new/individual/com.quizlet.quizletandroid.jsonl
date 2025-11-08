@@ -1,0 +1,623 @@
+{
+  "name": "Quizlet: More than Flashcards",
+  "google_package": "com.quizlet.quizletandroid",
+  "google": {
+    "title": "Quizlet: More than Flashcards",
+    "description": "Quizlet gives you study tools that teach you — not just tell you the answer — so you can walk into every test with confidence.\r\n\r\nYour personalized feed recommends exactly what to study next, powered by your courses, your school and what students like you are studying now. Jump in faster with Study Bites: bite‑sized suggestions, progress updates and content tailored to your learning goals.\r\n\r\nTurn your notes into study materials\r\n* Turn class notes into practice tests, study guides and flashcards so you can review your material in the way that works best for you\r\n * Create flashcards from scratch or let AI generate a deck from your study materials\r\n\r\nFlashcards that fit your routine\r\n* Discover millions of flashcard sets created by students and teachers\r\n* Sort cards into Know and Still learning to track progress\r\n* Save decks for offline access and study anywhere\r\n\r\nPractice that adapts to you\r\n* Turn any flashcard set into practice questions to reinforce knowledge\r\n* Study with multiple choice, true/false and written questions\r\n* Quizlet adapts based on what you know and what needs more work\r\n* Seamlessly pick up where you left off across all your devices\r\n\r\nExam‑ready tests\r\n* Simulate test day with a personalized practice test generated from any flashcard set\r\n* Customize the number of questions and formats to challenge yourself in different ways\r\n* Get instant scoring and feedback to spot gaps and build confidence\r\n\r\nHomework help when you need it\r\n* Expert‑authored, step‑by‑step solutions to tough homework problems\r\n* Check your work in challenging subjects like Calculus, Chemistry and Electrical Engineering\r\n* Use AI‑powered support to unpack each step or explore alternative approaches\r\n\r\nStudy together\r\n* Collaborate with classmates by matching strengths and weaknesses\r\n* Share decks, get help on tough topics and master material faster\r\n\r\nQuizlet is the all-in-one study tool for language learning, vocabulary and test prep.\r\n\r\nQuizlet Plus subscriptions will be charged to your Google account. Your monthly or annual subscription automatically renews unless canceled at least 24 hours before the end of the current period. Manage your subscriptions in your Account Settings after purchase. Some features may not be available in your country or region.\r\n\r\nTerms of Service: https://quizlet.com/tos\r\nPrivacy Policy: https://quizlet.com/privacy",
+    "rating": 4.715647,
+    "rating_text": null,
+    "ratings_total": 846000,
+    "ratings_histogram": [
+      24565,
+      7493,
+      20107,
+      79585,
+      714240
+    ],
+    "installs": "50,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "'scannen om snel te creëren' wordt aangegeven bij quizlet plus. Abonnement genomen en vervolgens staat er dat die functie nog niet te krijgen is. Wanneer gaat deze functie 'live'? Uploaden van documenten kan ook niet. alleen knippen /plakken",
+      "date": "2025-11-05T09:39:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Hele goeie app voor te studeren",
+      "date": "2025-10-31T09:45:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "fijne leer app",
+      "date": "2025-10-24T20:17:03"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Hopeloze klantenservice, wel fijn programma om mee te leren wanneer het werkt.",
+      "date": "2025-10-21T08:55:39"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "heel goed maar te veel pop ops die tegen me zeggen om quizlet plus tekrijgen",
+      "date": "2025-10-05T13:18:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "werkt goed",
+      "date": "2025-10-04T17:29:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel handig en goed",
+      "date": "2025-10-03T14:07:42"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Leren is betalend geworden, heb al het werk om de begrippen erin te zetten voor niets gedaan.",
+      "date": "2025-10-01T21:51:17"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "voor mij is quizlet het beste voor leeren",
+      "date": "2025-09-17T22:55:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk en handig.",
+      "date": "2025-09-17T20:16:18"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "handig ietz",
+      "date": "2025-09-17T13:17:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel handig",
+      "date": "2025-09-14T12:46:00"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "handige tool om te leren en altijd bij de hand",
+      "date": "2025-09-14T10:05:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "nice to learn with",
+      "date": "2025-08-28T18:45:19"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "ja leuk! maar jammer, zoveel leuke opties waarvoor je moet betalen!",
+      "date": "2025-07-07T20:52:05"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "goed voor je woordenschat te vergroten",
+      "date": "2025-07-06T14:21:31"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "jammer dat ik geen nul sterren kan geven wie heeft er nu een plus versie van dit ik kan gewoon niet verder leren omdat ik geen plus heb wat is dit voor zever?????",
+      "date": "2025-06-19T19:27:16"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "echt super leuk en leerzaam alleen kan je maar een keer een toets doen want je moet er voor betalen om meer toetsen te maken",
+      "date": "2025-06-11T19:00:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "mijn kind heeft nu alleen maar voldoendes. bedankt Quizlet 😃",
+      "date": "2025-06-11T13:57:03"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "goede app om te studeren heeft veel goede studie'methodes",
+      "date": "2025-06-10T19:45:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heeft mijn cijfers gered",
+      "date": "2025-06-03T16:58:46"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "leuk voor te beginnen met engels",
+      "date": "2025-06-03T07:21:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "leuke en leerzame app",
+      "date": "2025-06-02T10:48:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel fijn om te leren geeft goeie cijfers",
+      "date": "2025-05-20T21:46:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel fijn zo'n app! Prettige manier om te stampen.",
+      "date": "2025-05-19T11:58:59"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "sometimes it doesn't work but most of the time it does so I actually want to give it 3.5 stars but that's not possible",
+      "date": "2025-05-19T10:26:43"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "te duur!!!",
+      "date": "2025-05-13T00:31:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik gebruik deze app om meer woorden te leren, hij is echt een goede app, ik adviseer alle studenten om deze app te gebruiken",
+      "date": "2025-05-11T12:01:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "snel, duidelijk en gemakkelijk",
+      "date": "2025-04-11T07:29:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "goede app, gebruik hem al jaren in combinatie met de website om stof te leren. heb hiermee een MBO opleiding verkort gedaan en gebruik hem nu voor een HBO opleiding.",
+      "date": "2025-04-09T15:52:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Echt fijn om mee te studeren! Je kan op verschillende manieren leren. Zelf heb ik de pro versie zodat ik onbeperkt gebruik kan maken",
+      "date": "2025-04-01T15:14:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "helps me with my exams only you have to pay for more tests.",
+      "date": "2025-03-27T14:44:18"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "stupid",
+      "date": "2025-03-19T17:49:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super",
+      "date": "2025-03-15T15:29:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "praktisch",
+      "date": "2025-03-04T07:00:38"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Deze Koulo app werkt niet",
+      "date": "2025-02-17T18:31:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Kei goeie app voor het studeren en ik haak goede punten voor definities of woordenschat",
+      "date": "2025-02-11T19:32:46"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik vind het heel leer rijk en de gene die les geven zijn heel top ik ben blij dat ik heel veel leer",
+      "date": "2025-02-01T13:47:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Er zijn meerdere mogelijkheden om te leren en is makkelijk te gebruiken. Na dit werd ik een topstudent, Echt een aanrader.",
+      "date": "2025-01-31T16:29:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "cool man",
+      "date": "2025-01-22T19:30:55"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Zeer leuk, jammer van de betaalde versie!",
+      "date": "2025-01-21T07:27:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top app werkt heel goed!!! Aanrader",
+      "date": "2025-01-20T20:11:12"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Met deze app leer je (buitenlandse) woorden spellen, uitspreken en de betekenis op verschillende manieren. Wat nog handig zou zijn als je de woorden beide kanten op zou kunnen leren bijvoorbeeld Spaans-Nederlands en ook Nederlands-Spaans.",
+      "date": "2025-01-19T13:27:13"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Gaat alleen maar om geld verdienen. Met reclame zou dat wel genoeg moeten zijn maar iemand halverwege zijn set eruit gooien en zeggen ja betalen of flashcards leren is echt zeer triest",
+      "date": "2025-01-16T14:46:43"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This app is super great I love using this app it's so helpful and on my french exam I have a 9/10",
+      "date": "2025-01-15T16:04:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "perfect alles is gratis. 👍👍👍👍",
+      "date": "2025-01-11T16:14:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Is heel handig om thermen te leren",
+      "date": "2025-01-09T21:23:56"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Goede app",
+      "date": "2025-01-07T22:11:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Is een goede manier om te leren voor talen werkt alleen minder goed voor andere vakken",
+      "date": "2025-01-02T06:05:56"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super leuk",
+      "date": "2024-12-28T23:00:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goed en makkelijk te gebruiken",
+      "date": "2024-12-18T07:26:31"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Pictures on flashcards have become a lot smaller since the last update, very impractical! I hope this bug gets fixed soon..",
+      "date": "2024-12-13T16:25:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik vind het ok",
+      "date": "2024-12-12T22:31:22"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "5 sterren want Block blast maar belachelijk duur dus 4",
+      "date": "2024-12-12T18:54:43"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Goede app, alleen jammer dat je voor sommige dingen moet betalen",
+      "date": "2024-12-12T17:16:50"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik leer vaak voor school met deze app en toch soms slechte cijfers, je moet ook betalen voor een app om te leren?? Dikke scam",
+      "date": "2024-12-09T20:29:49"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "super pratique pour avoir des flashcards et apprendre 5x plus rapidement, merci !",
+      "date": "2024-12-09T15:13:29"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel fijn studeren zo",
+      "date": "2024-12-05T14:23:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Sigma",
+      "date": "2024-12-04T21:54:00"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Viel me zwaar tegen. Onzinnige vragen en lesstof verre van compleet",
+      "date": "2024-12-04T09:49:41"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "wanneer je het gebruikt( gratis ) heb je maar een beperkt aantal keren dat je het kan gebruiken.",
+      "date": "2024-12-03T11:14:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "is heel leuk om met te werken en kinderen doen hen Frans liever dan der voor",
+      "date": "2024-12-02T16:59:21"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "het is goed maar je moet betalen voor te leren🙂",
+      "date": "2024-11-26T07:52:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goede app! Perfect voor woordenschat, een methode voor grammatica zou wel fijn zijn! 😃",
+      "date": "2024-11-20T10:38:18"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke app",
+      "date": "2024-11-19T11:08:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Geweldig",
+      "date": "2024-11-16T11:37:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Echt een goede app",
+      "date": "2024-11-15T05:58:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fijne app. goede hulp bij het leren",
+      "date": "2024-11-12T14:43:59"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Ik vind het wel een goed alternatieve om te gebruiken voornhet leren, veel studenten laten ook hun kaarten achter voor de volgende studenten dus daar maak ik veel gebruik van, alleen heel jammer dat ik maar 1x de mezelf kan toetsen en telkens dat reclame van premium halen in mijn strot wordt gedouwd",
+      "date": "2024-11-06T13:15:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Deze app helpt mijn dochter heel erg veel met leren. I love this app!!",
+      "date": "2024-11-06T03:05:41"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "leuke app ook handing om te leren en je kan een reeks krijgen help echt",
+      "date": "2024-10-27T19:12:30"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik vind het heel makkelijk leren",
+      "date": "2024-10-21T20:38:03"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Het werkt gewoon echt heel goed!",
+      "date": "2024-10-18T20:56:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "maak het gratis",
+      "date": "2024-10-15T19:45:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Beste app ever",
+      "date": "2024-10-12T15:05:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het helpt ontzettend met de meldingen ga je toch op een leuk manier leren",
+      "date": "2024-10-07T19:39:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Uitstekende flashcardapp die doet wat het belooft met allerlei opties om het leren niet eentonig en efficiënter te maken. Veel gratis cursussen van aardige gebruikers gratis te gebruiken. Veel beter dan Memrise en minder saai dan Anki.",
+      "date": "2024-10-05T18:51:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het help me goed met bepaalde dingen leren dikke 10",
+      "date": "2024-10-05T09:18:28"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "best leuk alleen veel leren",
+      "date": "2024-10-02T17:36:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fijn om te leren",
+      "date": "2024-10-02T16:58:49"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Very bad and you can only do something if you pay",
+      "date": "2024-10-01T21:19:34"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Als je heel je set wilt leren moet je betalen, maar het is wel handig",
+      "date": "2024-10-01T00:05:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "mega goed om iets in te leren",
+      "date": "2024-09-29T20:11:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het is handig ik leer nu veel beter dingen van buiten",
+      "date": "2024-09-26T19:58:03"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het geeft een opdracht",
+      "date": "2024-09-24T18:47:36"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "het is goed maar ik wil niet betalen om te leren",
+      "date": "2024-09-22T17:47:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik geef hem 5 omdat ik primium heb, ts echt geweldig!!!",
+      "date": "2024-09-22T14:04:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Geweldige app",
+      "date": "2024-09-16T16:41:12"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "wel nice",
+      "date": "2024-09-15T14:09:39"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Hele fijne app alleen wel jammer dat t geld kost als je de app goed wil gebruiken",
+      "date": "2024-09-15T12:43:59"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Ik vind het zelf een hele goede app, handig om je toetsen er voor te leren, Uitdaging en spelend, tip. Misschien 1 maand gratis, en goedkope voor een basisabodement, dan gaan meer mensen het doen. En krijgen jullie alsnof veel geld...",
+      "date": "2024-09-09T15:24:48"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Goeie handige app die erg gebruiksvriendelijk is",
+      "date": "2024-09-08T13:11:26"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Goede app maar zou beter gratis zijn of veel goedkoper",
+      "date": "2024-08-21T07:50:43"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super goede",
+      "date": "2024-08-19T10:15:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "really cool and helpful app!! 🌸",
+      "date": "2024-08-04T19:53:20"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik kan niet edit gebruiken",
+      "date": "2024-08-02T21:26:11"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Quizlet: Maken en spelen",
+      "date": "2024-07-27T19:51:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top app.",
+      "date": "2024-07-09T23:02:28"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel leerzaam en plezant!",
+      "date": "2024-07-03T01:01:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goede leermethode",
+      "date": "2024-06-28T20:23:37"
+    }
+  ]
+}

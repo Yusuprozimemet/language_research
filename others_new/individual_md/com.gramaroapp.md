@@ -1,0 +1,144 @@
+# Gramaro: Learn English Grammar
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | Gramaro: Learn English Grammar | N/A |
+| **Package/ID** | com.gramaroapp | N/A |
+| **Rating** | 4.7777777 | N/A |
+| **Total Ratings** | 2,116 | N/A |
+| **Installs** | 100,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+<h1>Do you want to learn English simply and for free? Do practical exercises every day and improve your English skills. This app contains more than 60 important rules of the English language</h1>
+
+• Training using Fast Brain technology allows you to improve your knowledge of English grammar and master the language
+
+• Short lessons help you fall in love with English, improve your vocabulary and quickly rise to the next level
+
+• The rules of the English language are collected in unique sets and divided into three levels of difficulty. The app is suitable for kids, beginners and people who improve their language.
+
+• Choose a rule and make 10 sentences using English words. The less mistakes you make, the more experience points you get
+
+• Each rule, examples of use and translation are collected in English tutorial inside each exercise
+
+• English language rules and exercises are collected in sets:
+
+Present Simple
+Past Simple
+Future Simple
+Numerals
+Present Continuous
+Ordinal numbers
+Personal pronouns
+Articles
+There is / There are
+Possessive pronouns
+Imperative mood
+To be going to
+General questions
+Modal Verbs (Can/Could)
+Present Cont. vs. Present Simple vs. Future Simple
+Past Continuous
+Present Perfect
+Past Perfect
+Future in the Past
+Passive Voice - Present Simple
+Present Perfect Continuous
+Adverbs
+Passive Voice - Past Simple
+Past Simple vs. Past Perfect
+Present Perfect vs. Present Perfect Continuous
+Passive Voice - Future Simple
+Passive  Voice - Present Perfect
+Wh- questions
+Present Perfect vs Past Simple
+Past Simple vs. Past Continuous
+Comparative degree of adjectives
+Superlative degree of adjectives
+Used to
+Modal verbs (Must/Have to)
+Modal verbs (May/Might)
+Future perfect
+Future Continuous
+Prepositions
+Verbs with prepositions
+Phrasal verbs
+Order of adjectives
+Indefinite pronouns
+Tenses with Present meaning
+Participles
+Infinitive and Gerund
+Inversion, Ellipsis, Substitution
+Conditional Clauses
+Past Perfect Continuous
+Sequence of tenses
+Modal Verbs (Shall/Should)
+Modal verbs (Will/Would)
+Indirect speech
+Future Perfect Continuous
+Fut. Cont. vs. Fut. Perf. Cont.
+Tenses with Past meaning
+Tenses with future meaning
+Past perfect passive
+Present/Past Continuous Passive
+Future perfect passive
+16 English tenses
+
+
+• The app will show the progress for each rule and at the right time will show tasks for spaced repetition
+
+Learning English with Gramaro is like playing a game. No need to cram anything! 
+
+<h2>Do you want to learn English for free?</h2> There are 12 sets of English rules available in the Gramaro app absolutely for free. A Premium subscription is required to access all rules in the Gramaro app. Subscription automatically renews unless canceled before the end of the payment period. You can manage and cancel your subscription in your Google Play Store account.
+
+Privacy Policy: https://www.gramaro.io/privacy
+Terms of Service: https://www.gramaro.io/terms
+
+Now is the best time to learn English. There are already thousands of people with us and we improve our English every day. Learn English and track your progress, compete and share achievements with your friends!
+
+Just ten minutes a day. Learn English grammar in an easy way.
+
+<h3>Install Gramaro and start learning now!</h3>
+
+## 📊 Reviews Analytics
+
+No reviews available for analysis.
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "Gramaro: Learn English Grammar",
+  "google_package": "com.gramaroapp",
+  "google": {
+    "title": "Gramaro: Learn English Grammar",
+    "description": "<h1>Do you want to learn English simply and for free? Do practical exercises every day and improve your English skills. This app contains more than 60 important rules of the English language</h1>\r\n\r\n• Training using Fast Brain technology allows you to improve your knowledge of English grammar and master the language\r\n\r\n• Short lessons help you fall in love with English, improve your vocabulary and quickly rise to the next level\r\n\r\n• The rules of the English language are collected in unique sets and divided into three levels of difficulty. The app is suitable for kids, beginners and people who improve their language.\r\n\r\n• Choose a rule and make 10 sentences using English words. The less mistakes you make, the more experience points you get\r\n\r\n• Each rule, examples of use and translation are collected in English tutorial inside each exercise\r\n\r\n• English language rules and exercises are collected in sets:\r\n\r\nPresent Simple\r\nPast Simple\r\nFuture Simple\r\nNumerals\r\nPresent Continuous\r\nOrdinal numbers\r\nPersonal pronouns\r\nArticles\r\nThere is / There are\r\nPossessive pronouns\r\nImperative mood\r\nTo be going to\r\nGeneral questions\r\nModal Verbs (Can/Could)\r\nPresent Cont. vs. Present Simple vs. Future Simple\r\nPast Continuous\r\nPresent Perfect\r\nPast Perfect\r\nFuture in the Past\r\nPassive Voice - Present Simple\r\nPresent Perfect Continuous\r\nAdverbs\r\nPassive Voice - Past Simple\r\nPast Simple vs. Past Perfect\r\nPresent Perfect vs. Present Perfect Continuous\r\nPassive Voice - Future Simple\r\nPassive  Voice - Present Perfect\r\nWh- questions\r\nPresent Perfect vs Past Simple\r\nPast Simple vs. Past Continuous\r\nComparative degree of adjectives\r\nSuperlative degree of adjectives\r\nUsed to\r\nModal verbs (Must/Have to)\r\nModal verbs (May/Might)\r\nFuture perfect\r\nFuture Continuous\r\nPrepositions\r\nVerbs with prepositions\r\nPhrasal verbs\r\nOrder of adjectives\r\nIndefinite pronouns\r\nTenses with Present meaning\r\nParticiples\r\nInfinitive and Gerund\r\nInversion, Ellipsis, Substitution\r\nConditional Clauses\r\nPast Perfect Continuous\r\nSequence of tenses\r\nModal Verbs (Shall/Should)\r\nModal verbs (Will/Would)\r\nIndirect speech\r\nFuture Perfect Continuous\r\nFut. Cont. vs. Fut. Perf. Cont.\r\nTenses with Past meaning\r\nTenses with future meaning\r\nPast perfect passive\r\nPresent/Past Continuous Passive\r\nFuture perfect passive\r\n16 English tenses\r\n\r\n\r\n• The app will show the progress for each rule and at the right time will show tasks for spaced repetition\r\n\r\nLearning English with Gramaro is like playing a game. No need to cram anything! \r\n\r\n<h2>Do you want to learn English for free?</h2> There are 12 sets of English rules available in the Gramaro app absolutely for free. A Premium subscription is required to access all rules in the Gramaro app. Subscription automatically renews unless canceled before the end of the payment period. You can manage and cancel your subscription in your Google Play Store account.\r\n\r\nPrivacy Policy: https://www.gramaro.io/privacy\r\nTerms of Service: https://www.gramaro.io/terms\r\n\r\nNow is the best time to learn English. There are already thousands of people with us and we improve our English every day. Learn English and track your progress, compete and share achievements with your friends!\r\n\r\nJust ten minutes a day. Learn English grammar in an easy way.\r\n\r\n<h3>Install Gramaro and start learning now!</h3>",
+    "rating": 4.7777777,
+    "rating_text": null,
+    "ratings_total": 2116,
+    "ratings_histogram": [
+      78,
+      0,
+      78,
+      0,
+      1959
+    ],
+    "installs": "100,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": []
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:50:19 using advanced analytics*

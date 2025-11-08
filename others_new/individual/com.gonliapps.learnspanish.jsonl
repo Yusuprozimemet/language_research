@@ -1,0 +1,623 @@
+{
+  "name": "Learn Spanish for beginners",
+  "google_package": "com.gonliapps.learnspanish",
+  "google": {
+    "title": "Learn Spanish for beginners",
+    "description": "Learn Spanish and have fun! The educational game for beginners!\r\n\r\nDiscover the most exciting way to learn Spanish with our application, specifically designed for beginners. Whether you're starting from scratch or looking to improve your basic skills, our app offers you a unique and effective learning experience.\r\n\r\n36 fun themes and 3 levels of difficulty:\r\nFrom the basics like the alphabet and numbers to advanced topics like sports and music.\r\n\r\n500 words with images and audio: Expand your vocabulary with essential words, accompanied by clear images and audio pronunciation.\r\n\r\nInteractive lessons and continuous assessments: Our game provides you with a comprehensive learning experience with interactive lessons and exercises for reading, writing, and conversation. Strengthen your skills in each topic and assess your progress with specific exams and tests, allowing you to consolidate what you have learned and see your language proficiency effectively.\r\n\r\nSpanish accent: Clear and modern pronunciation, ideal for understanding and being understood in international contexts by a native speaker from Spain.\r\n\r\nIdeal for travelers and support in rehabilitation: If you are planning a trip abroad or looking for a friendly and accessible tool to assist in cognitive rehabilitation situations, our app is perfect. It is widely used by older individuals, those with speech difficulties, and in hospital settings to assist stroke patients in their recovery process and Spanish language learning.\r\n\r\nQuickly and confidently: Our course has been designed to provide you with an immersive experience, allowing you to learn Spanish quickly and effectively. Perfect for beginners, our app helps you build a strong foundation in the language.\r\n\r\nGoodbye to the dictionary and translation: With our methodology, you won't need to rely on a dictionary or translation tool soon. We provide you with all the necessary tools to understand and be understood in this language.\r\n\r\nPlay and Learn with a User-Friendly Interface: Our application combines learning with play, making studying Spanish fun and engaging. With an intuitive and easy-to-use interface, we make it easy to navigate between various lessons, activities, and tests, ensuring an enjoyable and efficient learning experience for all users.\r\n\r\nCustomize your learning experience: With a variety of themes and levels, you can choose what interests you the most. Our tracking system allows you to see your progress and focus on areas for improvement.\r\n\r\nMore languages with us: we offer courses in French, English, Portuguese, Italian, German, and Chinese\r\n\r\nCopyright:\r\nIMPORTANT: We are owners and have copyright of all sounds words\r\nImages have been obtained under licensed Creative Commons CC0",
+    "rating": 4.725926,
+    "rating_text": null,
+    "ratings_total": 30977,
+    "ratings_histogram": [
+      905,
+      443,
+      443,
+      2523,
+      26604
+    ],
+    "installs": "1,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "leuk, jammer dat het na de eerste levels stopt",
+      "date": "2025-11-05T10:24:43"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "leerzaam en erg leuk.",
+      "date": "2025-11-04T00:34:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Bueno",
+      "date": "2025-11-03T18:10:18"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "leuke app. en reclame is niet erg, maar niet na elke oefening. de app er daarom vanaf gegooid. werd storend die reclame",
+      "date": "2025-11-01T14:08:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "woorden leren is de basis, hier leer je snel waarover iemand praat.. en straks ken je de zinnen en dan gesprekken voeren.. handige leuke spel",
+      "date": "2025-10-10T19:54:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "helemaal geweldig",
+      "date": "2025-10-10T19:07:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "i like it",
+      "date": "2025-09-25T18:15:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I love it",
+      "date": "2025-09-03T03:20:11"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "leuke app maar de reclame is vervelend. er staat nergens wat de app kost als je de reclame wilt verwijderen.",
+      "date": "2025-07-19T10:48:42"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fijne en goede manier om een vreemde taal te leren.",
+      "date": "2025-07-13T12:14:44"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super handig",
+      "date": "2025-07-04T20:27:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Je leert op een begrijpbare en leuke manier de belangrijkste basis woorden om je hiermee te laten communiceren met anderen.",
+      "date": "2025-06-09T23:56:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goede app om woorden te leren. Doe jezelf een plezier én steun de ontwikkelaar. Voor slechts 1 USD of € 1,19 ben je van de advertenties af.",
+      "date": "2025-06-08T14:19:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "handig en leuk voor kinderen en ouderen",
+      "date": "2025-06-01T10:03:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "dankjewel",
+      "date": "2025-05-11T18:04:54"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "ok",
+      "date": "2025-04-30T20:12:06"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "leuk om te doen, jammer veel reclame",
+      "date": "2025-04-03T13:16:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "good",
+      "date": "2025-03-18T05:18:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This is sooo good app",
+      "date": "2025-02-22T18:46:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk om zo wat Spaans te leren",
+      "date": "2025-02-21T11:23:35"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Open, gemakkelijke en ongedwongen manier een andere taal leren. Ik gebruik het vooral als geheugen oefening",
+      "date": "2025-02-08T09:32:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Duidelijk en leuk",
+      "date": "2025-01-16T22:41:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Dit spel is echt top. Veel categorieen en makkelijk.",
+      "date": "2025-01-07T18:22:35"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nice 👍🏻",
+      "date": "2025-01-03T04:44:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Een aangename manier om een taal te leren.",
+      "date": "2024-12-22T03:56:19"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "👍👍👍👍",
+      "date": "2024-12-12T20:28:53"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel leerzaam en duidelijk",
+      "date": "2024-12-05T11:16:03"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Voor de beginner zeer aan te raden",
+      "date": "2024-11-30T16:53:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk om zo veel Spaanse woorden te leren en te schrijven.",
+      "date": "2024-11-28T11:00:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik vind deze App goed en heel belangrijk.",
+      "date": "2024-11-26T03:50:53"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Buenos 👍👍👍",
+      "date": "2024-11-21T04:23:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Games are great",
+      "date": "2024-11-02T13:06:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very nice way to learn Spanish.",
+      "date": "2024-10-08T10:20:17"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "nice",
+      "date": "2024-10-03T16:20:34"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Erg leuk om Spaans te leren Goed opgebouwd.",
+      "date": "2024-09-05T19:53:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Simpel en goed te gebruiken woorden",
+      "date": "2024-08-30T22:48:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Al spelende leert men !",
+      "date": "2024-08-26T15:23:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Speelse manier van Spaans leren",
+      "date": "2024-08-25T15:02:09"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "This is so bad. Its like so not educatieve. You hear how to pronounce a letter and then you have to press the right letter out 6 in your screen but the best part is when you hear the voice how the letter sounds and you have to press it the letter is already shown next to the voice emoji. Even a baby can do this",
+      "date": "2024-08-24T23:56:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk",
+      "date": "2024-08-21T14:50:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I love it",
+      "date": "2024-08-07T23:36:03"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Prima app om woordjes te leren. Helaas kan je geen zinnen leren om gesprekken te voeren",
+      "date": "2024-08-06T17:56:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Met een beetje voorkennis is deze app prima om beginners niveau op te krikken",
+      "date": "2024-08-04T12:36:45"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Fijn om woordenkennis stap voor stap te verbreden, maar TE VEEL reclame",
+      "date": "2024-08-01T17:52:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk en leerzaam",
+      "date": "2024-07-27T00:20:12"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Snel en praktisch",
+      "date": "2024-07-23T22:34:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk om zo spaans te leren maar mis zinnen om gesprek te leren voeren",
+      "date": "2024-07-21T18:01:46"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Hamburguesa",
+      "date": "2024-07-18T18:06:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ja echt leuk ...maar mis wel de hele zinnen",
+      "date": "2024-07-16T10:17:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel toegankelijk en makkelijk.",
+      "date": "2024-07-15T08:48:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Really usefull",
+      "date": "2024-07-06T17:14:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super app",
+      "date": "2024-07-04T23:03:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke app. al spelend leren",
+      "date": "2024-07-04T12:53:24"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Only from english",
+      "date": "2024-06-16T12:34:30"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ontzettend leuk om zo Spaans te leren",
+      "date": "2024-06-15T20:37:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super makkelijk spaanse woordjes leren",
+      "date": "2024-06-12T12:23:56"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Aangename manier om Spaans te leren",
+      "date": "2024-06-05T22:46:32"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Woordjes stampen. Goeie start",
+      "date": "2024-05-06T22:27:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Simple good",
+      "date": "2024-05-06T18:03:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Echt mooi en handig om zo Spaanse woorden te leren.",
+      "date": "2024-04-25T16:59:29"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke en gemakkelijke manier om Spaans te leren",
+      "date": "2024-04-24T21:58:46"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Makkelijk en snel Spaanse woorden leren, leuk om te doen",
+      "date": "2024-04-20T11:15:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Eenvoudig maar door herhaling leer je wel wat woorden.",
+      "date": "2024-04-18T21:07:53"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Ik heb heel veel geleerd en ook heel snel!!! Echt een aanrader ♡",
+      "date": "2024-04-15T23:14:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Weliswaar regelmatig reclame maar verder werkt de app prima",
+      "date": "2024-04-10T18:45:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Superhandig en niet moeilijk",
+      "date": "2024-04-01T13:31:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Toppie",
+      "date": "2024-03-30T13:48:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fijn om laag in te kunnen stappen",
+      "date": "2024-03-21T19:24:41"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Handig!!",
+      "date": "2024-03-19T16:40:29"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel leuk",
+      "date": "2024-03-11T09:25:03"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk om te oefenen. Het alfabet lijkt op onze Nederlands. Niet te moeilijk dus. Tis eerder de uitspraak. Ik blijf oefenen",
+      "date": "2024-02-28T08:32:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel leerzaam en het blijft ook hangen",
+      "date": "2024-02-23T15:53:41"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Makkelijke manier op de basis te leren",
+      "date": "2024-02-14T20:12:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Simpel te begrijpen en een goede basis. Leuk, onderhoudend en leerzaam 😊😊",
+      "date": "2024-02-11T16:25:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fun",
+      "date": "2024-02-11T11:09:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel aangenaam",
+      "date": "2024-02-10T11:08:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk om te doen",
+      "date": "2024-02-07T19:44:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leerzaam",
+      "date": "2024-02-01T13:58:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Je kunt met deze spel goed spaans leren",
+      "date": "2024-01-28T11:34:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Voor mij werkt het",
+      "date": "2024-01-27T17:51:37"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Goede app om woorden te leren,voor beginners",
+      "date": "2024-01-20T23:02:44"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik had het graag in het Nederlands in plaats van Engels. Zo moet ik 2 talen leren Engels en Spaans.",
+      "date": "2024-01-11T12:09:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Erg leuk",
+      "date": "2024-01-06T19:36:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het is een leuk spel en je kunt er veel van leren ik gebruik het voor een voorbereiding op een reis en omdat ik geen spaans kan",
+      "date": "2023-12-12T19:01:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Súper aplicación ✅️",
+      "date": "2023-11-12T23:36:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het is een leuke en leerzaam spel goed te begrijpen en dyslexie vriendelijke omdat er meerdere pogingen zijn en ze laten zien wat je fout doet en wat het wel is of hoe je het moet schrijven",
+      "date": "2023-11-07T19:10:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Free no nonsense",
+      "date": "2023-10-13T23:22:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel vlug spaans leren",
+      "date": "2023-10-08T23:08:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top programnaatje om Spaans te leren!",
+      "date": "2023-10-03T20:01:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great. Thanks",
+      "date": "2023-09-21T16:16:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het is OK",
+      "date": "2023-09-19T21:02:03"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Tof!",
+      "date": "2023-09-13T18:01:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk voor de eerste woordjes en uitspraak.",
+      "date": "2023-09-10T13:08:10"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Zijn er geen nederlands-spaanse lessen?",
+      "date": "2023-08-30T15:25:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Prima ap. Top",
+      "date": "2023-08-19T14:20:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik vindt het leuk want ik leer meer spaans en is best leuk hoor!",
+      "date": "2023-08-19T10:49:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Eenvoudige en speelse manier om de belangrijkste woorden te leren. Interessant en leuk om zo Spaans te leren.",
+      "date": "2023-08-12T14:20:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het is heel leuk en leerzaam!",
+      "date": "2023-08-08T17:44:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nice",
+      "date": "2023-07-28T18:44:13"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Top voor beginners",
+      "date": "2023-07-17T14:18:21"
+    }
+  ]
+}

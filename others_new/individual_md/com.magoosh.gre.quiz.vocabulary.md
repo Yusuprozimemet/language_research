@@ -1,0 +1,292 @@
+# Vocabulary Builder - Test Prep
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | Vocabulary Builder - Test Prep | N/A |
+| **Package/ID** | com.magoosh.gre.quiz.vocabulary | N/A |
+| **Rating** | 4.643678 | N/A |
+| **Total Ratings** | 98,312 | N/A |
+| **Installs** | 10,000,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+<b>★ Over 5 MILLION students have used Magoosh to improve their GRE vocab! ★</b>
+ 
+Build your vocabulary with Magoosh's <b>free GRE vocabulary game</b> for your Android device. Quiz yourself every day to learn the 1200 most important words on the GRE test! Our app helps you improve your vocab and prep for the GRE test – now you can practice and improve your vocabulary anywhere, any time! 
+
+
+<b>Why students LOVE our app…</b>
+✓ 1200 GRE vocab words picked by an expert tutor
+✓ Audio pronunciation for each of the words in the app
+✓ Definitions and example sentences for every word
+✓ Basic, Intermediate, and Advanced vocabulary sections
+✓ Beat levels to unlock new words
+✓ Track your progress as you study
+
+This app gives you free access to all of Magoosh’s general, GRE, SAT, and TOEFL vocab quizzes. Sign in with a Magoosh account (or create a new one) to save your progress to the web.
+
+<b>Created by experts</b>
+The entire wordlist is selected and defined with usage examples by Magoosh’s expert tutors, led by Chris Lele. He has been teaching the GRE for more than 10 years, runs a popular vocabulary series on YouTube and he’s also written an eBook on vocabulary. He is unbeatable in Scrabble, or any other word game for that matter. 
+
+<b>Designed for fun and learning that really sticks</b>
+Each level you beat unlocks a harder one: more words and more advanced vocabulary. Words you don't know will be repeated until you master them, using spaced repetition which has been shown to be a very effective memorization strategy.
+
+<b>About Magoosh</b>
+We're an online test prep company with a focus on teaching the GRE, GMAT, ACT, SAT, TOEFL, and IELTS through videos and personalized customer support.
+
+In addition to our online course, we blog about words, roots, formulas, grammar, problem solving, quantitative reasoning, and reading comprehension along with study guides and study tips. Articles from the blog have been compiled into 3 separate free ebooks with over 6,000 downloads.
+
+<b>Have any questions? Please ask!</b>
+Customer satisfaction is incredibly important to us. If you have any questions or comments, please send us an email at help@magoosh.com.
+ 
+<b>Build your vocab & practice for the GRE test – download GRE Vocabulary Builder free!</b>
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 25 (25 analyzed)
+**Rating Distribution:** 23 positive (4-5★), 2 neutral (3★), 0 negative (1-2★)
+**Average Sentiment:** 0.25 (-1=very negative, +1=very positive)
+**Primary Language:** en
+**Key Insights:** Average rating: 4.6/5.0 | Overall sentiment: positive (score: 0.25) | Reviews in 3 languages, primarily en (20 reviews) | Reviews from 1 platform(s): google | Key themes: app, way, words
+
+
+### 🔑 Key Themes & Phrases
+
+- **app** (relevance: 0.136)
+- **way** (relevance: 0.110)
+- **words** (relevance: 0.097)
+- **vocabulary** (relevance: 0.090)
+- **great** (relevance: 0.079)
+- **fun** (relevance: 0.065)
+- **helps** (relevance: 0.062)
+- **learning** (relevance: 0.059)
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 17 reviews (68.0%)
+- **4 ★★★★☆**: 6 reviews (24.0%)
+- **3 ★★★☆☆**: 2 reviews (8.0%)
+
+### 🌍 Languages in Reviews
+
+- **en**: 20 reviews
+- **nl**: 4 reviews
+- **unknown**: 1 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 25 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/Vocabulary_Builder_-_Test_Prep_analytics.png)
+
+### Word Cloud
+![Word Cloud](charts/Vocabulary_Builder_-_Test_Prep_wordcloud.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★★★★★ - google - 2021-06-29T18:00:58)
+> 👍👍👍
+
+**Review 2** (★★★★ - google - 2018-01-17T11:34:03)
+> Inhoud is supergoed, maar er zijn nog wel verbeteringen nodig is user experience. Zoals de manier van leren, omvang van de levels en de keuze voor welke woorden je wilt leren.
+
+**Review 3** (★★★★★ - google - 2017-08-13T18:19:22)
+> a nice app to approve your English in a lucid way
+
+**Review 4** (★★★★★ - google - 2016-03-09T23:39:52)
+> Perfect ! Very handy
+
+**Review 5** (★★★★★ - google - 2015-02-28T16:20:34)
+> This app really helped me prepare for the GRE, without taking too much time because you can play it while waiting for the bus, on the train, or any time you have a few minutes to spare. I scored a 167, largely thanks to the vocabulary I learned from this app, so definitely recommend.
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "Vocabulary Builder - Test Prep",
+  "google_package": "com.magoosh.gre.quiz.vocabulary",
+  "google": {
+    "title": "Vocabulary Builder - Test Prep",
+    "description": "<b>★ Over 5 MILLION students have used Magoosh to improve their GRE vocab! ★</b>\r\n \r\nBuild your vocabulary with Magoosh's <b>free GRE vocabulary game</b> for your Android device. Quiz yourself every day to learn the 1200 most important words on the GRE test! Our app helps you improve your vocab and prep for the GRE test – now you can practice and improve your vocabulary anywhere, any time! \r\n\r\n\r\n<b>Why students LOVE our app…</b>\r\n✓ 1200 GRE vocab words picked by an expert tutor\r\n✓ Audio pronunciation for each of the words in the app\r\n✓ Definitions and example sentences for every word\r\n✓ Basic, Intermediate, and Advanced vocabulary sections\r\n✓ Beat levels to unlock new words\r\n✓ Track your progress as you study\r\n\r\nThis app gives you free access to all of Magoosh’s general, GRE, SAT, and TOEFL vocab quizzes. Sign in with a Magoosh account (or create a new one) to save your progress to the web.\r\n\r\n<b>Created by experts</b>\r\nThe entire wordlist is selected and defined with usage examples by Magoosh’s expert tutors, led by Chris Lele. He has been teaching the GRE for more than 10 years, runs a popular vocabulary series on YouTube and he’s also written an eBook on vocabulary. He is unbeatable in Scrabble, or any other word game for that matter. \r\n\r\n<b>Designed for fun and learning that really sticks</b>\r\nEach level you beat unlocks a harder one: more words and more advanced vocabulary. Words you don't know will be repeated until you master them, using spaced repetition which has been shown to be a very effective memorization strategy.\r\n\r\n<b>About Magoosh</b>\r\nWe're an online test prep company with a focus on teaching the GRE, GMAT, ACT, SAT, TOEFL, and IELTS through videos and personalized customer support.\r\n\r\nIn addition to our online course, we blog about words, roots, formulas, grammar, problem solving, quantitative reasoning, and reading comprehension along with study guides and study tips. Articles from the blog have been compiled into 3 separate free ebooks with over 6,000 downloads.\r\n\r\n<b>Have any questions? Please ask!</b>\r\nCustomer satisfaction is incredibly important to us. If you have any questions or comments, please send us an email at help@magoosh.com.\r\n \r\n<b>Build your vocab & practice for the GRE test – download GRE Vocabulary Builder free!</b>",
+    "rating": 4.643678,
+    "rating_text": null,
+    "ratings_total": 98312,
+    "ratings_histogram": [
+      3389,
+      1882,
+      2257,
+      11298,
+      79474
+    ],
+    "installs": "10,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "👍👍👍",
+      "date": "2021-06-29T18:00:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goede app.",
+      "date": "2021-02-06T18:15:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great for expanding your vocabulary, its almost perfect for hihg schoolers or a bit experienced english speakers. Great app.",
+      "date": "2020-06-15T23:01:23"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Easy to do and excellent with example sentences.",
+      "date": "2019-11-11T16:16:53"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great content, well designed app.",
+      "date": "2019-06-07T01:36:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "A fun way to train your vocabulary",
+      "date": "2018-04-13T11:51:08"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Inhoud is supergoed, maar er zijn nog wel verbeteringen nodig is user experience. Zoals de manier van leren, omvang van de levels en de keuze voor welke woorden je wilt leren.",
+      "date": "2018-01-17T11:34:03"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Heel handig dat de woorden voor een aantal beroemde toetsen er al in staan, vaak ingedeeld in 3 of 4 levels. De online multiplayer voegt zeker iets toe, 'n goeie tip voor andere overhoorprogramma's en docenten! Ik zie het voordeel van het sterk verhogen van het aantal woorden per sublevel  niet in.. dit is o.a. onhandig bij het reviewen later, omdat de eerste uit 10 en de laatste uit 65 woorden bestaat, wat erg veel in één keer is. De app houdt bij welke woorden je het vaakst fout doet, maar maakt hier geen aparte woordenlijst van om je op te focussen. Meerkeuze is de enige methode, wat begrijpelijk is maar wel saai wordt na een tijdje. Het belangrijkste nadeel aan de app is dat je het volledige level gespeeld moet hebben voordat je een goede kans maakt om de multiplayer goed te maken, tenzij je voor jezelf een weinig uitdagend niveau hebt gekozen, omdat hierin woorden voorkomen uit sublevels die je nog niet gehad hebt en dus nog niet kunt weten (ook omdat de correcte definitie soms nog iets te wensen overlaat). Genoeg verbeterpuntjes dus, maar desondanks een handige app voor wie zijn/haar Engels wil verbeteren, zeker als het voor een bepaalde toets is.",
+      "date": "2018-01-06T14:17:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Verrassende levels, mooi opbouwend en uitstekende keuze aan woorden!",
+      "date": "2017-12-23T21:45:17"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Using it to improve my vocabulary and so far I am really learning a lot of interesting new words! Showing the words in relevant sentences is also a neat feature.",
+      "date": "2017-11-20T01:20:46"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Fun way to learn, although I wish there where more languages.",
+      "date": "2017-11-08T13:06:25"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It would be helpful if you had an option to see all the words in a list after completing a level",
+      "date": "2017-10-21T15:35:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "a nice app to approve your English in a lucid way",
+      "date": "2017-08-13T18:19:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Good lay out, comprehensible and challenging.",
+      "date": "2017-08-11T11:27:50"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "A nice app that quickly helps you learn new words. Repeats words you got wrong twice. Taught me quite a few new words that I can use!",
+      "date": "2016-11-02T20:09:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "You can really learn a lot of words with this app and it's great fun!",
+      "date": "2016-06-11T22:38:41"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Of all the tools for learning vocabulary  this is one of the best.  High level vocabulary, related to standard tests, competition with other learners.",
+      "date": "2016-06-10T18:41:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "For learning me English in an easy way",
+      "date": "2016-03-11T21:11:17"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfect ! Very handy",
+      "date": "2016-03-09T23:39:52"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Impossible to stop this app in a normal way. I can only go back to the beginning. Very annoying.",
+      "date": "2016-02-10T11:08:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "there is quite a learning curve, even in the higher levels of the basic words. repetition of wrong answers is done in a way that really helps you remember them, and not least important, its context. and it's fun!",
+      "date": "2016-02-02T04:36:07"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Works like a charm. Would like the option to permanently download the words.",
+      "date": "2015-11-30T23:05:10"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "There is only ever one definition per word eventhough there are more to each word. But it helps.",
+      "date": "2015-09-05T17:09:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It's easy way to work on your vocabulary on moments that would otherwise go to waste like waiting on the bus",
+      "date": "2015-09-05T15:38:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This app really helped me prepare for the GRE, without taking too much time because you can play it while waiting for the bus, on the train, or any time you have a few minutes to spare. I scored a 167, largely thanks to the vocabulary I learned from this app, so definitely recommend.",
+      "date": "2015-02-28T16:20:34"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:51:15 using advanced analytics*

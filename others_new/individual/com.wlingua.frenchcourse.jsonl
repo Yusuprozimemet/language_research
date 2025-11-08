@@ -1,0 +1,53 @@
+{
+  "name": "Wlingua - Learn French",
+  "google_package": "com.wlingua.frenchcourse",
+  "google": {
+    "title": "Wlingua - Learn French",
+    "description": "<b>Learning French has never been so easy.</b>\r\nIt's perfect for you, whether you already have a beginner, basic, intermediate, or advanced level of French. Thanks to our online French courses, you’ll notice your French improving very quickly. Millions of students have already tried our courses. Would you like to join them?\r\n\r\n<h1><b>Our Online French Courses:</b></h1>\r\n<b>French Course</b>\r\nIn this course you will learn French from scratch. Guaranteed! Regardless of the level you start from, it is designed to help you learn French from day one.\r\n\r\n<b>French Pronunciation Course</b>\r\nThe French alphabet has 26 letters, but more than 30 different sounds! In this course you will be able to learn to distinguish them, see example words of each of them, and practice all of them using various exercises.\r\n\r\n<h1><b>Our Learning Method:</b></h1>\r\nA learning process designed for you that is both easy and guided: You’ll feel like you’re learning more and more French every day. Every sentence, exercise, review, and reading has been carefully selected for you.\r\n\r\nAudio clips in French: A wide variety of accents with clear, crisp pronunciation. Recorded by professional narrators.\r\n\r\nLinked concepts: Each word is linked to its use or precise meaning. When you click on the words in each sentence, exercise, or reading, their meaning or an explanation of their use will appear.\r\n\r\nLesson structure: Concepts are introduced progressively throughout the course. Only concepts that are explained in the course are used to create the content (sentences, exercises or readings).\r\n\r\nVocabulary: Learn the meaning, pronunciation, and use of words with activities adapted to your progress.\r\n\r\nGrammar exercises: Practice your grammar with exercises linked to explanations.\r\n\r\nVocabulary topics: Words are grouped by topic categories.\r\n\r\nSpaced reviews: Review the vocabulary and grammar at increasingly long intervals.\r\n\r\nSearch function: Find whatever you’re looking for, including vocabulary and grammar.\r\n\r\nReading comprehension texts (readings): Learn and practice with conversations, news, emails, and interviews, among others.\r\n\r\nCertificates: Earn a certificate that proves your knowledge at the end of each level.\r\n\r\nAccount types:\r\n✔ Basic: With a Basic account, the course is free, but has some limitations.\r\n✔ Premium: With a Premium account, you’ll have access to all course content and activities.\r\n\r\nAt Wlingua, we work hard every day to offer you a quality French app that will help you in your work, with that upcoming exam, on your vacation, in communicating with people from around the world...\r\n\r\nDownload our app to learn French!",
+    "rating": 4.78,
+    "rating_text": null,
+    "ratings_total": 13624,
+    "ratings_histogram": [
+      112,
+      112,
+      112,
+      1748,
+      11423
+    ],
+    "installs": "500,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super handig! uitstekende app",
+      "date": "2025-04-22T18:54:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "overzichtelijk/duidelijk heel goede app om een andere taal te leren",
+      "date": "2025-02-21T09:16:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "good app to improve your french",
+      "date": "2024-07-20T09:49:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very nice!",
+      "date": "2022-11-20T21:32:23"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Very very good compared to other apps! Buy only with creditcard payable",
+      "date": "2020-06-01T19:36:41"
+    }
+  ]
+}

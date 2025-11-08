@@ -1,0 +1,71 @@
+# English Vocabulary PRO
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | English Vocabulary PRO | N/A |
+| **Package/ID** | com.uoe.vocabularypro | N/A |
+| **Rating** | 0 | N/A |
+| **Total Ratings** | 0 | N/A |
+| **Installs** | 10,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+Discover the key to unlocking the English language with our comprehensive app designed specifically for English learners of all levels. Whether you're just starting your journey into English or looking to polish your skills, this app is your ultimate companion.
+
+Features:
+
+English Vocabulary: Dive into an extensive collection of words, curated to enhance your everyday communication skills. Each entry comes with definitions, usage examples, and pronunciation guides to help you grasp the essence of the word.
+
+Phrasal Verbs: Phrasal verbs can be tricky, but our app demystifies them for you. Learn the meanings of common phrasal verbs and how to use them in sentences to sound more like a native speaker.
+
+Idioms: Idioms add color to the language. With our easy-to-understand explanations, you'll master the art of using idioms to express ideas more vividly.
+
+Collocations: Discover word pairs that frequently go together and learn how to use them to make your English sound more natural and fluent.
+
+Whether you're preparing for an English exam, aiming to improve your conversational skills, or just curious about the language, our app provides you with the tools you need to succeed. Each section is designed to be accessible, engaging, and most importantly, effective in helping you build a stronger English vocabulary.
+
+Join thousands of learners who are already enhancing their English skills with our app. Start your journey to fluency today!
+
+Can you afford not to join us?
+
+## 📊 Reviews Analytics
+
+No reviews available for analysis.
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "English Vocabulary PRO",
+  "google_package": "com.uoe.vocabularypro",
+  "google": {
+    "title": "English Vocabulary PRO",
+    "description": "Discover the key to unlocking the English language with our comprehensive app designed specifically for English learners of all levels. Whether you're just starting your journey into English or looking to polish your skills, this app is your ultimate companion.\r\n\r\nFeatures:\r\n\r\nEnglish Vocabulary: Dive into an extensive collection of words, curated to enhance your everyday communication skills. Each entry comes with definitions, usage examples, and pronunciation guides to help you grasp the essence of the word.\r\n\r\nPhrasal Verbs: Phrasal verbs can be tricky, but our app demystifies them for you. Learn the meanings of common phrasal verbs and how to use them in sentences to sound more like a native speaker.\r\n\r\nIdioms: Idioms add color to the language. With our easy-to-understand explanations, you'll master the art of using idioms to express ideas more vividly.\r\n\r\nCollocations: Discover word pairs that frequently go together and learn how to use them to make your English sound more natural and fluent.\r\n\r\nWhether you're preparing for an English exam, aiming to improve your conversational skills, or just curious about the language, our app provides you with the tools you need to succeed. Each section is designed to be accessible, engaging, and most importantly, effective in helping you build a stronger English vocabulary.\r\n\r\nJoin thousands of learners who are already enhancing their English skills with our app. Start your journey to fluency today!\r\n\r\nCan you afford not to join us?",
+    "rating": 0,
+    "rating_text": null,
+    "ratings_total": 0,
+    "ratings_histogram": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "installs": "10,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": []
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:52:19 using advanced analytics*

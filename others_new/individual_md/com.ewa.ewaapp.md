@@ -1,0 +1,453 @@
+# EWA: Learn English & Spanish
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | EWA: Learn English & Spanish | N/A |
+| **Package/ID** | com.ewa.ewaapp | N/A |
+| **Rating** | 4.808957 | N/A |
+| **Total Ratings** | 920,077 | N/A |
+| **Installs** | 10,000,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+Do you want to learn English with popular movies and TV shows? Or learn Spanish by reading books with bilingual translations and adapted audiobooks?
+
+Improve your language skills while having fun with EWA’s unique language learning methodology, featuring:
+
+● bite-sized lessons adapted for every level,
+● 100% binge-worthy content,
+● bilingual books with audio,
+● interactive games and features,
+● progress tracking, spaced repetition learning, and more!
+
+Take your language learning to the next level with a top-reviewed language learning app. EWA is available in 35 languages and counting, and EWA has empowered over 60 million people worldwide to learn English, Spanish, French, or Italian.
+
+👩‍🏫 Master Speaking with Movies/TV Shows
+
+Want to learn English with your favorite movie hero or chat in Spanish to your most hated TV series villain?
+
+EWA uses snippets from your favorite shows and movies to teach you new words and phrases in action to improve your speaking skills.
+
+Regardless of your level, you’ll quickly gain the confidence you need to start speaking with content that’s fun and unforgettable.
+
+Choose the topic and difficulty that best fits your goals and dive into one of our courses for language levels ranging from:
+● Rookie
+● Skilled
+● Advanced
+● Travel
+● Business
+● Grammar etc.
+
+**We’re constantly expanding our library of courses to deliver you unique language learning options. Stay tuned for updates!**
+
+📚 Improve Your Reading and Pronunciation with over 10,000 Books
+Explore our extensive library in English, French, German, Italian, and Spanish! Expand & boost your vocabulary, master complex grammar, and perfect your pronunciation. 
+
+Here’s how it works:
+
+● Pick your difficulty (Rookie to Advanced)
+● Choose a genre you love
+● Wow - You’re reading your first book in a new language!
+● Encountered a new word? Just tap on the word and EWA will display its translation. One more tap and you can add it to your “To-Learn” list.
+
+Enjoy a wide selection of audiobooks that will help you start sounding like a native in no time! We’ve picked the most exciting, adventurous, spicy, hilarious titles - adapted for your level.
+
+🗣 Oxford Topics Dialogues
+
+Don't know what to say at passport control, how to ask for directions or order food at a café? Read and listen to dialogues on everyday topics, developed in collaboration with Oxford Reading University, that will help you in every journey of yours. Thanks to the dialogues, you'll be able to easily improve your conversational English by applying the material you've learned in real life!
+
+🏆 Solidify Your Knowledge and Compete in Our Leaderboard
+
+If you have trouble remembering what you just learned - EWA is the perfect app for you. With EWA, you can be certain that what you learn sticks! EWA also keeps you motivated by allowing you to track your progress and compete against language learners.
+
+Challenge yourself with over 40,000 flashcards and amazing language games such as Wordcraft and Memento. Or challenge other learners to a language duel!
+
+And here’s the best part:
+EWA makes time work for you by testing your knowledge of new words right when they’re about to slip away from your memory.
+
+The more you learn a new language, the better you get, and the higher you climb up EWA’s Leaderboard.Motivate yourself to stay on track with your learning, and you’ll soon be hitting those top spots!
+
+**PLEASE READ:**
+
+EWA features a selection of free content, but an EWA subscription is required in order to access all courses and learning features. Please note: available courses may vary depending on your device’s language. Once purchased, subscriptions will automatically renew unless canceled before the end of the current payment period. Subscriptions can be managed or canceled in your Google Play Store account.
+
+If you have any concerns, recommendations, or complaints just drop us a line at support@appewa.com and we’ll work towards making EWA better!
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 46 (46 analyzed)
+**Rating Distribution:** 37 positive (4-5★), 1 neutral (3★), 8 negative (1-2★)
+**Average Sentiment:** 0.22 (-1=very negative, +1=very positive)
+**Primary Language:** nl
+**Key Insights:** Average rating: 4.1/5.0 | Overall sentiment: positive (score: 0.22) | Reviews in 11 languages, primarily nl (15 reviews) | Reviews from 1 platform(s): google | Key themes: app, goed, great
+
+
+### 🔑 Key Themes & Phrases
+
+- **app** (relevance: 0.096)
+- **goed** (relevance: 0.096)
+- **great** (relevance: 0.064)
+- **free** (relevance: 0.059)
+- **good** (relevance: 0.053)
+- **super** (relevance: 0.051)
+- **het** (relevance: 0.044)
+- **nice** (relevance: 0.043)
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 30 reviews (65.2%)
+- **4 ★★★★☆**: 7 reviews (15.2%)
+- **3 ★★★☆☆**: 1 reviews (2.2%)
+- **1 ★☆☆☆☆**: 8 reviews (17.4%)
+
+### 🌍 Languages in Reviews
+
+- **nl**: 15 reviews
+- **unknown**: 12 reviews
+- **en**: 10 reviews
+- **da**: 2 reviews
+- **af**: 1 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 46 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/EWA__Learn_English___Spanish_analytics.png)
+
+### Word Cloud
+![Word Cloud](charts/EWA__Learn_English___Spanish_wordcloud.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★★★★ - google - 2025-08-13T22:00:30)
+> perfect
+
+**Review 2** (★★★★★ - google - 2024-07-17T19:58:58)
+> Excellent 👌 meer Anime in aub
+
+**Review 3** (★★★★★ - google - 2021-11-08T21:53:32)
+> Super fijn app!!
+
+**Review 4** (★ - google - 2020-11-16T23:09:21)
+> Is not free
+
+**Review 5** (★★★★★ - google - 2019-02-22T02:01:09)
+> SUPER! Hayatımda kullandığım en iyi ingilizce uygulaması, herkese öneriyorum 👍
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "EWA: Learn English & Spanish",
+  "google_package": "com.ewa.ewaapp",
+  "google": {
+    "title": "EWA: Learn English & Spanish",
+    "description": "Do you want to learn English with popular movies and TV shows? Or learn Spanish by reading books with bilingual translations and adapted audiobooks?\r\n\r\nImprove your language skills while having fun with EWA’s unique language learning methodology, featuring:\r\n\r\n● bite-sized lessons adapted for every level,\r\n● 100% binge-worthy content,\r\n● bilingual books with audio,\r\n● interactive games and features,\r\n● progress tracking, spaced repetition learning, and more!\r\n\r\nTake your language learning to the next level with a top-reviewed language learning app. EWA is available in 35 languages and counting, and EWA has empowered over 60 million people worldwide to learn English, Spanish, French, or Italian.\r\n\r\n👩‍🏫 Master Speaking with Movies/TV Shows\r\n\r\nWant to learn English with your favorite movie hero or chat in Spanish to your most hated TV series villain?\r\n\r\nEWA uses snippets from your favorite shows and movies to teach you new words and phrases in action to improve your speaking skills.\r\n\r\nRegardless of your level, you’ll quickly gain the confidence you need to start speaking with content that’s fun and unforgettable.\r\n\r\nChoose the topic and difficulty that best fits your goals and dive into one of our courses for language levels ranging from:\r\n● Rookie\r\n● Skilled\r\n● Advanced\r\n● Travel\r\n● Business\r\n● Grammar etc.\r\n\r\n**We’re constantly expanding our library of courses to deliver you unique language learning options. Stay tuned for updates!**\r\n\r\n📚 Improve Your Reading and Pronunciation with over 10,000 Books\r\nExplore our extensive library in English, French, German, Italian, and Spanish! Expand & boost your vocabulary, master complex grammar, and perfect your pronunciation. \r\n\r\nHere’s how it works:\r\n\r\n● Pick your difficulty (Rookie to Advanced)\r\n● Choose a genre you love\r\n● Wow - You’re reading your first book in a new language!\r\n● Encountered a new word? Just tap on the word and EWA will display its translation. One more tap and you can add it to your “To-Learn” list.\r\n\r\nEnjoy a wide selection of audiobooks that will help you start sounding like a native in no time! We’ve picked the most exciting, adventurous, spicy, hilarious titles - adapted for your level.\r\n\r\n🗣 Oxford Topics Dialogues\r\n\r\nDon't know what to say at passport control, how to ask for directions or order food at a café? Read and listen to dialogues on everyday topics, developed in collaboration with Oxford Reading University, that will help you in every journey of yours. Thanks to the dialogues, you'll be able to easily improve your conversational English by applying the material you've learned in real life!\r\n\r\n🏆 Solidify Your Knowledge and Compete in Our Leaderboard\r\n\r\nIf you have trouble remembering what you just learned - EWA is the perfect app for you. With EWA, you can be certain that what you learn sticks! EWA also keeps you motivated by allowing you to track your progress and compete against language learners.\r\n\r\nChallenge yourself with over 40,000 flashcards and amazing language games such as Wordcraft and Memento. Or challenge other learners to a language duel!\r\n\r\nAnd here’s the best part:\r\nEWA makes time work for you by testing your knowledge of new words right when they’re about to slip away from your memory.\r\n\r\nThe more you learn a new language, the better you get, and the higher you climb up EWA’s Leaderboard.Motivate yourself to stay on track with your learning, and you’ll soon be hitting those top spots!\r\n\r\n**PLEASE READ:**\r\n\r\nEWA features a selection of free content, but an EWA subscription is required in order to access all courses and learning features. Please note: available courses may vary depending on your device’s language. Once purchased, subscriptions will automatically renew unless canceled before the end of the current payment period. Subscriptions can be managed or canceled in your Google Play Store account.\r\n\r\nIf you have any concerns, recommendations, or complaints just drop us a line at support@appewa.com and we’ll work towards making EWA better!",
+    "rating": 4.808957,
+    "rating_text": null,
+    "ratings_total": 920077,
+    "ratings_histogram": [
+      14673,
+      4295,
+      14385,
+      75185,
+      811420
+    ],
+    "installs": "10,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "perfect",
+      "date": "2025-08-13T22:00:30"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "meer online dingen nodig maar voor de rest niks",
+      "date": "2025-06-30T18:15:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "very nice",
+      "date": "2025-06-09T13:33:03"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "loopt vast na beantwoorden van de vragen in de 'chat' dus niet kunnen oefenen.",
+      "date": "2025-04-22T08:03:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik doe mijn best en wil deze les bewaren, kan dit ?",
+      "date": "2025-01-18T10:37:52"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuke app.",
+      "date": "2024-12-08T18:00:04"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Aanmelden gaat makkelijk. Maar afmelden geeft veel problemen. Erg jammer.",
+      "date": "2024-11-15T12:47:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "great",
+      "date": "2024-09-28T10:21:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Net begonnen, nog géén idee ?",
+      "date": "2024-09-26T00:59:40"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Popups, adds and not free",
+      "date": "2024-09-21T16:13:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "voor zover prima app",
+      "date": "2024-08-22T11:47:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Excellent 👌 meer Anime in aub",
+      "date": "2024-07-17T19:58:58"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "The app is supporting genocide",
+      "date": "2024-05-02T15:26:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super good 👍👍👍",
+      "date": "2024-01-03T22:47:12"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "great concept to learn new language",
+      "date": "2023-11-17T20:45:05"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This is Really good alone maybe free abonnement Oke chaou",
+      "date": "2023-08-18T18:33:23"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Het is heel slecht",
+      "date": "2023-08-16T11:49:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "simple en sneller begrijpend een taal te leren mooi hoor! bedankt.",
+      "date": "2023-04-14T23:40:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goed Goed Goed",
+      "date": "2023-03-06T16:21:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goede app",
+      "date": "2022-06-04T12:28:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik ben heel tevreden al twee talen aan het leren",
+      "date": "2022-05-02T22:13:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "كتييرررر حلوووو",
+      "date": "2021-12-10T18:30:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Thanks to the employees who helped me to solve my problem i am coming back to give you all (creators, and workers behind de scene) 5 stars.. so ty",
+      "date": "2021-12-01T14:04:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super fijn app!!",
+      "date": "2021-11-08T21:53:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "😍😍😍😍",
+      "date": "2021-09-13T23:31:24"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "كتير مفيد",
+      "date": "2021-06-27T23:41:16"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Jammer dat je moet betalen...",
+      "date": "2021-05-09T20:37:23"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Work so good with me",
+      "date": "2021-04-26T20:37:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ja het lijkt me een goede app maar om boeken te lezen moet je +plus krijgen maar het help wel voor mensen die net starten met Engels",
+      "date": "2021-01-24T14:35:37"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leukk",
+      "date": "2021-01-21T16:23:14"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It's nice application",
+      "date": "2021-01-09T18:17:12"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Niet zoals in de reclame, kost te veel en de teksten gaan veel te snel. Leuk concept maar dit faalt op deze manier.",
+      "date": "2021-01-04T18:21:21"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Goed",
+      "date": "2020-12-27T14:44:53"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuk ik kan all goed engels maar ik moet wel nog wel paar worden oefenen daarom ben ik hier op gegaan op het eerste oog zag het er al leuk en goed uit en wat blijkt het is ook zo😀😀😀😀😀😇😇😇😇😇",
+      "date": "2020-12-15T13:28:56"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Is not free",
+      "date": "2020-11-16T23:09:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Werkt great... Ik ga deze app meerdere keer gebruiken...!😍😍",
+      "date": "2020-11-15T21:05:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Kk goed",
+      "date": "2020-10-18T00:51:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "great",
+      "date": "2020-09-08T04:30:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It is very useful to learn new languages and especially English",
+      "date": "2020-06-28T03:32:05"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "👍👍",
+      "date": "2020-02-23T00:30:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goed",
+      "date": "2020-02-17T03:02:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Erg goede programma",
+      "date": "2020-02-05T22:16:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Supper, весело, легко, интересно и легко запоминается!",
+      "date": "2020-01-25T09:52:36"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Is heel erg programma ik heb betaalt maar ze hebben mijn geld gestolen",
+      "date": "2019-11-26T01:17:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel goed ik heb dit app al 1 jaar een het is super je leert heel snel engels leren een ook er zijn boeken om te leren heel leuk allemaal!!😊",
+      "date": "2019-09-20T23:09:35"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "SUPER! Hayatımda kullandığım en iyi ingilizce uygulaması, herkese öneriyorum 👍",
+      "date": "2019-02-22T02:01:09"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:49:43 using advanced analytics*

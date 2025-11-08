@@ -1,0 +1,12 @@
+
+pandas
+matplotlib
+nltk
+langdetect
+google-play-scraper
+requests>=2.28
+textblob
+scikit-learn
+wordcloud
+seaborn
+itunespy

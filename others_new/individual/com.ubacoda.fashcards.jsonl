@@ -1,0 +1,29 @@
+{
+  "name": "Flashcards Maker",
+  "google_package": "com.ubacoda.fashcards",
+  "google": {
+    "title": "Flashcards Maker",
+    "description": "Flashcards Maker: The Ultimate Free Study App to Master Any Subject!\r\n\r\nCreate, customize, and conquer your learning goals with Flashcards Maker – perfect for students of all ages. This powerful, easy-to-use app helps you learn faster and remember more.\r\n\r\nKey Features:\r\n\r\n- Unlimited Cards & Folders: Create as many flashcards and organizational folders as you need.\r\n\r\n- Rich Media: Add images to your cards in just a few taps.\r\n\r\n- Intuitive Controls: Swipe and tap your way through cards effortlessly.\r\n\r\n- Text-to-Speech: Listen and learn with support for 30+ languages.\r\n\r\n- Quiz Feature: Test your knowledge and track your progress.\r\n\r\n- Smart Organization: Easily sort and filter cards, use colors, and create subfolders.\r\n\r\n- Bookmarks & Memos: Mark tough cards and add notes up to 1000 characters long.\r\n\r\n- Flexible Study Modes: Shuffle cards, auto-play with or without sound, and display card fronts, backs, or both.\r\n\r\n- Share & Sync: Share folders and cards with friends, and seamlessly sync your data across all your devices by creating an account.\r\n\r\n- Word List View: See all your cards in one convenient place.\r\n\r\n- Bulk Editing: Make changes to multiple cards or entire folders at once.\r\n\r\n- Add voice recordings to front and back faces of cards\r\n\r\nFlashcards Maker is designed with a clean, unobstructed interface, making studying a breeze. Our users love it, and we're sure you will too!\r\n\r\nDownload Flashcards Maker now and start remembering the easy way!\r\n\r\n* Contact ben@ubacoda.com with questions and feedback.",
+    "rating": 3.57,
+    "rating_text": null,
+    "ratings_total": 1348,
+    "ratings_histogram": [
+      252,
+      104,
+      200,
+      173,
+      600
+    ],
+    "installs": "100,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Update februari 2023: Na de aangepaste versie werkt de app naar behoren met foto mogelijkheden. Top, ik ben tevreden. Hele fijne app in premium versie. Erg jammer is dat camera optie niet werkt, ook niet in de premium versie. App blijft aangeven dat bij instellingen toegang verleend moet worden voor de camera en er nu niet is terwijl er wel toegang is gegeven. Ik ga daarom op zoek naar een andere app",
+      "date": "2023-02-13T15:00:55"
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "name": "AnkiDroid Flashcards",
+  "google_package": "com.ichi2.anki",
+  "google": {
+    "title": "AnkiDroid Flashcards",
+    "description": "Memorize anything with AnkiDroid!\r\n\r\nAnkiDroid lets you learn flashcards very efficiently by showing them just before you would forget. It is fully compatible with the spaced repetition software Anki (including synchronization), which is available for Windows/Mac/Linux/ChromeOS/iOS.\r\n\r\nStudy all sorts of things wherever and whenever you want. Make good use of idle times on bus trips, in supermarket queues or any other waiting situation!\r\n\r\nCreate your own flashcard decks or download free decks compiled for many languages and topics (thousands available).\r\n\r\nAdd material through the desktop application Anki or directly through Ankidroid. The application even supports adding material automatically from a dictionary!\r\n\r\nNeed support? https://docs.ankidroid.org/help.html (much preferred over comments in reviews here :-) )\r\n\r\n★ Key features:\r\n• supported flashcard contents: text, images, sounds, mathjax\r\n• spaced repetition (supermemo 2 algorithm)\r\n• text-to-speech integration\r\n• thousands of premade decks\r\n• progress widget\r\n• detailed statistics\r\n• syncing with AnkiWeb\r\n• open source\r\n\r\n★ Additional features:\r\n• write answers (optional)\r\n• whiteboard\r\n• card editor/adder\r\n• card browser\r\n• tablet layout\r\n• import existing collection files (via Anki Desktop)\r\n• add cards by intent from other applications like dictionaries\r\n• custom font support\r\n• full backup system\r\n• navigation by swipe, tap, shake\r\n• fully customisable\r\n• dynamic deck handling\r\n• dark mode\r\n• 100+ localisations!\r\n• All previous AnkiDroid versions can be downloaded from the website",
+    "rating": 4.7864475,
+    "rating_text": null,
+    "ratings_total": 149890,
+    "ratings_histogram": [
+      4304,
+      916,
+      1994,
+      7997,
+      134649
+    ],
+    "installs": "10,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fabulous! Makes you really memorize your cards with a very customizable experience. Excellent shared decks btw!",
+      "date": "2025-10-10T21:09:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Zeer handige leer tool met heel veel customisability.",
+      "date": "2025-09-25T12:50:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "top app, kan het helemaal naar je wens aanpassen",
+      "date": "2025-09-19T23:00:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Endlich ein würdiger Nachfolger für den Langenscheidt Vokabeltrainer, der leider keine App hat und außerdem auf neueren Windows Versionen nicht mehr funktioniert. Die Auswahl an durch User kreierten Sets ist fantastisch, und die App selbst supereasy zu benutzen.",
+      "date": "2025-08-29T20:09:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Terrific app for building and learning your vocabulair in every language you want.",
+      "date": "2025-08-05T05:44:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This is the an utterly great software to learn any language or all that need to be proper remembered. I speak fluent Dutch and French now, thanks learning words with this app.",
+      "date": "2025-07-14T08:35:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I use it in combination with the Linux program for my own sets, works like a charm",
+      "date": "2025-03-04T18:44:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top app. Beschikbaar en synchroniseerbaar op Android, Windows, Os,Linux, online. Overal en op elk moment kan je een dek overlopen. 👍",
+      "date": "2024-12-12T05:10:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heeft me al door veel vakken geholpen!",
+      "date": "2024-12-09T16:38:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very good, much better than some other paid or freemium apps",
+      "date": "2024-11-23T11:19:22"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Once an avid Anki-user, now it's become so frustrating that I hardly use it anymore. At random Anki won't sync because my time isn't correct. Well, it is - at least on all the places I can check the clock. Also, it works one day and the next day it won't. My previous review on this issue was answered with a reference to standard DST-issues. However, this sync-issue has plagued me long before the last DST-switch. And go check the fora: lot's of users complain about this. Pity.",
+      "date": "2024-11-17T14:51:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Schitterende App, ik gebruik deze voor het onderhouden van kennis op diverse vakgebieden.",
+      "date": "2024-11-10T16:28:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nog steeds het beste .",
+      "date": "2024-11-06T14:40:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Works great",
+      "date": "2024-09-11T21:52:29"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Absolutely perfect. This app is helping me pass my biology exams :)",
+      "date": "2024-06-22T08:40:12"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This app is amazing. I use it since many years. Complex cards (pictures, latex) can be written on the PC and synced to the phone.",
+      "date": "2024-05-27T10:04:40"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "I can't get my number of new cards for a day above 20 even though there are still more new cards in the deck. Even if I raise the number of new cards by 50 nothing happens...",
+      "date": "2024-04-13T12:12:00"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Lastig dat het vak bovenaan waarin je het woord tot niet het gehele woord toont. Zo zie je de spelling niet, je moet terug scrollen. Ik zou graag zelf de lettergrootte kunnen bepalen. Ook het vet maken van een woord is tijdsintensief.",
+      "date": "2024-03-30T13:18:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app!",
+      "date": "2024-03-23T23:58:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Amazing app! Downloaded the app while following the CCNA study from JIT! Hope this will help me passing the exam!",
+      "date": "2024-03-17T09:15:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Anki is perfect for me and for every person that wants to memorize stuff",
+      "date": "2024-03-09T06:46:41"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "SUCH A GOOD APP FOR LEARNING LANGUAGES",
+      "date": "2024-03-05T19:50:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Dank zij AnkiDroid leer ik de Franse taal. Prima hulpmiddel. Prachtige app",
+      "date": "2024-03-05T09:42:35"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top app!! Voor de CCNA moet je een hoop theorie leren en dit helpt echt bij het onthouden van droge feitjes die ik anders nooit onthouden zou kunnen hebben.",
+      "date": "2024-03-05T07:04:17"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "alle gegevens kwijt. tijdje niet gebruikt",
+      "date": "2024-02-03T22:35:38"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Goeie app voor een gratis app te zijn",
+      "date": "2023-11-21T16:02:26"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "App does not work on Lenovo chromebook.",
+      "date": "2023-10-22T16:12:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Beste app voor flitskaarten. Heel veel mogelijkheden!",
+      "date": "2023-10-21T13:56:43"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "The app functions well, except Anki on desktop lets you create additional profiles that don't load into Ankidroid.",
+      "date": "2023-10-18T20:21:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Keeps asking for storage permission... which the app clearly has. Already tried reinstalling but didn't work. No idea what happened because it was working fine before. EDIT: I did what the developer recommended and it's working again.",
+      "date": "2023-10-13T19:38:29"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfect",
+      "date": "2023-09-03T17:50:00"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Onhandige verschillen met desktopversie. Niet volledig compatibel.",
+      "date": "2023-08-31T22:08:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Works like a charm",
+      "date": "2023-08-31T08:57:54"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Anki helpt me nog steeds met leren en vooral op de manier zoals ik dat zelf wil. Het kost even wat tijd om te leren gebruiken, maar andere programma's heb ik gewist en anki pas ik zelf aan. Top!",
+      "date": "2023-08-26T19:50:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Simply put, the best way to learn anything. I owe a whole lot to Anki.",
+      "date": "2023-08-16T12:13:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Have been using Anki for over ten years now, can't imagine my life without it",
+      "date": "2023-08-08T12:09:56"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel nuttige app om woordenschat te memoriseren! Very useful app to memorise vocabulary!",
+      "date": "2023-08-07T17:48:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Tevreden gebruiker;-)",
+      "date": "2023-08-06T12:40:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfecte simpele leer app",
+      "date": "2023-07-26T08:55:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "How can this app be free? Its the mother of all flashcard learning apps out there. Its the best one.",
+      "date": "2023-03-18T19:24:25"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "In het begin heel erg handig, maar kaarten waar je te snel goed bij zet keren niet meer terug. Ze zouden langer mogen blijven terugkeren. Daarom antwoord ik vaak fout, zodat ze langer terugkomen. Toch blijven heel vaak dezelfde kaarten komen en een aantal kaart veel minder.",
+      "date": "2023-02-20T09:53:14"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Bij verwijderen blijven er bestanden achter!",
+      "date": "2022-12-08T13:54:30"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "App doesn't work without access to my personal files and data. Edit: The app seems open source so they are probably ok to try, but given the amount of suspicious language apps in the app store I will not risk it",
+      "date": "2022-11-28T08:40:38"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Deleted my deck when I tried to synchronize from PC to mobile. Luckily has a backup, but took a while to find the options.",
+      "date": "2022-11-23T15:37:17"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fantastisch app!",
+      "date": "2022-10-16T17:31:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "After reinstalling the app it works again. No loss of data or schedule. Thanks a lot for the support and the development of the app.",
+      "date": "2022-07-20T00:31:30"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It Seems that there is a problem with the volume. I'm using a deck that produces sound on a laptop but not on my phone. Indeed, for it to work i just needed to sync multiple times, thank you for your help and the quick responses.",
+      "date": "2022-06-04T01:56:56"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "The app keeps crashing while loading",
+      "date": "2022-05-16T20:15:12"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel praktisch om belangrijke info te bewaren en herhalen",
+      "date": "2022-04-10T10:00:49"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Cards you make just get deleted after some time",
+      "date": "2022-03-19T08:15:39"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "De beste app die ik ken om woordjes te leren, ik vind het persoonlijk ook veel gebruiksvriendelijker dan de computer app. De app zou perfect zijn als er ook nog een functie bij zit dat je kan kiezen welke datum je de woordjes moet weten. en dat de app dan een schema opstelt. Dit is vooral handig voor scholieren zoals ik.",
+      "date": "2022-02-26T10:59:40"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Als je eenmaal doorhebt hoe de app werkt kan je er erg effectief mee leren, maar omdat de app zo geavanceerd is kan dit echter wel even duren.",
+      "date": "2022-02-01T15:07:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fantastic app. Super useful for memorizing anything.",
+      "date": "2022-01-29T11:28:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Muy bien",
+      "date": "2021-12-31T08:09:44"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "effective",
+      "date": "2021-11-05T12:54:11"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "App does not work on Acer Chromebook tab10",
+      "date": "2021-10-19T12:21:40"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I have tried that already. All of the backups are from today. There's 2, maybe 3 now.",
+      "date": "2021-10-14T16:25:19"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Nice and Simple",
+      "date": "2021-08-29T09:58:35"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I made so much progress in Japanese with this! I wanted to learn a lot of vocabulary fast and this was the most effective for me.",
+      "date": "2021-08-26T11:09:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Wonderful study app! I studied wine exams with it",
+      "date": "2021-07-31T20:11:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "A great way to design, organize and schedule studying flash cards. You cab either build your own decks or download pre-made decks. And even share decks you made yourself, If you like!",
+      "date": "2021-07-25T13:32:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "By far the best and most efficient way to learn a lot of things in a short amount of time. Recommend it to anyone trying to learn anything",
+      "date": "2021-07-19T11:36:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Truly a magnificent tool to learn, practise, memorize and internalise any subject.",
+      "date": "2021-06-07T05:12:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very good app",
+      "date": "2021-06-06T23:44:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I use it now for more then 2 years to build a Spanish to Dutch and visa versa word list of more then 5300 words. With my limited programming knowledge I managed to make a very very useful list with a lot of examples, pictures and explanations. And at the same time I learn Spanish.",
+      "date": "2021-05-27T20:35:36"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Not bad",
+      "date": "2021-05-27T15:01:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super!",
+      "date": "2021-05-27T11:20:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top!",
+      "date": "2021-04-27T11:41:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel handig app",
+      "date": "2021-04-22T20:46:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Anki is truely amazing for learning vocabulary!! The fact that you can import cards from other sites and that it \"remembers\" how well you already know a card is a blessing!! For me it overrules all other learning apps!",
+      "date": "2021-03-29T00:43:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nog nooit ging studeren zo goed",
+      "date": "2021-03-10T22:27:16"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Sometimes my flashcards are empty.",
+      "date": "2021-03-10T08:14:58"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Only synchronizing shared decks could be better. Good work",
+      "date": "2021-03-09T11:11:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "The app is great just like the desktop/web/apple application the only thing you need is some motivation! Its easier to learn (to use the app) than you think.",
+      "date": "2021-03-04T14:48:16"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "I had moved the files of ankidriod from my internal storage to my sd card and now all my decks are gone 😣 so then I moved everything back to my internal storage. That didn't work ofcourse. When I click on the decks in files it says \"You have no apps that can open this file type. You can search for an app in play store.\" I have uninstalled and reinstalled the app but it still doesn't work, does anyone know how to get my decks back in the app.",
+      "date": "2021-02-23T19:45:12"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Really nice app!",
+      "date": "2021-02-03T11:51:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super!",
+      "date": "2021-02-02T14:04:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfect for training for quizzes!",
+      "date": "2021-01-14T17:49:20"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Top methode!. Wel een beetje ingewikkeld om lijsten op te laden.",
+      "date": "2021-01-12T06:18:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top app, no adds, large community of attributors",
+      "date": "2020-12-24T10:08:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Extremely useful tool for learning a language",
+      "date": "2020-12-21T12:13:16"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Zeer goed en gratis app. Voelt soms wat onnatuurlijk aan.",
+      "date": "2020-12-07T14:02:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Works perfectly, has all the functions you would ever need.",
+      "date": "2020-12-06T10:17:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This is THE app that has changed my life. Really, I went from a guy who couldn't remember anything to someone who is known for having an amazing memory.",
+      "date": "2020-12-05T15:50:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Long time user of just a great product",
+      "date": "2020-11-27T07:38:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Just the best in my opinion",
+      "date": "2020-11-26T09:59:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Een erg fijne app om te gebruiken tijdens mijn studie Japans!",
+      "date": "2020-11-21T08:49:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Hele fijne app, waar ik woordjes en zinnen mee leer. In het begin lastig om mee te werken. Begin eerst met decks van anderen. Zodra je begrijpt hoe Anki werkt, ga je je eigen decks maken. En die kun je helemaal aanpassen naar je eigen wens. Letterlijk alles is aan te passen. Lettertypes, kleurtjes, plaatjes, geluidsfragmenten, aantal velden, invulkaarten, omkeren van kaarten. En Anki zorgt ervoor dat je volhoudt, want wat je vandaag niet doet, telt ze op bij wat je morgen moet doen.",
+      "date": "2020-11-21T08:38:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top om een taal te leren",
+      "date": "2020-11-20T17:18:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Dankzij de flitskaarten onderhoud ik de taal wanneer het mij best uitkomt.",
+      "date": "2020-10-26T13:52:08"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Zeer goede app",
+      "date": "2020-10-09T04:38:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Zeer handig om vocabulaire (dagelijks) uit te breiden",
+      "date": "2020-09-18T15:42:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super handig dat je het kan synchroniseren met de pc!",
+      "date": "2020-08-23T20:05:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Lifehack",
+      "date": "2020-03-23T18:44:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Erg handig en makkelijk te gebruiken. Een aanrader.",
+      "date": "2020-02-23T20:05:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Still the best app for creating sophisticated flashcards!",
+      "date": "2019-12-25T08:16:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Kei effectief",
+      "date": "2019-06-12T19:08:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Beste app om je hersenen te drillen!",
+      "date": "2018-09-08T11:10:45"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Fijne basic app. Afbeeldingen toevoegen kost teveel tijd.",
+      "date": "2018-05-14T11:51:18"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "When I go to preferences ,the app continues to kill itself and can't open the app anymore.",
+      "date": "2018-04-03T14:12:27"
+    }
+  ]
+}

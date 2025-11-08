@@ -1,0 +1,623 @@
+{
+  "name": "Grammarly-AI Writing Assistant",
+  "google_package": "com.grammarly.android.keyboard",
+  "google": {
+    "title": "Grammarly-AI Writing Assistant",
+    "description": "Edit and correct your grammar, spelling, punctuation, and more with your personal writing assistant, grammar checker, and editor.\r\n\r\nThe Grammarly writing app and proofreader allows you to write clearly, confidently, and mistake-free in all your apps. Advanced features such as the AI-powered rewrite tool help you enhance your vocabulary, spell check words, and improve your writing - from emails to social media posts.\r\n\r\n<b>Grammarly grammar checker and editor - how does it work?</b>\r\n\r\nSimply download Grammarly and start typing in any app. Grammarly will check each word, your grammar, spelling, punctuation, and tone, and help you improve your communication skills.\r\n\r\nWhether you’re typing emails on the go, editing an important LinkedIn post, sending a text message, or composing an essential tweet, the Grammarly writing assistant and grammar checker lets you spell check, correct, edit and perfect your message from your mobile device with confidence.\r\n\r\nLeveraging the power of generative AI, Grammarly allows you to easily rewrite your messages by composing new versions for you to choose from. Simply select the rewrite option that makes your writing more descriptive, confident, formal - and much more! \r\n\r\nGrammarly works with any Android keyboard, such as Gboard or SwiftKey, so you’ll never have to switch keyboards when you need help writing that important email, text, or social post.\r\n\r\n<b>Edit, spell check, and correct your writing in real time</b>\r\n\r\n– Grammar checker: Know your grammar is always mistake-free.\r\n– Spelling checker and proofreader: Easily avoid common typos.\r\n– Advanced punctuation correction: Take the guesswork out of punctuation.\r\n\r\n<b>Writing assistant and proofreader: Improve your communication skills</b>\r\n\r\n– Receive short, clear explanations for every correction.\r\n– Understand your mistakes and avoid them in the future.\r\n\r\n<b>Improve your writing through GenAI</b>\r\n\r\n- Select your text and click “improve it” to see GenAI-created new versions\r\n- Choose versions to shorten, add more description, sound more confident, and more!\r\n\r\n<b>*** Uplevel Your Communication Skills With Premium ***</b>\r\n\r\nTake your writing and communication skills from good to great with our advanced features and suggestions.\r\n\r\nGrammarly Premium helps you strike the right tone, gives you real-time feedback, and helps you broaden your vocabulary by suggesting impactful, vivid words to help your message, social media post, or email come to life.\r\n\r\n<b>Premium features include:</b>\r\n\r\n✓ Vocabulary enhancement\r\n✓ Clarity improvements\r\n✓ Tone adjustments\r\n✓ Word choice\r\n✓ Formality level\r\n✓ Fluency\r\n\r\n****************\r\n\r\nWe designed the Grammarly mobile app to be a writing assistant that works anywhere you write—no copying or pasting required, no proofreader needed.\r\n\r\nFor any inquiries regarding the deactivation of the Grammarly Keyboard for Android, please refer to this article: https://support.grammarly.com/hc/en-us/articles/25038364027661--The-Grammarly-Keyboard-for-Android-will-be-discontinued\r\n\r\nGrammarly always keeps your writing safe and private. See our User Trust Guidelines for details: https://www.grammarly.com/trust\r\n\r\nBy installing Grammarly’s mobile app, you agree to Grammarly’s Terms and Conditions (www.grammarly.com/terms) and acknowledge that you have read Grammarly’s Privacy Policy (https://www.grammarly.com/privacy-policy). California residents, please see the California Privacy Notice (https://www.grammarly.com/privacy-policy#for-california-users).\r\n\r\nWith your consent, Grammarly may collect data about app usage and device type. Accessibility permission is used to process text written in apps and provide you with tailored writing assistance. We also use this permission to turn Grammarly on when you’re typing in apps.",
+    "rating": 4.1784234,
+    "rating_text": null,
+    "ratings_total": 253867,
+    "ratings_histogram": [
+      33488,
+      8733,
+      11101,
+      26200,
+      174333
+    ],
+    "installs": "50,000,000+",
+    "genre": "Productivity"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "works great",
+      "date": "2025-11-05T13:00:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "formidable",
+      "date": "2025-10-31T15:24:32"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "more then satisfied with this awesome app",
+      "date": "2025-10-28T12:08:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Grammarly heeft mij echt geholpen. Dankjewel",
+      "date": "2025-09-11T07:38:27"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Grammarly keeps autonomously reactivating its on-screen floating assistant tool; in other words, it's constantly reading the contents on your screen even though I turned it off multiple times. Reporting this app.",
+      "date": "2025-07-30T12:41:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I needed this so much thank you guys",
+      "date": "2025-07-14T14:08:19"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Grammarly is standard software on all if not most Android devices. Their autocorrect features were always free. Suddenly, they're asking money for it via a premium subscription. It is disgusting and morally unacceptable. Sure, I can learn to type right, but the autocorrect is the main reason and only reason it exists on my phone and ironically, I can't turn it off. Also, I don't have to learn that. I can write and type. You can understand it. But clearly, your wallets disagree. Shame on you!",
+      "date": "2025-06-12T02:40:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Grammarly has been a game changer for me! This incredible tool helped me craft this five-star review effortlessly. I can’t recommend it enough! If you want to elevate your writing, you absolutely need to give it a try!",
+      "date": "2025-06-09T11:16:52"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "There is no dutch version",
+      "date": "2025-05-22T20:09:41"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very good.",
+      "date": "2024-12-16T00:45:35"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I have been using grammarly since 2018 and i love it so far so good.",
+      "date": "2024-10-17T16:57:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfect help Nice additions and style",
+      "date": "2024-07-09T10:10:46"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "When I turn off the floating icon, it doesn't remember the setting. Every time I restart my phone it pops back up and this annoys me to the point that I have now uninstalled this app. Feel free to make it more user friendly and I'll reconsider installing maybe",
+      "date": "2024-06-20T13:25:18"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I love using this on my computer but somehow I'm stuck in the app ok the 'allow us to show your writing suggestions' screen (where I need to give permission on apps)? I have a premium and it's sad that I cant use it on my phone. I also read a lot of negative feedbacks from android users, and I'm one of them... Maybe that's why I got stuck?",
+      "date": "2024-06-02T00:48:13"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Since the keyboard is discontinued is is significantly worse. It had become close to unusable for people who regularly type in two languages. Also blocking Grammarly in certain apps does not work. The popup keeps appearing.",
+      "date": "2024-04-30T20:55:49"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "From 4 stars down to 2. Bring back the keyboard!",
+      "date": "2024-04-27T14:59:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Wauw fantastische app",
+      "date": "2024-04-26T15:10:55"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "They disabled the keyboard and instead now its a pop-up that won't even let you see where the mistake is nor let you scroll down, so you can only hope its right (escpecially hard to use if you're a writer) on top of that, the pop-up doesn't even show up half the time. I loved the keyboard, it made my work so much easier, but now with it gone the app is impossible to use I tried to use it, I did, but the app is making mistakes that aren't even there and then messing up your text afterwards.",
+      "date": "2024-04-10T10:07:51"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Had a premium account fo years, but just canceled after I found out they discontinued the keyboard for Android. Grammarly if you decide to bring it back and that is if you actually read the forums and reddit that is, I will come back.",
+      "date": "2024-04-02T01:00:33"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Keyboard is gone. I have to activate the app again. It doesn't work anymore. I guess it's time to change to another app.",
+      "date": "2024-03-22T21:04:11"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "From great to outright annoying. Why am i getting an \"Activate\" pop up? If i tap on it, it turns the app off. Do you want me to find an alternative grammer checker? Cause i will gladly find another one.",
+      "date": "2024-03-12T18:42:07"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It's Said that you can't use it for different languages and some things aren't free",
+      "date": "2024-03-11T21:59:17"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "AMAZING!!",
+      "date": "2023-12-30T07:54:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Right spelling",
+      "date": "2023-12-24T19:37:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Valley",
+      "date": "2023-05-03T19:39:29"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfecte app, werkt heel goed en is heel makkelijk om te gebruiken. Alleen werkt de grammatica echter alleen in het Engels, maar persoonlijk vind ik dat geen probleem. Zeker de installatie waard.",
+      "date": "2023-04-08T23:57:56"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Its a pretty useful app, however, I've been trying to change the language settings in app, and it just isn't working. I want to change it to British English, and have done so on the website, but for some reason the app remains in American English. It's very frustrating to get suggestions for words that are correct. If someone could help me out with this i'd really appreciate it!",
+      "date": "2023-04-06T20:56:30"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It's great!",
+      "date": "2023-01-31T16:55:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Keyboard, to me, has the ideal size and layout.",
+      "date": "2023-01-23T17:52:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very handy it is indeed 👌",
+      "date": "2023-01-22T01:12:21"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I uninstalled it, I deactivated the rights on my samsung keyboard because whenever I install it or not, it works through there. Then when I deactivate it. It still bloody works and I hate the damn green lines. I am a writer, I write stories and I have my own way of writing. How can I get rid or this madness!?",
+      "date": "2023-01-07T07:18:53"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "De zin op de is moeilijk voor dit ding. Het blijft er op-ed van maken. Dat kan het al niet. Mijn begrip van de taal is voorbij wat dit ding kan en ik neem aan dat de gemiddelde basisscholier dat ook kan",
+      "date": "2022-12-28T07:00:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Na oude \"Swype + Dragon\" (van welke ik nog steeds gebruik van maken), is \"Grammarly\" een van de beste toetsborden met woordenboeken en met support van meerdere talen.",
+      "date": "2022-09-28T13:32:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Best corrections to help me in English writing 📝",
+      "date": "2022-08-24T09:35:59"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I was always very pleased until a few days ago An update? Too bad 😭😭😭",
+      "date": "2022-08-22T07:52:20"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Looks good. You can tell Grammarly tell you want to use a second language, however you can't swipe in two languages. 🤔",
+      "date": "2022-07-26T21:00:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I have dyslexia, with this app, people don't ask me if I have it or that I have to change my grammar because there are some flaws in my typing. I totally love this app!!!",
+      "date": "2022-04-07T10:11:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Echt een top app,een goede aanvulling voor mijn Engels.",
+      "date": "2022-03-13T09:09:33"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great job",
+      "date": "2022-02-14T10:23:57"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I just wanted to use the app, and no extra keyboard which can read all my data. Or actually I just wanted to use an online tool on my android tab. Disappointed of all apps nowadays :(",
+      "date": "2022-02-09T22:35:30"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Useful app, helps with grammar, spelling, writing style and more. Much better than normal autocorrect.",
+      "date": "2022-01-27T10:12:11"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Use for 2 years now... Can't live without .grammarly. .just great.! Easy to use... . I hope they make some extra tools.. One button For fast . past/present/question sentence switch. ..and one fast switcher button for other languages, That would be so easy.",
+      "date": "2022-01-21T01:20:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfectly",
+      "date": "2021-12-15T20:44:05"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "I love grammarly as an extension on my chrome browser, but it doens\u0000n\u0000\u0000'\u0000t work If you want to add it to your chromebook. If I could add it to my Chromebook ( you can download the app, but you can't install it). That is the reason why I gave it 2 stars. 4,5 for web browser but 1 star for the app on chrome unfortunatly",
+      "date": "2021-12-02T19:10:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Helpful",
+      "date": "2021-10-15T13:52:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very satisfied, Grammarly helped my English up. I often find myself typing a lot more formal than I used to, thanks to the app – I’ve made great development! My grades on writing letters have never been this high before. I highly recommend downloading it if you’re having struggles with grammar issues, spelling issues, or having trouble choosing the correct words. Overall, great app!",
+      "date": "2021-08-26T12:15:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Amazing app. I use it for my book and it is great.",
+      "date": "2021-08-04T08:35:27"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "I totally love working with this app for writing and chatting with other people since English isn't my first language. Although I've been having issues with my emojis and that some off them dont show up that I frequently use which is kinda annoying. Could you guys maybe check this out?",
+      "date": "2021-07-09T09:24:38"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "It keeps freezing",
+      "date": "2021-04-22T09:37:23"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Gevoelige gegevens worden opgeslagen...",
+      "date": "2021-03-02T11:58:24"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfect",
+      "date": "2021-01-28T08:45:30"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Great help but be careful. A slow connection creates a big mess out of your text and Grammarly is not always right plus sticks to the 'forbidden verbs.",
+      "date": "2020-12-15T09:48:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It is very helpful. Just love it. I wish I had the money to upgrade to a higher level.",
+      "date": "2020-09-28T12:00:53"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Can you add pls azerty?",
+      "date": "2020-09-18T11:24:19"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "I can't log into the app with google now. Can only log in with either apple id or grammarly's own account system. Please fix.",
+      "date": "2020-09-16T18:36:37"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Ik vind het een leuke app het zou nog handiger zijn als er een Nederlandse vertaling er van is",
+      "date": "2020-08-30T12:31:31"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Alles wat je schrijft, wordt opgeslagen ook evt persoonlijk creditcardgegevens etc.",
+      "date": "2020-08-19T18:27:30"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Top app, maar alleen voor Engels. Ze denken niet alleen aan typfouten maar ook aan GRAMMAtica, hoe je zinnen overkomen, zelfverzekerd of respectvol... Maar niet in het Nederlands.",
+      "date": "2020-04-02T16:29:05"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Looks nice but no Dutch language support to bad. Hoop it will be added soon.",
+      "date": "2020-03-27T23:31:51"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Records even when typing in passwords etc?",
+      "date": "2020-03-26T18:14:03"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Geen Azerty",
+      "date": "2020-03-22T16:56:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Weird how most of my words don't have synonyms. And once I click for synonyms it doesn't work. What's the problem here?",
+      "date": "2020-03-18T00:54:27"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I don't want an extra keyboard which can have acces to sensitive information. I would like to acces my paid grammerly account without being forced to install yet another app.",
+      "date": "2020-02-16T01:28:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Top app",
+      "date": "2020-01-19T20:51:22"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "It is very nice to use only miss my language",
+      "date": "2019-12-17T20:53:16"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Goede app, aleen heb ik er niets aan omdat het niet Nederlands is...",
+      "date": "2019-11-14T11:24:42"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Moet sowieso in meerdere talen. Vb. Nederlands. Het zou echt heel veel mensen helpen en zeker studenten (Die Nederlands spreken).",
+      "date": "2019-10-31T01:06:17"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Goede app, spijtig genoeg niet azerty of meerdere talen",
+      "date": "2019-10-21T16:24:27"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Neemt te veel over. Tijdens tippen in het Nederlands verbeterd hij in het Engels.",
+      "date": "2019-10-19T18:25:18"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This helped me so much",
+      "date": "2019-10-10T10:19:18"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Als je zoveel reclame maakt maak het dan ook meerdere talen",
+      "date": "2019-10-01T08:09:24"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Makes writing novels a lot more easy",
+      "date": "2019-08-29T12:08:37"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Handig als je ook in een andere taal zou kunnen typen zonder problemen. Deze App is goed als je ALLEEN Engels wil typen en niets anders.",
+      "date": "2019-08-19T11:18:33"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "kut",
+      "date": "2019-08-04T18:51:55"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Some functionality (copy / paste) is lost in MS office 365 business (Outlook & Word and ppt) after installing grammerly. + Idle time of office is increasing.  these 2 Issues is solved when uninstalling app, and issue is persistant recurring when re-installing grammarly.  Great tool in itself.",
+      "date": "2019-07-11T09:43:43"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "helpfull",
+      "date": "2019-07-10T20:48:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Why didn't I see it before? great tool, easy to use and to understand 👍👍👍",
+      "date": "2019-06-19T04:35:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "this a very good toy😘",
+      "date": "2019-06-16T13:21:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "its a great app, awesome for non english speakers easy to use helps a lot with my spelling fantastic app",
+      "date": "2019-05-15T12:41:15"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "it works, but just add more languages.",
+      "date": "2019-05-11T17:02:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "wat een uitkomst",
+      "date": "2019-05-09T08:35:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "perfect",
+      "date": "2019-05-06T20:34:59"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "No multi-language support (even without grammar correction). No swiping to form words. No word suggestions, you'll have to type every letter yourself. The one thing that makes it stand out isn't even that quick, I guess it's relying on an internet connection to check the grammar? But then why is it 90mb? Love the browser extension, but this app is worthless.",
+      "date": "2019-04-10T00:25:47"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "I removed the app a half year ago. You're still sending me every day push notifications. Please stop it!! It's annoying!",
+      "date": "2019-03-31T22:53:09"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "nice app, but it would be really nice if i can use it as an app on my phone for school!!",
+      "date": "2019-03-08T19:30:13"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Euhm idk... It can save your passwords and creddit numbers. Maybe not save?",
+      "date": "2019-03-03T23:20:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "perfect app im loving it , its helping me alot",
+      "date": "2019-02-27T08:10:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "love t my spelling sucks",
+      "date": "2019-02-26T16:37:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It really makes writing a lot easier",
+      "date": "2019-02-17T02:23:00"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I hope everyone checked the privacy policy on this one. Don't use this app!!! Don't be a fool.",
+      "date": "2019-02-16T19:08:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "learnin how write good english",
+      "date": "2019-02-08T20:31:17"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "There are a lot of words it doesn't know and things I knew were wrong weren't pointed out.",
+      "date": "2019-01-25T21:31:35"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "stupid does not even work 😬",
+      "date": "2019-01-01T18:43:31"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Tot Bad it is only a keyboard and not aan App where you van check on errors",
+      "date": "2018-12-05T20:06:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It is a good app but can you install Duch on Grammarly, please and don't use premium for that, please. (This is wright whit the Grammarly app)",
+      "date": "2018-11-13T14:38:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel fijn bedankt",
+      "date": "2018-10-18T03:24:44"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Not very useful for a person who writes several languages trough the day. Great app for someone who only types English though. Keep me updated when more then one language can be added!",
+      "date": "2018-09-16T09:25:44"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Why is the application telling me on WhatsApp that traineeship should be two words and while I'm writing this review that it should be traineeship as one word?",
+      "date": "2018-08-23T10:09:00"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Nederlands?",
+      "date": "2018-07-25T15:18:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I wonder why it appeared as an ad lol",
+      "date": "2018-07-21T14:08:40"
+    }
+  ]
+}

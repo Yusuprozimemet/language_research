@@ -1,0 +1,35 @@
+{
+  "name": "3000 Most Common Dutch Words",
+  "google_package": "com.chillnstudy.ennl",
+  "google": {
+    "title": "3000 Most Common Dutch Words",
+    "description": "3000 words are all you need to easily express yourself and have everyday conversations in a language. This app has all the most common Dutch ones, always available on your phone, even while offline.\r\n122041 example sentences to put words into context, with pronunciations\r\nFilter by Levels (A1, A2, B1, B2), Topics, Top 100 Groups, and Parts of Speech\r\nStudy without even opening the app, even on your watch, with flexibly scheduled notifications\r\nFlashcard autoplay and auto-pronounce loops over your flashcards for times when you cannot use your hands\r\nPractice with your favorite quiz types to master all words",
+    "rating": 4,
+    "rating_text": null,
+    "ratings_total": 99,
+    "ratings_histogram": [
+      19,
+      0,
+      0,
+      19,
+      59
+    ],
+    "installs": "5,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "goed",
+      "date": "2025-09-29T16:42:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel goed",
+      "date": "2024-12-09T19:10:02"
+    }
+  ]
+}

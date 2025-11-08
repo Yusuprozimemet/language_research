@@ -1,0 +1,222 @@
+# English Grammar & Phonetics +
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | English Grammar & Phonetics + | N/A |
+| **Package/ID** | com.TeacherAppPremium | N/A |
+| **Rating** | 0 | N/A |
+| **Total Ratings** | 0 | N/A |
+| **Installs** | 500+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+TeacherApp Premium - Written by Professors.
+Learn English Grammar, Phonetics and Vocabulary.
+
+ENGLISH PRONUNCIATION
+Learn and Compare British English (UK) and American English (US) Pronunciation.
+
+ENGLISH SKILLS
+Improve your English Skills with Lessons and Activities. Listening | Reading | Writing | Speaking.
+
+ENGLISH GRAMMAR
+Learn English Grammar with clear explanation and practise with examples and exercises.
+
+ENGLISH PHONETICS
+Upgrade your English Pronunciation with Audios, Language Rules and Exercises.
+
+ENGLISH VOCABULARY
+Learn English Words and Sentences with Audios and Pictures.
+
+ENGLISH EXAMS
+Prepare for English Worldwide Exams as TOEFL | IELTS | TOEIC | BEC | CAE | OET | and others.
+
+ENGLISH EXERCISES
+Practise and Learn English with Multiple Choice Exercises and Interactive Quizzes.
+
+ENGLISH RESOURCES
+Download Unlimited English Exercises for free (+1000 files). Grammar, Phonetics and Vocabulary Exercises, Audio Packs and more.
+
+TRANSLATE THE CONTENT
+If you need help you can Translate Content for a Better Comprehension.
+
+
+CONTENT ▼
+
+ENGLISH PHONETICS | PHONEMIC CHART
+- Symbols from the International Phonetic Alphabet (IPA) used in British English
+
+ENGLISH PHONETICS | PHONETICS ALPHABET
+- Interactive Alphabet with Audios and Transcriptions
+
+ENGLISH PHONETICS | PRONUNCIATION TRAINING
+- Audios to learn the Phonemes Pronunciation
+- Vowels
+- Diphthongs
+- Consonants
+
+ENGLISH PHONETICS | VOWELS - CONSONANTS SOUNDS
+- Short/Long Vowels
+- Front/Centre/Back Vowels
+- Voiced/Unvoiced Consonants
+- Plosive/Fricative/Affricate/Nasal/Approximant Consonants.
+
+ENGLISH PHONETICS | TRANSCRIPTIONS
+- Phonemes with examples in common spelling and their Transcription
+
+ENGLISH PHONETICS | SPELLING RULES
+- Sounds and Rules
+- Schwa Sound
+- Soft and Hard
+
+ENGLISH PHONETICS | INTONATION
+- Rising Intonation
+- Falling Intonation
+- Fall-Rise Intonation
+
+ENGLISH PHONETICS | STRESS PATTERNS
+- Word Stress
+- Sentence Stress
+
+ENGLISH GRAMMAR | ADJECTIVES
+- Qualifying Adjectives
+- Demonstratives Adjectives
+- Quantitative Adjectives
+- Interrogative Adjectives
+- Possessive Adjectives
+- Numerical Adjectives
+- Grammar Rules
+
+ENGLISH GRAMMAR | PRONOUNS
+- Personal Pronouns
+- Objective Pronouns
+- Possessive Pronouns
+- Reflexive Pronouns
+- Demonstrative Pronouns
+- Interrogative Pronouns
+- Indefinite Pronouns
+- Relative Pronouns
+- Reciprocal Pronouns
+
+ENGLISH GRAMMAR | TENSES
+- Simple Present Tense
+- Present Continuous Progressive Tense
+- Present Perfect Tense
+- Present Perfect Continuous Tense
+- Simple Past Tense
+- Past Continuous Progressive Tense
+- Past Perfect Tense
+- Past Perfect Continuous Tense
+- Simple Future Tense
+- Future Progressive Tense
+- Future Going to Tense
+- Future Perfect Simple Tense
+- Future Perfect Progressive Tense
+
+ENGLISH GRAMMAR | VERB TO BE
+- Present Affirmative
+- Present Negative
+- Present Interrogative
+- Past Simple Affirmative
+- Past Simple Negative
+- Past Simple Interrogative
+
+ENGLISH GRAMMAR | IRREGULAR VERBS
+- Full list
+- Infinitive
+- Past Simple
+- Past Participle
+
+ENGLISH GRAMMAR | MODAL VERBS
+- Can
+- Could
+- May/Might
+- Will/Shall
+- Should/Ought to
+- Must/Have to
+- Would
+
+ENGLISH GRAMMAR | PASSIVE VOICE
+- Simple Present | Simple Past
+- Infinitive | Perfect Infinitive
+- Present Perfect | Past Perfect
+- Present Continuous | Past Continuous
+- Two Objects | More Interesting Facts
+
+ENGLISH GRAMMAR | REPORTED SPEECH
+- Direct and Indirect Speech
+- Present to Past
+- Pronouns and Adverbs
+
+ENGLISH GRAMMAR | NOUNS
+- Types of Nouns
+- Gender and Number of Nouns
+- Simple and Compound Nouns
+- Functions of Nouns
+
+ENGLISH GRAMMAR | CONDITIONALS
+- Zero Conditional
+- First Conditional
+- Second Conditional
+- Third Conditional
+
+ENGLISH GRAMMAR | CONNECTORS
+- Copulative Connectors
+- Disjunctive Connectors
+- Conditional Connectors
+- Concessive Connectors
+- Conclusive Connectors
+- Continuative Connectors
+- Adversative Connectors
+- Causative Connectors
+
+ENGLISH GRAMMAR | ADVERBS
+- Adverbs of Manner
+- Adverbs of Time
+- Adverbs of Place
+...
+
+
+And Much More...
+
+## 📊 Reviews Analytics
+
+No reviews available for analysis.
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "English Grammar & Phonetics +",
+  "google_package": "com.TeacherAppPremium",
+  "google": {
+    "title": "English Grammar & Phonetics +",
+    "description": "TeacherApp Premium - Written by Professors.\r\nLearn English Grammar, Phonetics and Vocabulary.\r\n\r\nENGLISH PRONUNCIATION\r\nLearn and Compare British English (UK) and American English (US) Pronunciation.\r\n\r\nENGLISH SKILLS\r\nImprove your English Skills with Lessons and Activities. Listening | Reading | Writing | Speaking.\r\n\r\nENGLISH GRAMMAR\r\nLearn English Grammar with clear explanation and practise with examples and exercises.\r\n\r\nENGLISH PHONETICS\r\nUpgrade your English Pronunciation with Audios, Language Rules and Exercises.\r\n\r\nENGLISH VOCABULARY\r\nLearn English Words and Sentences with Audios and Pictures.\r\n\r\nENGLISH EXAMS\r\nPrepare for English Worldwide Exams as TOEFL | IELTS | TOEIC | BEC | CAE | OET | and others.\r\n\r\nENGLISH EXERCISES\r\nPractise and Learn English with Multiple Choice Exercises and Interactive Quizzes.\r\n\r\nENGLISH RESOURCES\r\nDownload Unlimited English Exercises for free (+1000 files). Grammar, Phonetics and Vocabulary Exercises, Audio Packs and more.\r\n\r\nTRANSLATE THE CONTENT\r\nIf you need help you can Translate Content for a Better Comprehension.\r\n\r\n\r\nCONTENT ▼\r\n\r\nENGLISH PHONETICS | PHONEMIC CHART\r\n- Symbols from the International Phonetic Alphabet (IPA) used in British English\r\n\r\nENGLISH PHONETICS | PHONETICS ALPHABET\r\n- Interactive Alphabet with Audios and Transcriptions\r\n\r\nENGLISH PHONETICS | PRONUNCIATION TRAINING\r\n- Audios to learn the Phonemes Pronunciation\r\n- Vowels\r\n- Diphthongs\r\n- Consonants\r\n\r\nENGLISH PHONETICS | VOWELS - CONSONANTS SOUNDS\r\n- Short/Long Vowels\r\n- Front/Centre/Back Vowels\r\n- Voiced/Unvoiced Consonants\r\n- Plosive/Fricative/Affricate/Nasal/Approximant Consonants.\r\n\r\nENGLISH PHONETICS | TRANSCRIPTIONS\r\n- Phonemes with examples in common spelling and their Transcription\r\n\r\nENGLISH PHONETICS | SPELLING RULES\r\n- Sounds and Rules\r\n- Schwa Sound\r\n- Soft and Hard\r\n\r\nENGLISH PHONETICS | INTONATION\r\n- Rising Intonation\r\n- Falling Intonation\r\n- Fall-Rise Intonation\r\n\r\nENGLISH PHONETICS | STRESS PATTERNS\r\n- Word Stress\r\n- Sentence Stress\r\n\r\nENGLISH GRAMMAR | ADJECTIVES\r\n- Qualifying Adjectives\r\n- Demonstratives Adjectives\r\n- Quantitative Adjectives\r\n- Interrogative Adjectives\r\n- Possessive Adjectives\r\n- Numerical Adjectives\r\n- Grammar Rules\r\n\r\nENGLISH GRAMMAR | PRONOUNS\r\n- Personal Pronouns\r\n- Objective Pronouns\r\n- Possessive Pronouns\r\n- Reflexive Pronouns\r\n- Demonstrative Pronouns\r\n- Interrogative Pronouns\r\n- Indefinite Pronouns\r\n- Relative Pronouns\r\n- Reciprocal Pronouns\r\n\r\nENGLISH GRAMMAR | TENSES\r\n- Simple Present Tense\r\n- Present Continuous Progressive Tense\r\n- Present Perfect Tense\r\n- Present Perfect Continuous Tense\r\n- Simple Past Tense\r\n- Past Continuous Progressive Tense\r\n- Past Perfect Tense\r\n- Past Perfect Continuous Tense\r\n- Simple Future Tense\r\n- Future Progressive Tense\r\n- Future Going to Tense\r\n- Future Perfect Simple Tense\r\n- Future Perfect Progressive Tense\r\n\r\nENGLISH GRAMMAR | VERB TO BE\r\n- Present Affirmative\r\n- Present Negative\r\n- Present Interrogative\r\n- Past Simple Affirmative\r\n- Past Simple Negative\r\n- Past Simple Interrogative\r\n\r\nENGLISH GRAMMAR | IRREGULAR VERBS\r\n- Full list\r\n- Infinitive\r\n- Past Simple\r\n- Past Participle\r\n\r\nENGLISH GRAMMAR | MODAL VERBS\r\n- Can\r\n- Could\r\n- May/Might\r\n- Will/Shall\r\n- Should/Ought to\r\n- Must/Have to\r\n- Would\r\n\r\nENGLISH GRAMMAR | PASSIVE VOICE\r\n- Simple Present | Simple Past\r\n- Infinitive | Perfect Infinitive\r\n- Present Perfect | Past Perfect\r\n- Present Continuous | Past Continuous\r\n- Two Objects | More Interesting Facts\r\n\r\nENGLISH GRAMMAR | REPORTED SPEECH\r\n- Direct and Indirect Speech\r\n- Present to Past\r\n- Pronouns and Adverbs\r\n\r\nENGLISH GRAMMAR | NOUNS\r\n- Types of Nouns\r\n- Gender and Number of Nouns\r\n- Simple and Compound Nouns\r\n- Functions of Nouns\r\n\r\nENGLISH GRAMMAR | CONDITIONALS\r\n- Zero Conditional\r\n- First Conditional\r\n- Second Conditional\r\n- Third Conditional\r\n\r\nENGLISH GRAMMAR | CONNECTORS\r\n- Copulative Connectors\r\n- Disjunctive Connectors\r\n- Conditional Connectors\r\n- Concessive Connectors\r\n- Conclusive Connectors\r\n- Continuative Connectors\r\n- Adversative Connectors\r\n- Causative Connectors\r\n\r\nENGLISH GRAMMAR | ADVERBS\r\n- Adverbs of Manner\r\n- Adverbs of Time\r\n- Adverbs of Place\r\n...\r\n\r\n\r\nAnd Much More...",
+    "rating": 0,
+    "rating_text": null,
+    "ratings_total": 0,
+    "ratings_histogram": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "installs": "500+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": []
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:52:12 using advanced analytics*

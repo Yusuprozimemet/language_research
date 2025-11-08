@@ -1,0 +1,623 @@
+{
+  "name": "HelloTalk - Learn Languages",
+  "google_package": "com.hellotalk",
+  "google": {
+    "title": "HelloTalk - Learn Languages",
+    "description": "Practice languages with native speakers on HelloTalk! We recently introduced HelloTalk Live and Voiceroom - interactive language and culture events to help you master languages through the content you love! \r\n\r\nHelloTalk, the original language exchange app, connects you with native speakers to practice languages (English, Japanese, Korean, Spanish, French, Mandarin Chinese, Portuguese, German, Italian, Russian, Arabic, Turkish, Hindi, Indonesian, Thai, Vietnamese and 160+ more) for FREE! \r\n\r\nHelloTalk equips you with learning tools such as translation and instant captions so you can learn by chatting with native speakers. Learn languages from locals around the world through livestreams and Voicerooms. Connect with expert hosts to discuss interesting topics with language partners in the learning community! \r\n\r\nWhy HelloTalk? \r\n\r\n► Real language learning atmosphere \r\nWhether you're focused on a widely spoken language or a less common one, HelloTalk caters to your needs. The system smartly matches you based on your native language and proficiency, while allowing you to filter ideal language partners according to various criteria such as age, location, and gender. Plus, with built-in translation and transliteration tools, you can communicate confidently without any language barriers.\r\n\r\n► A powerful tool for sharpening your language skills\r\nAcquiring new words through conversations with native speakers is more effective than rigid memorization. Whether you're a student preparing for exams like the CET, GRE, TOEFL, IELTS, planning to study abroad, or a professional seeking career advancement through language skills, HelloTalk offers native speakers who match your proficiency level for engaging interactions and valuable learning experiences.\r\n\r\n► Immersive multi-person language chat rooms\r\nIf you choose to learn Spanish, for example, every Voiceroom you enter on HelloTalk gathers Spanish learners and Spanish native speakers from around the world to discuss interesting topics. Here, only your voice needs to be heard, creating a comfortable, introvert-friendly atmosphere. Here, sharing mutual interests allows everyone to freely express themselves and share personal experiences, fostering both language intuition and authentic expression skills. It's incredibly addictive!\r\n\r\n► Diverse global Livestreams\r\nHelloTalk features handpicked foreign language hosts who offer online video lessons, share language insights, and provide glimpses into their lives abroad. You can even join them on stage for one-on-one video conversations with fellow language learners. Whether you're grappling with pronunciation, speaking speed, or shyness, these hosts will assist you in refining your language skills and guiding the conversation. For rapid improvement in spoken language, there's no substitute for direct communication with native speakers!\r\n\r\n► International Moments\r\nHelloTalk's Moments offers real-time posts covering learning, lifestyle, and cultural insights from around the world. It's your ticket to discovering fresh perspectives and gaining deeper insights into diverse cultural customs, all from the comfort of your home. Don't forget to engage with posts that catch your interest!\r\n\r\n<b>What the world is saying about HelloTalk</b> \r\n\r\n❤️ ❤️ ❤️🌟🌟🌟 \r\nEditor's Choice - Google Play\r\n“One of the best apps to help you learn a new language.” - 9to5Mac \r\n\"When you're ready to experiment with a foreign language, HelloTalk provides an excellent opportunity for interaction with other speakers.\" –PCMag \r\n\"HelloTalk, which connects native speakers with an apprentice, also offers language exchanges to its 20 million users in more than 150 languages.\" -Forbes \r\n\r\nSTART PRACTICING LANGUAGES RIGHT AWAY!!!\r\n\r\nLearn more about the HelloTalk app: \r\n- Facebook: https://www.facebook.com/Hellotalk/ \r\n- Twitter: https://twitter.com/hellotalkapp \r\nSend any feedback to support@hellotalk.com \r\n- Privacy Policy: https://www.hellotalk.com/privacy-policy \r\n- Terms of Use: https://www.hellotalk.com/terms-of-service",
+    "rating": 3.49729,
+    "rating_text": null,
+    "ratings_total": 222673,
+    "ratings_histogram": [
+      58980,
+      14778,
+      15530,
+      23221,
+      110121
+    ],
+    "installs": "10,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "ik snap er geen snaar van , hoe dit werkt! waarom maken ze het zo gecompliceerd? jammer , anders zou ik het elke dag gebruiken net zoals ik Duolingo gebruik. Ik weet b.v. niet eens waar ik moet beginnen 🤷🏼en zomaar loze woorden leren , zonder context, daar heeft niemand wat aan! Nogmaals waar moet ik op klikken om met een les te beginnen????",
+      "date": "2025-10-13T21:52:14"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "basic things like chatting needs VIP",
+      "date": "2025-09-22T20:24:03"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "als ik wat probeer te posten staat er failed,loading of het komt er helemaal niet op.Dit frustreert mij heel erg.",
+      "date": "2025-09-07T20:53:27"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "i like it",
+      "date": "2025-08-02T16:26:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel leuk maar spijtig is het beperkt",
+      "date": "2025-06-21T11:56:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great for language learning and meeting native speakers. Best if you are already on a A2 level or higher. Met lots of great people trough this app!",
+      "date": "2025-04-21T10:36:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "goed",
+      "date": "2025-04-02T22:33:04"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel makkelijk en leerzaam",
+      "date": "2025-02-10T16:30:21"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik heb contact met mensen en dan van de ene op de andere dag kan je niks meer niet inloggen niks en werkt app niet meer",
+      "date": "2024-12-16T21:39:05"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app",
+      "date": "2024-09-28T16:49:31"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Its a good app but you cant deleted ppl that easy and that is annyoing",
+      "date": "2024-08-18T21:14:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nice app 👌🏾",
+      "date": "2024-08-03T20:38:26"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "De app is heel leuk om nieuwe mensen te leren kennen en ook best handig om nieuwe talen te leren. Sinds hun meest recente update wel veel problemen met berichten versturen en ontvangen.",
+      "date": "2024-07-31T19:42:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It so good",
+      "date": "2024-07-05T16:31:49"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Hell no",
+      "date": "2024-04-23T20:39:52"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "turkce ve arapca ogrenme yeri burasi arkadaslar bosuna indirmeyin",
+      "date": "2023-12-15T22:03:58"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "It was 5 stars but now it's just all ads. Everywhere I click it asks if I want to upgrade it's so annnoyyying. Terrible",
+      "date": "2023-08-16T16:40:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Hele fijne app om in contact te komen met mensen die de taal spreken die je wilt leren. Vriendelijke community, en het is super motiverend om een nieuwe taal echt te kunnen oefenen, en feedback te krijgen van native speakers.",
+      "date": "2023-06-21T11:05:13"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Performance issues sending text + pictures Need to re-send often and multiple times",
+      "date": "2023-05-25T15:37:50"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It's such a nice app. But the people on it really ruin it.(some people)",
+      "date": "2023-05-12T11:52:05"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Ständig schreiben einen irgendwelche Typen an, die nicht mal die Sprache sprechen, die ich lerne. Ätzend.",
+      "date": "2022-12-01T10:38:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super",
+      "date": "2022-10-01T21:34:52"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Constant stream of notifications that lead to nothing when clicked.",
+      "date": "2022-09-20T17:20:39"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Need to delete and reinstall the app every day because the messages don't go through, eventho I have WiFi. A bit disappointed 😞",
+      "date": "2022-03-22T16:29:57"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "I have a valid problem with hello talk. They have made a mistake, but they are unreachable, and will not reply. Therefore i give them 2 stars, since they are unable to accept their mistakes.",
+      "date": "2022-01-28T21:41:10"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "1 star is gone because you have to pay for most things",
+      "date": "2022-01-21T21:09:29"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Make less ads and possible to actually communicate for everyone...",
+      "date": "2021-12-11T13:50:24"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Why are there no Thai courses available??",
+      "date": "2021-11-08T18:20:51"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "You HAVE to choose gender, and the options are only female or male. Please change this antiquated notion. I refuse to misgender myself. (I also don't understand why disclosing gender is mandatory.)",
+      "date": "2021-11-04T19:03:59"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Waarom ben ik geen vip meer ik heb gekeken op mijn abonnomenten maar mijn abonnoment van een jaar is nog geldig tot 20 maart 2022 dus ik wil weten hoe dat zit",
+      "date": "2021-08-25T22:36:22"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Not that good of an app. The idea is nice but people only start a conversation if you set your native language to English, and i didn't so i wanted to change it, but the app didn't allow me. There are way too many creeps and people looking for romance, and you have to pay if you want to study for more than 5 minutes. You also can't create a second account. I wanted to change my password but it didn't update, so i couldn't log in anymore.",
+      "date": "2021-05-05T09:41:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Are you sure that this isn't a dating application?",
+      "date": "2021-05-02T00:56:46"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Ik vind t een leuke app.Helaas moet je voor veel betalen en ik heb niet veel geld.Ook doet hij t vaak niet de laatste tijd.Hij loopt steeds vast.Wat is hiervan de oorzaak?",
+      "date": "2021-03-24T21:32:36"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I think I would use the app more when I could study the language I want to learn. A pity Hebrew isn't an option yet.",
+      "date": "2021-03-08T19:39:53"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Dating app. And don't delete my post!!",
+      "date": "2021-02-21T12:28:49"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I had this app for almost 4 years but the last couple months they did some updates and now they made it impossible to enjoy the app without paying for it. Its a shame that the almost obligate you to pay to get a working app. After 4 years I deinstalled the app and neither recommend people to download this unless you want to pay for it. There a lot of other apps how are working fine on free mode.",
+      "date": "2020-12-04T10:06:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "This app is a stroke of genius, while you learn a new language by talking to new people around the world you also engage in the social part, it's nice to meet new people, even more so if you have a common interrest but also the social part keeps you engaged in learning the new language! It's also easily the most fun i've had with learning a new language and I hope the new friends i've met will remain so :)",
+      "date": "2020-11-14T20:57:15"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Could use a landscape mode on tablets.",
+      "date": "2020-10-31T22:00:16"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Good application. There are three annoying issues otherwise: 1. It takes too long to load chats on initial loading. 2. When looking through the chat history, only last messages are available. Pull to refresh is needed to load next chunk of messages. This turns into nightmare when the whole history is needed. 3. Not clear why only 6 languages to communicate (3 to learn and 3 to teach) are available at a time. I understand this is a special case, but I miss at least one language to teach.",
+      "date": "2020-10-10T21:10:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "A great app for language learning. People are amazing and the app is easy to use. I highly recommend it.",
+      "date": "2020-08-10T14:42:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "انه حقا جيد جدا انا انصح الكل بتنزيله",
+      "date": "2020-08-05T23:40:56"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "People are very nice and you make many friends and learn a lot. I do want to give you a tip to watch out for creepy people, because there are some on there! It's just like other social media, so don't share too much. Overall I am very satisfied!",
+      "date": "2020-07-24T14:25:36"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Handig",
+      "date": "2020-07-12T15:50:50"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik kon mij native language niet veranderen. Ik ben ook niet tevreden ovsr dat je maar 1 taal kan selecteren lm te leren!! Ik hoop dat er verandering komt",
+      "date": "2020-07-06T23:03:29"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "App works fine. My only complain is that people rarely reply/talk with you. I messaged a lot of people and only 1 ever replied.",
+      "date": "2020-06-03T01:59:16"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Het gaat",
+      "date": "2020-05-19T16:07:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "! I love the app.",
+      "date": "2020-05-12T18:52:53"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ok",
+      "date": "2020-04-30T11:25:13"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It was way easier than I thought it would be",
+      "date": "2020-04-25T14:27:09"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "I love Hellotalk, but i have one problem. My account was suspended for not having the right location/language on my profile, which is incorrect. Now i cant talk to my friends😓",
+      "date": "2020-02-29T00:38:30"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Pas op je opslag. Ik gebruik deze app nu een jaar, en zag net dat er 1,1 Gig aan HelloTalk data op mijn tablet staat. Delete na elke conversatie nutteloze communicatie om dit te beperken. Jammer dat HelloTalk hier niet voor waarschuwt. Ik vind de app geweldig, maar heb nog nooit foto's of video's ontvangen of verstuurd.",
+      "date": "2019-09-30T02:59:26"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Ik vind het een geweldige app. Iedereen is erg behulpzaam en je leert niet alleen een taal, maar kan deze ook onthouden doordat je hem kunt blijven spreken. De app heeft vele mogelijkheden.",
+      "date": "2019-07-18T08:41:17"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "nobody on and don't know how to make full use of it",
+      "date": "2019-07-18T01:13:32"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "nobody is online...",
+      "date": "2019-06-22T14:05:28"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "A nice app very helpfull to learn a language.",
+      "date": "2019-06-05T06:58:38"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "It is nice to talk to people in your target language or help them in your (native) language. I'm talking with people from all over the world and I love it. Also a plus for the timestamp for the other person, sometimes you forget that it is really late or early for them.",
+      "date": "2019-05-27T10:39:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Mostly nice people and a fun way to get more used to a language",
+      "date": "2019-04-06T21:54:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Thank you so much for this app, I met an amazing friend for live and I don't know what I would've done if he wasn't there. We're planning on meeting in August 2019 I've never been happier and we still text each other every day. (I live in Belgium and he in England) ♥️",
+      "date": "2019-03-10T11:28:10"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "have had this app for 2 weeks now. send out messages to +20 people, no replies what so ever. Am I doing something wrong?",
+      "date": "2019-02-26T18:05:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I met a lot of really nice people through this app! Would recommend.",
+      "date": "2019-02-24T22:20:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app!",
+      "date": "2018-11-14T20:39:05"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Great way to meet people and practice languages and make new friends. The app itself is minimalistic which I find a good thing. Some features are hidden though. It misses something like a total overview of things changed in your circle.",
+      "date": "2018-10-07T11:19:03"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "I am raised bilingual but and I have 2 nationalities. I can only choose one \nnative language and one nationality :/",
+      "date": "2018-08-10T21:21:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Best app ever",
+      "date": "2018-06-03T17:20:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Hele leuke handige app!",
+      "date": "2018-05-30T07:46:37"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Hele leuke app als je mensen uit het buitenland wilt ontmoeten alleen er \nzijn wel een paar problemen bij mensen",
+      "date": "2018-05-28T17:54:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "So much fun!",
+      "date": "2018-05-23T18:52:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "mooie app",
+      "date": "2018-04-23T17:39:05"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Simply wonderful!",
+      "date": "2018-04-17T04:17:47"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great app to practice languages, to correct sentences or to learn from your mistake. You can also share drawings of words or language is not sufficient :)",
+      "date": "2018-04-04T22:04:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "A great and fun app for anyone who wants to learn a language!",
+      "date": "2018-03-30T12:03:28"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "The app is fine, but I keep echoing in group calls.  I also want to add that, when in a group call when a new user joins the group call the speaker automatically turns on when it's not even turned on at my side. So I have to keep clicking the speaker button each time a new user joins so the sound doesn't blast out of my speakers when people are talking.",
+      "date": "2018-02-06T23:06:23"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very useful",
+      "date": "2018-01-10T16:49:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "It is a great app, it is very susceptible if you really want to learn a new language.",
+      "date": "2018-01-09T17:42:40"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "\"Moments\" doesn't work.",
+      "date": "2018-01-07T17:13:23"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "I can't see any moments lately and I have chat notifications while I have no new messages",
+      "date": "2018-01-06T21:02:10"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "I updated to the latest version 2.4.6 and now I can't see any moments even though there are moments..I see nothing no moments from my friends no moments in general no notifications..completely nothing I already tried texting hellotalk team on hellotalk itself but they didn't even read it I also sended an email and they didn't even responded..I really liked the app but now I just see nothing I already made a new acc hoping it would go back to normal but no it didn't and now I also lost all my friends and chats..I really hope you can solve this problem.",
+      "date": "2018-01-05T12:26:36"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Heel leuke app :) sommige toepassingen zijn niet zo heel duidelijk in het begin. Maar ik kan vlot met mensen in contact komen om mijn talen te oefenen. De functie om elkaars teksten te verbeteren, is heel handig en leerzaam! Er is ook een newsfeed waarin je dingen kan posten, een beetje Facebook-achtig in een taal naar keuze. Aangename app!",
+      "date": "2017-12-26T20:16:51"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik hou van praten via hello talk. Hello talk gaf mij de mogelijkheid dat ik nu binnen 5 maanden redelijk goed engels kan spreken",
+      "date": "2017-11-27T09:22:13"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Buying VIP, they rip you off. I got it, paid for it and half an hour later still nothing. This is the kind of thing that is reaaaaally easy to make instantaneously.. Avoid this.",
+      "date": "2017-09-10T02:12:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Zeker vijf sterren waard. Een goede app om de taal beter te leren.",
+      "date": "2017-09-08T08:22:52"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "(One plus 3 user): moments is bugged. Whenever I click the feather icon I get a white blank screen",
+      "date": "2017-08-22T21:59:10"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "This app should not read out your IMEI. Pricacy violation.",
+      "date": "2017-08-18T21:32:32"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "A great app to learn a new language!  But for some reason my app keeps crashing when I want to add a new moment.  Is there a fix for this?",
+      "date": "2017-08-14T15:00:49"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Great app, but huge battery drain",
+      "date": "2017-08-11T14:55:09"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Excellent app, great way of learning, but it's difficult to find partners and it's silly that you can't select multiple native languages. I understand that they want to keep something for the VIPs, so you can't learn more than 1 language at a time, but I don't get why you couldn't teach multiple. Then you're only giving back to the community and improving the usefulness of the app",
+      "date": "2017-08-10T12:22:39"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "would be better if the languages are not limited for free users...",
+      "date": "2017-08-06T21:52:39"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Works fine, but could be a bit smoother",
+      "date": "2017-08-05T15:29:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Met people in real, is very useful",
+      "date": "2017-08-03T22:23:30"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Love it. Only connects very slow.",
+      "date": "2017-08-02T03:04:50"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Love it!",
+      "date": "2017-07-30T19:32:48"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Such smart people here",
+      "date": "2017-07-13T13:15:38"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "Would like to be able to select on location to be able to arrange meetup",
+      "date": "2017-07-05T21:29:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Great stuff. People are kind and I even met a good amount of people in real life.",
+      "date": "2017-06-13T01:01:52"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Es ist an sich richtig nice.... Aber man kann sich leider nicht mit mehr als einen account anmelden... Mein account mit dem ich mich dort angemeldet hab hatte ich gelöscht und nun kann ich mich natürlich nicht mit nem anderen einloggen..... Ändert das bitte",
+      "date": "2017-04-12T20:23:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very nice app, only a shame you need premium to search people in more than 1 language you want to learn.",
+      "date": "2017-03-21T17:10:56"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "I write a lot of moments, the moments timeline seems to have some issues. I can't seem to put my moments on the timeline anymore..",
+      "date": "2017-01-28T02:19:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I am having so much fun with this app you would not believe it! Must download because its all freeeee :D",
+      "date": "2017-01-27T13:42:33"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel goed",
+      "date": "2016-12-02T15:50:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Good",
+      "date": "2016-11-26T12:17:59"
+    }
+  ]
+}

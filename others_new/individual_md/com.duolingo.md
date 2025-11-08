@@ -1,0 +1,761 @@
+# Duolingo: Language Lessons
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | Duolingo: Language Lessons | N/A |
+| **Package/ID** | com.duolingo | N/A |
+| **Rating** | 4.4506207 | N/A |
+| **Total Ratings** | 38,998,695 | N/A |
+| **Installs** | 500,000,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.
+
+Designed by learning experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.
+
+And now, you can learn Math, Music, and Chess the Duolingo way!
+
+• Build real-world math skills – from calculating tips to identifying patterns – and sharpen your mental math in our Math course. Learn foundational topics like multiplication, fractions, geometry and more, and keep your brain sharp with more challenging exercises, games, and word problems.
+
+• Learn how to read music and play popular songs on your device in our Music course – no piano or instrument required! Using an on-screen keyboard, you’ll learn bit-by-bit, from finding notes on the keyboard to playing your first song.
+
+• Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!
+
+Whether you’re learning for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.
+
+Why Duolingo?
+
+• Duolingo is fun and effective. Game-like lessons and fun characters help you build solid speaking, reading, listening, and writing skills.
+
+• Duolingo works. Designed by learning experts, Duolingo has a science-based teaching methodology proven to foster long-term knowledge retention.
+
+• Track your progress. Work toward your learning goals with playful rewards and achievements when you make practicing a daily habit!
+
+• Join millions of learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.
+
+• Every language course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian! And now, learn Math, Music, and Chess with our newest courses!
+
+What the world is saying about Duolingo⭐️⭐️⭐️⭐️⭐️:
+
+Editor's Choice and "Best of the Best” — Google Play
+
+“Far and away the best language-learning app.” — The Wall Street Journal
+
+“This free app and website is among the most effective language-learning methods I’ve tried… lessons come in the form of brief challenges — speaking, translating, answering multiple-choice questions — that keep me coming back for more.” — The New York Times
+
+“Duolingo may hold the secret to the future of education.” — TIME Magazine
+
+“...Duolingo is cheerful, lighthearted and fun…” — Forbes
+
+If you like Duolingo, try Super Duolingo for 14 days free! Learn a language fast with no ads, and get fun perks like Unlimited Hearts and Monthly Streak Repair.
+
+Send any feedback to android@duolingo.com
+
+Use Duolingo on the Web at https://www.duolingo.com
+
+Privacy Policy: https://www.duolingo.com/privacy
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 100 (100 analyzed)
+**Rating Distribution:** 61 positive (4-5★), 7 neutral (3★), 32 negative (1-2★)
+**Average Sentiment:** 0.05 (-1=very negative, +1=very positive)
+**Primary Language:** nl
+**Key Insights:** Average rating: 3.5/5.0 | Overall sentiment: neutral (score: 0.05) | Reviews in 10 languages, primarily nl (65 reviews) | Reviews from 1 platform(s): google | Key themes: het, ik, je
+
+
+### 🔑 Key Themes & Phrases
+
+- **het** (relevance: 0.087)
+- **ik** (relevance: 0.082)
+- **je** (relevance: 0.082)
+- **energy** (relevance: 0.082)
+- **en** (relevance: 0.074)
+- **te** (relevance: 0.064)
+- **een** (relevance: 0.058)
+- **goed** (relevance: 0.057)
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 48 reviews (48.0%)
+- **4 ★★★★☆**: 13 reviews (13.0%)
+- **3 ★★★☆☆**: 7 reviews (7.0%)
+- **2 ★★☆☆☆**: 10 reviews (10.0%)
+- **1 ★☆☆☆☆**: 22 reviews (22.0%)
+
+### 🌍 Languages in Reviews
+
+- **nl**: 65 reviews
+- **en**: 18 reviews
+- **af**: 7 reviews
+- **unknown**: 4 reviews
+- **da**: 1 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 100 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/Duolingo__Language_Lessons_analytics.png)
+
+### Word Cloud
+![Word Cloud](charts/Duolingo__Language_Lessons_wordcloud.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★ - google - 2025-11-07T12:09:44)
+> Op advies van een vriendin gedownload. de eerste dag kon ik gewoon doorgaan met de lessen in de gratis versie, totdat ik niet meer verder kon, omdat mijn "tijd"op was. Ik moest dan een (proef)abonnement nemen van 7 dagen, wat ik daarna weer kosteloos kon annuleren. Ik zit nu op dag 2 van het proefab...
+
+**Review 2** (★★★★★ - google - 2025-11-06T20:44:38)
+> normaal vind ik talen leren stom maar met Duolingo maakt het alles leuker en gemakkelijker en ik leer ook meer Groeten, Lysander552
+
+**Review 3** (★★★★★ - google - 2025-11-06T10:39:59)
+> de lessen zijn heel fijn
+
+**Review 4** (★★★★ - google - 2025-11-05T20:49:34)
+> Zeer leuke manier om een vreemde taal onder de knie te krijgen! Door je reeks in stand te houden, ben je erg committed om elke dag minstens 1 les te doen.
+
+**Review 5** (★★ - google - 2025-11-05T12:02:17)
+> Het zou 5 sterren zijn geweest als het niet was voor de opdringerige advertenties na elke les om Super Duolingo te nemen. Het feit dat het harten systeem is vervangen door een of andere energie meter is belachelijk. Geforceerd worden om extra bij te kopen anders kun je niet nog een les afmaken is ro...
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "Duolingo: Language Lessons",
+  "google_package": "com.duolingo",
+  "google": {
+    "title": "Duolingo: Language Lessons",
+    "description": "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\r\n\r\nDesigned by learning experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.\r\n\r\nAnd now, you can learn Math, Music, and Chess the Duolingo way!\r\n\r\n• Build real-world math skills – from calculating tips to identifying patterns – and sharpen your mental math in our Math course. Learn foundational topics like multiplication, fractions, geometry and more, and keep your brain sharp with more challenging exercises, games, and word problems.\r\n\r\n• Learn how to read music and play popular songs on your device in our Music course – no piano or instrument required! Using an on-screen keyboard, you’ll learn bit-by-bit, from finding notes on the keyboard to playing your first song.\r\n\r\n• Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\r\n\r\nWhether you’re learning for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.\r\n\r\nWhy Duolingo?\r\n\r\n• Duolingo is fun and effective. Game-like lessons and fun characters help you build solid speaking, reading, listening, and writing skills.\r\n\r\n• Duolingo works. Designed by learning experts, Duolingo has a science-based teaching methodology proven to foster long-term knowledge retention.\r\n\r\n• Track your progress. Work toward your learning goals with playful rewards and achievements when you make practicing a daily habit!\r\n\r\n• Join millions of learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\r\n\r\n• Every language course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian! And now, learn Math, Music, and Chess with our newest courses!\r\n\r\nWhat the world is saying about Duolingo⭐️⭐️⭐️⭐️⭐️:\r\n\r\nEditor's Choice and \"Best of the Best” — Google Play\r\n\r\n“Far and away the best language-learning app.” — The Wall Street Journal\r\n\r\n“This free app and website is among the most effective language-learning methods I’ve tried… lessons come in the form of brief challenges — speaking, translating, answering multiple-choice questions — that keep me coming back for more.” — The New York Times\r\n\r\n“Duolingo may hold the secret to the future of education.” — TIME Magazine\r\n\r\n“...Duolingo is cheerful, lighthearted and fun…” — Forbes\r\n\r\nIf you like Duolingo, try Super Duolingo for 14 days free! Learn a language fast with no ads, and get fun perks like Unlimited Hearts and Monthly Streak Repair.\r\n\r\nSend any feedback to android@duolingo.com\r\n\r\nUse Duolingo on the Web at https://www.duolingo.com\r\n\r\nPrivacy Policy: https://www.duolingo.com/privacy",
+    "rating": 4.4506207,
+    "rating_text": null,
+    "ratings_total": 38998695,
+    "ratings_histogram": [
+      3105394,
+      695098,
+      1177902,
+      4562333,
+      29457936
+    ],
+    "installs": "500,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Op advies van een vriendin gedownload. de eerste dag kon ik gewoon doorgaan met de lessen in de gratis versie, totdat ik niet meer verder kon, omdat mijn \"tijd\"op was. Ik moest dan een (proef)abonnement nemen van 7 dagen, wat ik daarna weer kosteloos kon annuleren. Ik zit nu op dag 2 van het proefabonnement en ik kan de app openen, maar hij blijft laden. Ik wacht tot dat de optie komt, dat mijn proefabonnement is afgelopen, zodat ik deze app weer kan verwijderen....",
+      "date": "2025-11-07T12:09:44"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Op een leuke speelse wijzen zijn de lessen, goed te maken en werkt motiverend en stimulerend",
+      "date": "2025-11-07T12:06:07"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "fake friends in feed suddenly",
+      "date": "2025-11-07T11:44:04"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik begon enthousiast met Duolingo in 2018. Jaren lang ook super gehad maar het wordt alleen maar duurder en minder interessant voor mij waardoor ik het gewoon niet meer hoef en nu met het nieuwe energie systeem in de gratis versie is het al helemaal niks meer aan. Je voelt je haast gedwongen om super te gaan nemen en ik ga dat niet doen op deze manier. Plus is het ook niet waard, je moet nog meer betalen voor MAX als je bijvoorbeeld fouten uitgelegd wil hebben.",
+      "date": "2025-11-07T11:43:24"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super mooi les programma",
+      "date": "2025-11-07T11:11:26"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Sinds de update kan je nog maar 2 lessen doen per keer. Daarna moet je betalen of reclame's kijken. Heel jammer en gaat ze een hoop mensen kosten.",
+      "date": "2025-11-07T10:34:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "geweldige stimulans om een taal te leren",
+      "date": "2025-11-07T10:08:12"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "door energie minder lang op duolingo review komt altijd als je 3x heb. vriendenmissie je seleteert iemand en vervolgend krijg je niemand. nu vriendenmissie beloning kort beschikbaar. legendarisch maken nu lastiger. dacht andere taal te doen als klaar met duits, maar door energie weet ik dat nog niet. als alleen savonds tijd lukt dat niet meer. omdat energie dan niet oplaad.",
+      "date": "2025-11-07T09:21:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik vind het super handig ik wil Spaans leren en nu kan ik dat al goed 😜😜",
+      "date": "2025-11-07T09:07:21"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Ik vind het jammer dat het van hartjes naar energie level is gegaan. Nu loop je gewoon vast omdat je geen energie meer hebt terwijl je geen of weinig fouten maakt. Verder heel fijn, leer echt iedere dag wel een paar minuten tot soms veel langer.",
+      "date": "2025-11-07T09:06:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik vit het leuk",
+      "date": "2025-11-07T08:52:17"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "I hate the new energysystem. It doesn't encourage you to get the answers right. You'll lose energy anyway. Please bring back the hearts!",
+      "date": "2025-11-07T08:35:04"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Het energie systeem is echt waardeloos, je wordt afgestraft als je een perfecte les doet, waardoor je er maximaal 2 lesjes uithaalt. Ik ga stoppen met Duolingo, vind er niks meer aan zo en ik vertik het om een abonnement te nemen.",
+      "date": "2025-11-07T08:33:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het is goed voor talen en ik krijg toeten van Frans dus ik leer dan zo",
+      "date": "2025-11-07T08:04:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het is leuke en gratis app te leren veel talen",
+      "date": "2025-11-07T07:43:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "echt goed",
+      "date": "2025-11-07T07:06:04"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Tot voor kort was het een fijne app. Misschien wat veel herhaling maar verder wel goed. Nu is er een nieuw systeem met 'energie' waardoor je maar beperkte tijd hebt om te leren. Hoe goed je een les ook doet. Nruim 3 jaar bijna elke dag gebruiken hou ik er nu mee op. Waardeloos systeem.",
+      "date": "2025-11-06T23:24:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het is heel leuk en leerzaam ik ben nu heel goet in Duits 🇩🇪 duolingo is heel goed! zeker een dikke vette aanrader! 5 🌟",
+      "date": "2025-11-06T22:45:09"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "algemeen een goede app om van alles te leren. het energie systeem is wel stom",
+      "date": "2025-11-06T22:30:38"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "why can i see random people in my feed? i dont want to see them, only my friends. And i dont want others to see my stuff. please change if back otherwise i will cancel my subscription.",
+      "date": "2025-11-06T22:17:02"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "I used to love Duolingo - I have a 1300 day streak - but this recent 'energy' update just sucks man. Losing 7-8 energy per lesson while only gaining 5 by watching an ad is awful. It feels like I'm getting discouraged from learning a language. On a language learning app. Sure. Point is, this sucks. Unless Duolingo either reverts the recent changes or improves the energy system (full energy when watching a video, less energy used per lesson?), I will begrudgingly keep going, but only for my streak",
+      "date": "2025-11-06T21:55:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Ik had het niet perse verwacht, maar door dit elke dag te doen de afgelopen 65 dagen, leer ik hetgeen me eerder niet lukte te leren, (vooral omdat ik de aandacht er niet bij kon houden) en dat is het toepassen van de juiste werkwoordsvormen in het Spaans. En tegelijk leer ik langzaam de basis van het opbouwen van zinnen. ik merk dat het steeds een stukje meer vanuit mezelf komt. Door heel veel herhaling en goede opbouw van kleine beetjes bijleren. Laagdrempelig in spreektaal. ❤️",
+      "date": "2025-11-06T21:40:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik leer echt veel",
+      "date": "2025-11-06T21:24:35"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel leuk echt toppie",
+      "date": "2025-11-06T21:24:23"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "I miss the grammar, sometimes the sentences you have to translate are quite weird, but if you practice daily you can still learn a lot.",
+      "date": "2025-11-06T20:51:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "normaal vind ik talen leren stom maar met Duolingo maakt het alles leuker en gemakkelijker en ik leer ook meer Groeten, Lysander552",
+      "date": "2025-11-06T20:44:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "prachtige manier om een nieuwe taal te leren.",
+      "date": "2025-11-06T19:57:14"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "heel leuke oefeningen om te beginnen met Spaans. Helaas veel te veel herhalingen met steeds dezelfde woorden.",
+      "date": "2025-11-06T19:48:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "leuke app ik speel piano en dat is echt een aanrader het is snel leuk en makkelijk",
+      "date": "2025-11-06T19:40:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "très amusante",
+      "date": "2025-11-06T19:35:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "dit is super",
+      "date": "2025-11-06T19:13:15"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "je kan echt goed leren",
+      "date": "2025-11-06T19:11:52"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super goed en je leert er heel goed van",
+      "date": "2025-11-06T18:42:47"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "since there are no hearts, but \"energy\" it's not fun to learn anymore.... The energy drains waaaay to fast. Therefore it's not rewarding to learn anymore... Very disappointing",
+      "date": "2025-11-06T18:30:24"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Motivating!",
+      "date": "2025-11-06T18:30:01"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "helaas werkt de NED-ITA niet goed. bijvoorbeeld met de woorden cornetto-croissant en gelato-ijs. Verder leuke app en goed te leren",
+      "date": "2025-11-06T18:19:21"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "It has too many ads.",
+      "date": "2025-11-06T18:02:47"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "heel goed",
+      "date": "2025-11-06T17:32:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Het spel is te leuk!en je leert er veel van bijvoorbeeld:je leert er verschillende talen van!",
+      "date": "2025-11-06T17:13:00"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het is echt leuk",
+      "date": "2025-11-06T16:35:42"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "je kan bijna niet stoppen met leren",
+      "date": "2025-11-06T16:24:58"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "it is amising",
+      "date": "2025-11-06T16:13:56"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel goed, maar levens graken op bij moeilijke talen.",
+      "date": "2025-11-06T16:02:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "bedankt voor wiskunde je hebt mijn leven gered.",
+      "date": "2025-11-06T15:54:01"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "prima app hoe wel ik soms namen moet ttpen van het frans naar het nederlands",
+      "date": "2025-11-06T15:09:06"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "waardeloos nieuw energy systeem. sterk demotiverend terwijl het zo'n unieke app was. Ik heb er meerdere talen mee onder knie gekregen, met de gratis versie, dus wel veel advertenties kijken. Erg zonde. Het uitgangspunt van de bedenkers van duolingo was zo mooi en idealistisch, iedereen ter wereld rijk of arm zou toegang moeten hebben tot onderwijs en het leren van talen. Dat hebben met deze nieuwe versie te niet gedaan. Jammer!",
+      "date": "2025-11-06T14:01:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Un tè uitspraak is steeds verkeerd Ik heb zelfs het origineel opgenomen en afgespeeld maar hij rekent het niet goed Italiaanse les nu 2maanden later geen antwoord en het gaat nog steeds niet goed erg slecht dit!!!!!",
+      "date": "2025-11-06T13:58:56"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "het is leuk en leerzaam, het liefste leer je lekker door, alleen jammer dat dat vrij duur is en niet per maand betaald kan worden",
+      "date": "2025-11-06T12:59:46"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik ga op zoek naar een andere app om mijn Spaans verder te leren. Met de hartjes was het leuk om de taal te leren, nu met de energie moet ik na 1 les al stoppen ook al maakte ik geen fouten. Heel jammer !!",
+      "date": "2025-11-06T12:02:33"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "love the learning hate the energy bar",
+      "date": "2025-11-06T10:56:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "de lessen zijn heel fijn",
+      "date": "2025-11-06T10:39:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fijne app die je motiveert om elke dag bij te leren.",
+      "date": "2025-11-06T09:38:53"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "leuke app maar met veel fouten. geluid is slecht en als je iets inspreekt rekent de app het fout. terwijl het antwoord wel goed is hartjes zijn weg nu energie, vind het geen vooruitgang . kan nu maar 1 les maken en dan weer wachten tot de energie vol is. echt irritant.",
+      "date": "2025-11-06T09:38:17"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "sinds AI zitten er wel heel veel fouten in de (Nederlandse spelling) ,ook de energie ipv 5 fouten is waardeloos",
+      "date": "2025-11-06T09:28:12"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super werkt verslavend en erg leerzaam",
+      "date": "2025-11-06T09:25:18"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "leerzaam",
+      "date": "2025-11-06T09:14:24"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "was okay with the hearts, energy is just terrible",
+      "date": "2025-11-06T08:38:39"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik wil eigenlijk 3 of 4 doen vanwege 't nieuwe systeem maar ik doe toch 1 ster. Daar waar je eerst met de hartjes gewoon door kon spelen zoveel lessen je wilde (zonder fouten of max 5) kan je nu amper 3 foutloze lessen doen zonder verder te kunnen.... Verschrikkelijk!! Deze manier met energy ipv hartjes is echt geen goede keuze geweest en dwingt tot een dure abbonement! Het weerhoud mij juist om met de app verder te gaan terwijl ik het juist altijd met veel plezier \"leerde\".",
+      "date": "2025-11-06T08:24:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Echt goed hoor je kan alle talen leeren wel jammer dat het best moeilijk is om hartjes te krijgen 500 diamanden of 1 hele les voor 1 hartje of 1 uur wachten",
+      "date": "2025-11-06T08:14:52"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "leuk maar irritant",
+      "date": "2025-11-06T07:58:40"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "hele leuke taal Leerweg",
+      "date": "2025-11-06T07:53:19"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "een erg leuke en leerzame app om aan je taal te werken, je kan het overal doen.",
+      "date": "2025-11-06T07:21:07"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "mijn turks is stukken beter geworden door mijn dagelijkse lessen",
+      "date": "2025-11-06T07:00:50"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "since the new update with the energy bar instead of the hearts, its pretty annoying to use and finish classes... for the rest is build up of the app great to learn a new language",
+      "date": "2025-11-05T23:48:42"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "The interactions, animation and polish in this app are amazing. Some translations seem questionable, but it's definitely the most engaging way to learn a new language I've found!",
+      "date": "2025-11-05T23:04:33"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "The new energy system is ridiculous and extremely frustrating.",
+      "date": "2025-11-05T23:03:47"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "the energy system is ruining the whole app",
+      "date": "2025-11-05T22:59:42"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Energy system is trash. Very demotivating. Can do 3 lessons tops👎",
+      "date": "2025-11-05T22:50:47"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "De energiepunten zijn waardeloos. zelfs zonder fouten kan je geen twee lessen achter elkaar meer spelen. Kan zo de prullenbak in, de app.",
+      "date": "2025-11-05T22:18:12"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "The new changes are very annoying. I can barely do any exercises without having to watch way too much publicity. Dissapointing.",
+      "date": "2025-11-05T22:10:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuke en speelse manier om een taal te leren.",
+      "date": "2025-11-05T21:54:05"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuke manier om een taal te leren of op te frissen!",
+      "date": "2025-11-05T21:42:29"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Leuk en simpel",
+      "date": "2025-11-05T21:31:17"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "De nieuwe manier van leren is echt waardeloos. Je bent snel \"op\", ook al heb je alles goed. Je kunt niet meer dan 1 tot 2 lessen per dag doen. Geef me de hartjes terug. Ondertussen heb ik de app al verwijderd en zal mijn tijd niet langer verspillen aan een ineffectieve en inefficiënte manier om een taal te leren.",
+      "date": "2025-11-05T21:10:52"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "De aflopende energiepunten zijn wel erg vervelend, hoe lekker het ook gaat je bent gewoon af. Okan mijn dochter oefenen met schaken maar ik heb daar geen keuze toe... jammer",
+      "date": "2025-11-05T20:51:10"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Zeer leuke manier om een vreemde taal onder de knie te krijgen! Door je reeks in stand te houden, ben je erg committed om elke dag minstens 1 les te doen.",
+      "date": "2025-11-05T20:49:34"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "je doet spelende wijs de taal leren.",
+      "date": "2025-11-05T20:43:37"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "heel goed.",
+      "date": "2025-11-05T20:22:29"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "het lukt niet eens meer om 2 lessen te halen. ik ben een trage antwoorder en met de hartjes kon ik veel meer lessen doen. je leert via deze app ook niet genoeg nieuwe woorden meer na een tijdje, dus wat voor zin heeft het dan",
+      "date": "2025-11-05T20:14:16"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel fijn om op een simpele manier je nieuwe taal te leren met korte lessen per dag.",
+      "date": "2025-11-05T20:03:42"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "unusable with free version. Can only use it for a few minutes a day after which you're not allowed to continue bevause you don't have enough 'energy points'.",
+      "date": "2025-11-05T19:50:14"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "werkt perfect en herinnerd je als je moet spelen in 2 dagen weet ik al 8 zinnen in de taal die ik wil kennen zonder dualingo plus dankjewel!",
+      "date": "2025-11-05T19:14:27"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Waardeloos sinds het niet meer met hartjes(levens) werkt maar met een snel leeglopende batterij is het niet meer motiverend om door te gaan met je lessen!!!!",
+      "date": "2025-11-05T19:10:33"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Energie ipv hartjes is waardeloos. Onoverzichtelijk en niet leuk meer.",
+      "date": "2025-11-05T18:38:24"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Ik ben al ver in mijn lessen en vond het oefenen leuk, maar wat vervelend die energie balk ook al heb je de les goed, je bent energie kwijt! Ik krijg steeds meer een hekel aan het oefenen! Geef mij de hartjes maar terug, dan blijf je tenminste vol als je foutloos werkt. En dat er vanuit Duolingo geen reactie komt op al deze negatieve reviews, nog een minpunt erbij!",
+      "date": "2025-11-05T18:29:56"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik heb veel ziektes en daarom kan ik niet goed leren dat ik heel moeilijk voor mij een ziekte is het prikkelbaar darmsyndroom",
+      "date": "2025-11-05T18:12:26"
+    },
+    {
+      "platform": "google",
+      "rating": 3,
+      "review": "de relefoonoproepen registreren niet alles volledig. sommige vertalingen in het Nederkands worden afgekeurd wegens foute volgorde al zijn ze taalkundig juist. ik mis nu vooral grammatica overzichten",
+      "date": "2025-11-05T18:07:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "deze app helpt echt om een taal te leren",
+      "date": "2025-11-05T16:43:21"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "The energy system ruined the experience for me. Bring back the hearts!",
+      "date": "2025-11-05T15:09:03"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "prima te volgen deze lessen leuk om te doen",
+      "date": "2025-11-05T14:53:00"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "gezellig een leuk om een nieuwe taal te leren 🤗",
+      "date": "2025-11-05T14:41:59"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "leuke manier om een andere taal te leren. .",
+      "date": "2025-11-05T14:40:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "super!",
+      "date": "2025-11-05T14:32:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik Lierde Spaans snel zonde dat ik het wist ik raad het aan wie een nieuwe taal wiel lieren. het is perfect.",
+      "date": "2025-11-05T14:31:22"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "ik ben heel tevreden maar de batterij moet weg en dat je gewoon kan spelen",
+      "date": "2025-11-05T14:07:24"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "het is echt een leuke ap. En je kan ook meerdere talen leren",
+      "date": "2025-11-05T14:03:55"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Since Duolingo changed Hearts to Energy, the app became wortless as free language learning app. You can do max 2 to 3 lessons a day. That's not how you can learn a language. They force you to pay to unlock unlimited lessons. I really regret their decision. Once you pay, it's a great app. All kind of challenges and leagues motivate you to do lessons. However, after years of streaks in the highest league, I (have to) quit Duolingo, as it simply isn't working anymore. Bye.",
+      "date": "2025-11-05T12:46:26"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Klopt het dat er nu hele kleine hoofdstukken zijn met heel veel precies dezelfde vragen en dat de triple xp boost die beloofd wordt bij het behalen van de 3 doelen niet meer werkt?",
+      "date": "2025-11-05T12:38:09"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "wat een leuke manier om te oefenen en leren, iets dat nog bij blijft ook.",
+      "date": "2025-11-05T12:33:40"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Het zou 5 sterren zijn geweest als het niet was voor de opdringerige advertenties na elke les om Super Duolingo te nemen. Het feit dat het harten systeem is vervangen door een of andere energie meter is belachelijk. Geforceerd worden om extra bij te kopen anders kun je niet nog een les afmaken is ronduit schandalig. Als je harten op waren was het jouw eigen schuld, omdat je te veel fouten maakt. Maar gestraft worden omdat je te lang doorgaat is zo idioot.",
+      "date": "2025-11-05T12:02:17"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:49:38 using advanced analytics*

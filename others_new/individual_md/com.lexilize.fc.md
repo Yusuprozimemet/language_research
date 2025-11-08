@@ -1,0 +1,470 @@
+# Flashcards: Learn Languages
+
+## 📱 App Information
+
+| **Attribute** | **Google Play** | **App Store** |
+|---------------|-----------------|---------------|
+| **Title** | Flashcards: Learn Languages | N/A |
+| **Package/ID** | com.lexilize.fc | N/A |
+| **Rating** | 4.5503874 | N/A |
+| **Total Ratings** | 35,575 | N/A |
+| **Installs** | 1,000,000+ | N/A |
+| **Genre** | Education | N/A |
+
+## 📝 Description
+
+Learn 118+ languages with Language Flashcards for studying! Spanish flash cards, German, French & others including flash cards for kids and toddlers!
+Learn Spanish, French, German, Japanese, Korean, Italian, English vocabulary, and more – free, offline, with spaced repetition & flashcards games to learn words and memorize by heart!
+
+Create personalized flashcards and memorize words efficiently with smart reminders. Study anytime, anywhere using our flashcards for studying – perfect for learning English, Spanish, Japanese, Korean, Arabic, Greek, German, French, and other languages. Expand your vocabulary fast with our vocabulary builder and flashcards maker. If you want to memorize by heart new words in a foreign language, our personalized flashcards adapt to your needs. With this app, you can learn different languages more effectively.
+
+Learn Anatomy, Biology, Math, and more with digital flashcards for a versatile study experience. Perfect for STEM students tackling Biology terms, Math formulas, or Anatomy.
+
+🌟 Key Features:
+Custom Flashcards: Create free flashcards with transcriptions, examples, images, and dialects for precise pronunciation. Ideal for medical students (Anatomy), science learners (Biology, Math).
+Auto-Translation: Free instant AI-powered translation via DeepL API (learn vocabulary in English, Spanish, German, French, Korean or other foreign languages).
+Offline Flashcards Learning: Study on the go! Learn new words!
+Spaced Repetition: Retain vocabulary longer with our smart spaced repetition app and customize repetition intervals to suit your learning style.
+Interactive Games: Make learning fun with engaging flashcard activities, including 5 flash cards games for kids and adults.
+Audio Playback Control: Adjust the playback speed of words in flashcards to suit your learning pace.
+
+Who is it for?
+📚 Students – Easily create an Excel file with your words using ChatGPT or other AI tools, and import it into the app. Study between lessons, share digital flashcards. You’ll be able to memorize by heart vocabulary lists for exams or daily practice.
+🎓 Teachers – Create and share word lists fast with our flashcards maker.
+📊 Language Learners – Expand your vocabulary in Spanish, French, Japanese & more with spaced repetition.
+
+Why Choose Us?
+- Free Version with Rich Features: Enjoy a wide range of functions.
+- Minimal Ads: The free version includes very few ads, ensuring a smooth learning experience.
+- Simple Interface: Easy for all ages.
+- Learn Languages and More: Master foreign languages (Spanish, Japanese, Arabic, German, French, Korean or other languages) or study Anatomy, Biology, Math with digital flashcards.
+- 118+ Languages: Including multiple dialects for accurate pronunciation.
+- Audio & Spacing Control: Adjust speed and spaced repetition intervals. Listen & speak Spanish, German, French, Korean and other languages.
+- Efficient Learning: Spaced repetition helps master foreign languages vocabulary with our flashcards maker.
+- Personalized Learning: Easily create flashcards tailored to learn new words and memorize by heart with our vocabulary builder designed for both adults and flash cards for kids. Our vocabulary builder is perfect for long-term success in any subject. With this spaced repetition app, you’ll quickly improve vocabulary in any language or discipline using our smart flashcards for studying.
+
+Join our community! Share your feedback at feedback@lexilize.com or on Telegram. Become a BETA tester: https://play.google.com/apps/testing/com.lexilize.fc
+
+## 📊 Reviews Analytics
+
+**Total Reviews:** 54 (54 analyzed)
+**Rating Distribution:** 50 positive (4-5★), 0 neutral (3★), 4 negative (1-2★)
+**Average Sentiment:** 0.25 (-1=very negative, +1=very positive)
+**Primary Language:** en
+**Key Insights:** Average rating: 4.5/5.0 | Overall sentiment: positive (score: 0.25) | Reviews in 6 languages, primarily en (22 reviews) | Reviews from 1 platform(s): google | Key themes: app, good, goed
+
+
+### 🔑 Key Themes & Phrases
+
+- **app** (relevance: 0.111)
+- **good** (relevance: 0.069)
+- **goed** (relevance: 0.053)
+- **je** (relevance: 0.052)
+- **super** (relevance: 0.051)
+- **words** (relevance: 0.050)
+- **easy** (relevance: 0.042)
+- **en** (relevance: 0.042)
+
+### ⭐ Rating Breakdown
+
+- **5 ★★★★★**: 37 reviews (68.5%)
+- **4 ★★★★☆**: 13 reviews (24.1%)
+- **2 ★★☆☆☆**: 1 reviews (1.9%)
+- **1 ★☆☆☆☆**: 3 reviews (5.6%)
+
+### 🌍 Languages in Reviews
+
+- **en**: 22 reviews
+- **nl**: 22 reviews
+- **unknown**: 5 reviews
+- **af**: 3 reviews
+- **no**: 1 reviews
+
+### 📱 Platform Distribution
+
+- **google**: 54 reviews
+
+## 📈 Visualizations
+
+### Analytics Charts
+![Analytics](charts/Flashcards__Learn_Languages_analytics.png)
+
+### Word Cloud
+![Word Cloud](charts/Flashcards__Learn_Languages_wordcloud.png)
+
+## 💬 Sample Reviews
+
+**Review 1** (★★★★★ - google - 2025-05-19T23:12:03)
+> I want to add some of the cards to my favorites or I want an option for difficulty or ease. Thank you
+
+**Review 2** (★★★★★ - google - 2022-10-10T09:12:07)
+> Probably one of the best flashcard apps available, due to the possibility to set it up that reviews require you to type in the correct word. The best way to study flashcards with the best results is to show them in your own language and you need to type in the word in the target language. This metho...
+
+**Review 3** (★★★★★ - google - 2020-12-17T09:52:02)
+> Super app
+
+**Review 4** (★★★★★ - google - 2020-02-15T18:43:47)
+> is goed
+
+**Review 5** (★★★★ - google - 2017-07-29T12:20:32)
+> Ik kan niet de app openen , hoewel ik koop de aap met stem via IDial
+
+## 🔧 Raw JSON Data
+
+<details>
+<summary>Click to expand raw app data</summary>
+
+```json
+{
+  "name": "Flashcards: Learn Languages",
+  "google_package": "com.lexilize.fc",
+  "google": {
+    "title": "Flashcards: Learn Languages",
+    "description": "Learn 118+ languages with Language Flashcards for studying! Spanish flash cards, German, French & others including flash cards for kids and toddlers!\r\nLearn Spanish, French, German, Japanese, Korean, Italian, English vocabulary, and more – free, offline, with spaced repetition & flashcards games to learn words and memorize by heart!\r\n\r\nCreate personalized flashcards and memorize words efficiently with smart reminders. Study anytime, anywhere using our flashcards for studying – perfect for learning English, Spanish, Japanese, Korean, Arabic, Greek, German, French, and other languages. Expand your vocabulary fast with our vocabulary builder and flashcards maker. If you want to memorize by heart new words in a foreign language, our personalized flashcards adapt to your needs. With this app, you can learn different languages more effectively.\r\n\r\nLearn Anatomy, Biology, Math, and more with digital flashcards for a versatile study experience. Perfect for STEM students tackling Biology terms, Math formulas, or Anatomy.\r\n\r\n🌟 Key Features:\r\nCustom Flashcards: Create free flashcards with transcriptions, examples, images, and dialects for precise pronunciation. Ideal for medical students (Anatomy), science learners (Biology, Math).\r\nAuto-Translation: Free instant AI-powered translation via DeepL API (learn vocabulary in English, Spanish, German, French, Korean or other foreign languages).\r\nOffline Flashcards Learning: Study on the go! Learn new words!\r\nSpaced Repetition: Retain vocabulary longer with our smart spaced repetition app and customize repetition intervals to suit your learning style.\r\nInteractive Games: Make learning fun with engaging flashcard activities, including 5 flash cards games for kids and adults.\r\nAudio Playback Control: Adjust the playback speed of words in flashcards to suit your learning pace.\r\n\r\nWho is it for?\r\n📚 Students – Easily create an Excel file with your words using ChatGPT or other AI tools, and import it into the app. Study between lessons, share digital flashcards. You’ll be able to memorize by heart vocabulary lists for exams or daily practice.\r\n🎓 Teachers – Create and share word lists fast with our flashcards maker.\r\n📊 Language Learners – Expand your vocabulary in Spanish, French, Japanese & more with spaced repetition.\r\n\r\nWhy Choose Us?\r\n- Free Version with Rich Features: Enjoy a wide range of functions.\r\n- Minimal Ads: The free version includes very few ads, ensuring a smooth learning experience.\r\n- Simple Interface: Easy for all ages.\r\n- Learn Languages and More: Master foreign languages (Spanish, Japanese, Arabic, German, French, Korean or other languages) or study Anatomy, Biology, Math with digital flashcards.\r\n- 118+ Languages: Including multiple dialects for accurate pronunciation.\r\n- Audio & Spacing Control: Adjust speed and spaced repetition intervals. Listen & speak Spanish, German, French, Korean and other languages.\r\n- Efficient Learning: Spaced repetition helps master foreign languages vocabulary with our flashcards maker.\r\n- Personalized Learning: Easily create flashcards tailored to learn new words and memorize by heart with our vocabulary builder designed for both adults and flash cards for kids. Our vocabulary builder is perfect for long-term success in any subject. With this spaced repetition app, you’ll quickly improve vocabulary in any language or discipline using our smart flashcards for studying.\r\n\r\nJoin our community! Share your feedback at feedback@lexilize.com or on Telegram. Become a BETA tester: https://play.google.com/apps/testing/com.lexilize.fc",
+    "rating": 4.5503874,
+    "rating_text": null,
+    "ratings_total": 35575,
+    "ratings_histogram": [
+      2204,
+      826,
+      826,
+      3031,
+      28658
+    ],
+    "installs": "1,000,000+",
+    "genre": "Education"
+  },
+  "apple": null,
+  "reviews": [
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I want to add some of the cards to my favorites or I want an option for difficulty or ease. Thank you",
+      "date": "2025-05-19T23:12:03"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "De app werkt prima. ik ga hem nu al maanden om Bisaya te leren.",
+      "date": "2024-03-24T15:28:36"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Eerste ervaringen lijken positief",
+      "date": "2024-02-19T20:08:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very helpful way of learning new words",
+      "date": "2023-11-08T07:47:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Fantastic app, easy to use and very useful.",
+      "date": "2023-11-07T15:23:46"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I love this app! I’ve been using it for over 5 years by now. I love how I can make my voc lists in Excel and I can simply import them into Lexilize. (Traumas from my previous flashcards app, I made all my cards in the app, and they simply quit existing, so gone was all my vocab.) If I had little remarks in the beginning, they all have been solved over the years.",
+      "date": "2023-10-17T09:31:18"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Having tried several others, I like this one best. It's straightforward and easy to use. A minor improvement would be having non-language related flashcard options for studying definitions, concepts etc. Also would like a Cebuano/Bisaya language option.",
+      "date": "2023-08-17T15:17:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Makkelijk in gebruik en handig!",
+      "date": "2023-07-02T20:32:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "I have been using this app for a year now and this is the best app you can find ! It is truly a piece of art ! I couldn't find better anywhere else ! Keep up the good work and don't ever change your app",
+      "date": "2023-03-01T10:50:10"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Love this app for memorizing Spanish words",
+      "date": "2023-02-19T14:54:25"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super easy to use. Great feature: the option to export and import from excel.",
+      "date": "2022-11-30T23:25:55"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "I really enjoy using it, it's very easy to use. But why did the korean speech/voice part suddenly stop working? Can you please fix it?",
+      "date": "2022-11-20T18:16:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "echt een mooie app; als moeder én als docent word ik heel blij van de toepassingen en de functionaliteit",
+      "date": "2022-10-18T11:13:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Probably one of the best flashcard apps available, due to the possibility to set it up that reviews require you to type in the correct word. The best way to study flashcards with the best results is to show them in your own language and you need to type in the word in the target language. This method of reviewing is possible in this app while lots of other flashcard apps do not provide this functionality. That is why this app is probably one of the best ones around.",
+      "date": "2022-10-10T09:12:07"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "Nou, het creëren van een flashcard lukt al niet. Beetje jammer allemaal.",
+      "date": "2022-09-14T16:53:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goed",
+      "date": "2022-04-08T10:19:37"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "The words of Dutch and English are not correct. One example: it says 'strait = straat', it should be 'street = straat'",
+      "date": "2022-04-02T23:26:31"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "great",
+      "date": "2021-11-04T18:11:21"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Nu al fan! Meteen ook een abonnement aangeschaft.",
+      "date": "2021-10-20T22:08:15"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "eerste indruk is goed, kunt verschillende categorieen van woorden toevoegen.",
+      "date": "2021-06-06T12:32:07"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "best vlot. heel handig en redelijk eenvoudig om te gebruiken. ik zou het nog leuker hebben gevonden als er meer foto's en prentjes waren ipv vertalingen.",
+      "date": "2021-04-28T13:54:57"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Gooie app, zeker omdat je eigen worden er in kan zetten en er mee oefenen met paar korte spelletjes",
+      "date": "2021-04-14T12:28:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel fijne app om je woordjes te leren. Nog geen reclame gezien. Werkt geweldig. Italiano here I come!",
+      "date": "2021-03-11T07:16:39"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Fijne app om mee te leren. Enige wat ik jammer vind is dat het beeld niet kan kantelen.",
+      "date": "2021-03-07T19:53:49"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Handige app om je eigen woordenlijsten te oefenen",
+      "date": "2021-03-02T20:32:55"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Not many advertisements. Good pronunciation. Good training system.",
+      "date": "2021-02-08T19:34:45"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Perfect app with even image option!!",
+      "date": "2021-01-19T07:54:54"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super app",
+      "date": "2020-12-17T09:52:02"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Best app ever!",
+      "date": "2020-11-13T13:37:17"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Leuke taalhulp.",
+      "date": "2020-11-12T12:38:08"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Een heel prettig programma waarbij je op verschillende manieren kan leren en je kennis kunt testen. Het is leuk en inzichtelijk",
+      "date": "2020-09-15T16:30:43"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goede app, alleen de random functie werkt niet.",
+      "date": "2020-08-28T12:38:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super fijn",
+      "date": "2020-08-27T19:18:20"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Really good app, easy to learn vocab.",
+      "date": "2020-07-20T14:11:13"
+    },
+    {
+      "platform": "google",
+      "rating": 2,
+      "review": "Super irritant. Je kunt niet via engels andere talen leren. Elke andere taal behalve engels kun je selecteren.",
+      "date": "2020-07-09T15:25:39"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Goed, doet wat ik verwacht",
+      "date": "2020-07-06T16:16:33"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very useful app! Great last update with different boxes. But there should be an option to repeat only words from 1 box. If I learn new words now than I have to repeat all the words again till I see words from box 1 or 2 again.",
+      "date": "2020-06-14T11:16:36"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "If this app also tracked mistakes it would be perfect",
+      "date": "2020-04-26T22:51:11"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Very useful flashcard app. It has a lot of different features and ways to learn from your flascards, and is easy to use as well.",
+      "date": "2020-04-26T15:49:42"
+    },
+    {
+      "platform": "google",
+      "rating": 1,
+      "review": "App crashes when in \"repeat/recall\" mode, and when returning to main menu",
+      "date": "2020-03-24T12:18:38"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "is goed",
+      "date": "2020-02-15T18:43:47"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Soms versta je een klank niet maar al de rest is super",
+      "date": "2020-02-15T13:20:07"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Veel mogelijkheden. Vertalingen van de app zelf zijn beperkt. Maar je kunt alles zelf aanvullen of verbeteren.",
+      "date": "2020-01-15T16:08:27"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Fijne app. Jammer dat er alleen standaard letters beschikbaar zijn in Sanskrit. Maak het moeilijk om de juiste schrijfwijze te leren.",
+      "date": "2019-12-11T16:21:53"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel gebruiksvriendelijke app. I really enjoy working with it. Bravo!",
+      "date": "2019-12-10T12:31:13"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "So far so good...only a week went by.",
+      "date": "2019-11-23T18:34:44"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Eindelijk lukt het me de woordjes te leren. Dankjewel💕",
+      "date": "2019-11-17T00:05:30"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Heel handige manier om woordjes te leren, ook dat je er plaatjes kanbij zoeken.",
+      "date": "2019-09-27T07:54:26"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Super app! You have the basic built-in vocabulary and can add the new words, learn them in different ways, just in games. Nice as you learn the words you want to learn (in my case, German for business).",
+      "date": "2019-08-21T21:55:01"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Wish I had found this app sooner! Absolutely perfect way to study ANYTHING.",
+      "date": "2019-03-18T22:51:44"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Alle woordjes die je wilt leren kun je heel eenvoudig en geordend toevoegen: zelfs met illustratie! Het mooiste is dat al die woordjes vervolgens bij het overhoren ook in audio te beluisteren zijn, zonder dat je ze zelf in hoeft te spreken.",
+      "date": "2019-02-24T12:38:06"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "good",
+      "date": "2019-02-05T10:38:32"
+    },
+    {
+      "platform": "google",
+      "rating": 5,
+      "review": "Easy to use and works like a charm. Would definitely recommend!",
+      "date": "2018-11-14T22:38:23"
+    },
+    {
+      "platform": "google",
+      "rating": 4,
+      "review": "Ik kan niet de app openen , hoewel ik koop de aap met stem via IDial",
+      "date": "2017-07-29T12:20:32"
+    }
+  ]
+}
+```
+
+</details>
+
+---
+*Report generated on 2025-11-08 13:51:06 using advanced analytics*
