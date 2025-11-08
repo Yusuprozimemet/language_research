@@ -1,0 +1,11 @@
+QUESTIONS THAT CANNOT BE HANDLED AUTOMATICALLY
+==================================================
+
+1. Overall sentiment distribution (requires TextBlob)
+
+2. Sentiment changes over time (requires TextBlob)
+
+3. Complaint clustering (requires scikit-learn)
+
+4. Word cloud generation (requires wordcloud/matplotlib)
+

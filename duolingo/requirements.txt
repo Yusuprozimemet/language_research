@@ -1,0 +1,14 @@
+# requirements.txt for duolingo review analysis
+# Note: `analysis.py` currently uses only the Python standard library and requires no packages.
+# The packages below are optional and useful for extended analysis, plotting or NLP preprocessing.
+
+pandas
+matplotlib
+nltk
+langdetect
+google-play-scraper
+requests
+textblob
+scikit-learn
+wordcloud
+seaborn

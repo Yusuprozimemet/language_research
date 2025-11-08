@@ -1,0 +1,36 @@
+COMPREHENSIVE ANALYSIS SUMMARY - Before Oct 27, 2025 (426 reviews)
+======================================================================
+Total Reviews: 426
+
+1. DATA VALIDATION
+   Average Rating: 3.59
+   Date Range: 2025-09-17 to 2025-10-26
+   Sources: {'apple': 426}
+
+2. SENTIMENT & TONE
+   Sentiment: {'Positive': 0, 'Negative': 0, 'Neutral': 0}
+   Top Emotional Words: {'best': 20, 'great': 15, 'love': 12, 'bad': 12, 'annoying': 10, 'perfect': 8, 'terrible': 4, 'frustrating': 4, 'useless': 3, 'awesome': 3}
+
+3. PROBLEM CLUSTERS
+   Themes: {'monetization': 18, 'energy_system': 37, 'ai_content': 13, 'ads': 60, 'removed_features': 5, 'technical': 2, 'billing': 0, 'other': 0}
+   Top Themes: [('ads', 60), ('energy_system', 37), ('monetization', 18)]
+
+4. USER PERSONAS
+   Personas: {'free_learner': 313, 'streak_keeper': 5, 'casual_learner': 8, 'family_user': 4, 'serious_learner': 8, 'paid_power_user': 88}
+   Churn Signals: {'quit': 7, 'uninstall': 5, 'switch_apps': 4, 'streak_mention': 7}
+   Churn %: 5.4%
+
+5. MONETIZATION
+   Pricing Mentions: {'euro': 6, 'dollar': 0, 'pound': 0, 'too_expensive': 1, 'reasonable_price': 0, 'pay_to_remove_ads': 0, 'pay_for_grammar': 1, 'wont_pay': 3}
+
+6. OPPORTUNITIES
+   Top Features: [('speaking_practice', 17), ('streaming_access', 7), ('grammar_explanations', 5), ('advanced_lessons', 5), ('offline_mode', 3)]
+
+7. RISK & COMPETITION
+   Switching Barriers: {'streak_loss': 7, 'habit_routine': 2, 'progress_investment': 2, 'familiarity': 10, 'friends_competition': 2}
+   Competitors: {'memrise': 0, 'busuu': 0, 'babbel': 0, 'rosetta_stone': 0, 'lingoda': 0}
+
+8. DUTCH MARKET
+   Dutch Language Mentions: 13 (3.1%)
+   Local Terms: 200
+   €4.99 Pricing: 0 (0.0%)

@@ -1,0 +1,185 @@
+{
+  "period": "Before Oct 27, 2025 (426 reviews)",
+  "total_reviews": 426,
+  "analysis": {
+    "data_validation": {
+      "total_reviews": 426,
+      "avg_rating": 3.59,
+      "rating_distribution": {
+        "1": 73,
+        "2": 44,
+        "3": 49,
+        "4": 79,
+        "5": 181
+      },
+      "sources": {
+        "apple": 426
+      },
+      "date_range": {
+        "earliest": "2025-09-17",
+        "latest": "2025-10-26"
+      }
+    },
+    "sentiment_tone": {
+      "sentiment_distribution": {
+        "Positive": 0,
+        "Negative": 0,
+        "Neutral": 0
+      },
+      "top_emotional_words": {
+        "best": 20,
+        "great": 15,
+        "love": 12,
+        "bad": 12,
+        "annoying": 10,
+        "perfect": 8,
+        "terrible": 4,
+        "frustrating": 4,
+        "useless": 3,
+        "awesome": 3
+      }
+    },
+    "problem_clusters": {
+      "complaint_themes": {
+        "monetization": 18,
+        "energy_system": 37,
+        "ai_content": 13,
+        "ads": 60,
+        "removed_features": 5,
+        "technical": 2,
+        "billing": 0,
+        "other": 0
+      },
+      "complaint_themes_pct": {
+        "monetization": 4.2,
+        "energy_system": 8.7,
+        "ai_content": 3.1,
+        "ads": 14.1,
+        "removed_features": 1.2,
+        "technical": 0.5,
+        "billing": 0.0,
+        "other": 0.0
+      },
+      "top_themes": [
+        [
+          "ads",
+          60
+        ],
+        [
+          "energy_system",
+          37
+        ],
+        [
+          "monetization",
+          18
+        ]
+      ]
+    },
+    "user_personas": {
+      "personas": {
+        "free_learner": 313,
+        "streak_keeper": 5,
+        "casual_learner": 8,
+        "family_user": 4,
+        "serious_learner": 8,
+        "paid_power_user": 88
+      },
+      "churn_signals": {
+        "quit": 7,
+        "uninstall": 5,
+        "switch_apps": 4,
+        "streak_mention": 7
+      },
+      "churn_percentage": 5.4
+    },
+    "monetization": {
+      "pricing_mentions": {
+        "euro": 6,
+        "dollar": 0,
+        "pound": 0,
+        "too_expensive": 1,
+        "reasonable_price": 0,
+        "pay_to_remove_ads": 0,
+        "pay_for_grammar": 1,
+        "wont_pay": 3
+      },
+      "pricing_mentions_pct": {
+        "euro": 1.4,
+        "dollar": 0.0,
+        "pound": 0.0,
+        "too_expensive": 0.2,
+        "reasonable_price": 0.0,
+        "pay_to_remove_ads": 0.0,
+        "pay_for_grammar": 0.2,
+        "wont_pay": 0.7
+      }
+    },
+    "opportunities": {
+      "feature_requests": {
+        "grammar_explanations": 5,
+        "offline_mode": 3,
+        "dark_mode": 0,
+        "speaking_practice": 17,
+        "human_voices": 1,
+        "web_version": 0,
+        "advanced_lessons": 5,
+        "streaming_access": 7
+      },
+      "feature_requests_pct": {
+        "grammar_explanations": 1.2,
+        "offline_mode": 0.7,
+        "dark_mode": 0.0,
+        "speaking_practice": 4.0,
+        "human_voices": 0.2,
+        "web_version": 0.0,
+        "advanced_lessons": 1.2,
+        "streaming_access": 1.6
+      },
+      "top_features": [
+        [
+          "speaking_practice",
+          17
+        ],
+        [
+          "streaming_access",
+          7
+        ],
+        [
+          "grammar_explanations",
+          5
+        ],
+        [
+          "advanced_lessons",
+          5
+        ],
+        [
+          "offline_mode",
+          3
+        ]
+      ]
+    },
+    "risk_competition": {
+      "switching_barriers": {
+        "streak_loss": 7,
+        "habit_routine": 2,
+        "progress_investment": 2,
+        "familiarity": 10,
+        "friends_competition": 2
+      },
+      "competitors_mentioned": {
+        "memrise": 0,
+        "busuu": 0,
+        "babbel": 0,
+        "rosetta_stone": 0,
+        "lingoda": 0
+      }
+    },
+    "dutch_market": {
+      "dutch_language_mentions": 13,
+      "dutch_language_pct": 3.1,
+      "local_terms_mentions": 200,
+      "pricing_4_99_mentions": 0,
+      "pricing_4_99_pct": 0.0
+    }
+  }
+}

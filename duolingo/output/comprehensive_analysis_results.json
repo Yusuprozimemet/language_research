@@ -1,0 +1,548 @@
+{
+  "data_validation": {
+    "total_reviews": 1000,
+    "date_range": {
+      "start": "2025-09-17 13:49:08+00:00",
+      "end": "2025-11-06 23:24:59+00:00",
+      "days_span": 50
+    },
+    "ratings": {
+      "percentage_with_ratings": 100.0,
+      "average_apple_rating": 3.61,
+      "average_google_score": 3.18,
+      "overall_average": 3.39
+    },
+    "language_mentions": {
+      "nederlands": 15,
+      "spanish": 6,
+      "japanese": 4,
+      "dutch": 4,
+      "french": 4,
+      "german": 2,
+      "english": 2,
+      "italian": 1
+    },
+    "duplicates": {
+      "initial_count": 1000,
+      "duplicates_removed": 0,
+      "final_count": 1000,
+      "duplicate_percentage": 0.0
+    },
+    "geography": {
+      "netherlands_reviews": 1000,
+      "netherlands_percentage": 100.0,
+      "note": "Dataset was specifically scraped for Dutch reviews"
+    }
+  },
+  "sentiment_tone": {
+    "sentiment_distribution": {
+      "positive": {
+        "count": 246,
+        "percentage": 24.6
+      },
+      "negative": {
+        "count": 69,
+        "percentage": 6.9
+      },
+      "neutral": {
+        "count": 685,
+        "percentage": 68.5
+      }
+    },
+    "top_emotional_words": {
+      "great": 23,
+      "annoying": 14,
+      "love": 13,
+      "perfect": 11,
+      "amazing": 7,
+      "horrible": 7,
+      "terrible": 5,
+      "worst": 5,
+      "hate": 4,
+      "awful": 4
+    },
+    "most_emotional_reviews": [
+      {
+        "content": "The app is great, but the notification system is horrible and pushy. I understand that you want to drive app engagement, but it is insane to remind people every day in the app that they turned off not...",
+        "score": 4
+      },
+      {
+        "content": "The app started out great, now the owners are just focussed on grabbing money. The number of ads increased over time to intolerable amounts and the number of lessons you could do without paying decrea...",
+        "score": 3
+      },
+      {
+        "content": "The energy system is terrible. Hearts weren't great but they were a lot better than this. Duolingo got too greedy, too bad....",
+        "score": 3
+      }
+    ],
+    "monthly_sentiment_trend": {
+      "2025-09": {
+        "negative": 17,
+        "neutral": 102,
+        "positive": 35
+      },
+      "2025-10": {
+        "negative": 19,
+        "neutral": 197,
+        "positive": 95
+      },
+      "2025-11": {
+        "negative": 2,
+        "neutral": 26,
+        "positive": 7
+      }
+    },
+    "ad_mentions_by_rating": {
+      "one_star_mention_ads_pct": 5.96,
+      "five_star_mention_ads_pct": 0.25,
+      "total_ad_mentions": 22
+    },
+    "long_streak_negativity": {
+      "long_streak_users": 11,
+      "negative_percentage": 18.18
+    }
+  },
+  "problem_clusters": {
+    "complaint_themes": {
+      "monetization": {
+        "count": 140,
+        "percentage": 14.0,
+        "sample_quotes": [
+          "Super! Duolingo je lessen zijn super interessant en leuk...",
+          "Ik ben echt super slecht maar ik leer steeds meer. Ik geloofde de app Als eerst niet maar het is echt geweldig. Het is zeker een aanrader...",
+          "Super helpend en motiverend dit was m’n tweede les en ik kende ze allemaal nog..."
+        ]
+      },
+      "hearts_energy": {
+        "count": 132,
+        "percentage": 13.2,
+        "sample_quotes": [
+          "Why did they add the energy thing without it I would give 5 stars....",
+          "Bring back the hearts...",
+          "Nice app to practice all languages:)..."
+        ]
+      },
+      "ai_content": {
+        "count": 32,
+        "percentage": 3.2,
+        "sample_quotes": [
+          "De nieuwste update is ronduit slecht. De energie is elke keer precies op halverwege de legendarische oefening. De hartjes werkten veel beter! Je krijg...",
+          "I reported a bug. A corrected mistake keeps coming back for the last 2 weeks. Also my XP number isn’t updated. I find it very weak that there is no he...",
+          "It’s impossible to do even a single lesson without ads. Never in my life have I seen any app take points away when your answer is correct 🤯 Adding the..."
+        ]
+      },
+      "ads": {
+        "count": 22,
+        "percentage": 2.2,
+        "sample_quotes": [
+          "The app itself is lovely, some inconsistencies here and there. But  let me start why two stars, if not one. The ads are attrocious, I am on a payment ...",
+          "It’s impossible to do even a single lesson without ads. Never in my life have I seen any app take points away when your answer is correct 🤯 Adding the...",
+          "Very nice, I’m learning more and better Spanish via Duo than I did back in high school. \n\nJust wish they’d have a different system with the energy/bat..."
+        ]
+      },
+      "removed_features": {
+        "count": 15,
+        "percentage": 1.5,
+        "sample_quotes": [
+          "Ok so it was a great app but then my phone broke and it just automatically saves my password as “password” so now I can’t log in and my 300 streak is ...",
+          "I love Duolingo but over the past year the quality has gone down a lot. I get exercises that I’ve already done and sentences seem odd....",
+          "not only the many bugs (feels like they rely on AI lately) but also since the switch to “energy” battery thing its demotivating to keep learning. ive ..."
+        ]
+      },
+      "technical_bugs": {
+        "count": 9,
+        "percentage": 0.9,
+        "sample_quotes": [
+          "Ik ben al meer dan een jaar een betalende klant(familie abonnement). Sinds kort is er een wijziging geweest in hun beleid.een zeer negatieve wijziging...",
+          "Duolingo heeft soms een\nBug maar toch is het een fijne app...",
+          "I reported a bug. A corrected mistake keeps coming back for the last 2 weeks. Also my XP number isn’t updated. I find it very weak that there is no he..."
+        ]
+      },
+      "progress_loss": {
+        "count": 7,
+        "percentage": 0.7,
+        "sample_quotes": [
+          "marketing is getting obnoxious. no one needs or cares about the “lore” of the bird. the new energy update is one of the worst updates every produced b...",
+          "The new energy update is such a downgrade. Progress is painfully slow unless you pay for Duo unlimited or watch ads that only give a tiny 3% recharge....",
+          "Atrocious junky app full of ads…lost focus on learning/education. So many bells and whistles like a pokie machine - terrible!..."
+        ]
+      },
+      "ui_ux": {
+        "count": 6,
+        "percentage": 0.6,
+        "sample_quotes": [
+          "Sadly they have changed “hearts” (lives when you make mistakes) to a “battery” which runs out as time passes by. If you execute exercises correctly, t...",
+          "Het is een leuke en handige app om talen te leren, en je kan ook muziek, wiskunde of schaken doen, maar soms heb je een storing en dan zegt de app dat...",
+          "I like Duolingo a lot, but since a few days there’s a very annoying button you have to press before starting to reply to Lily and again to send your m..."
+        ]
+      }
+    },
+    "removed_features": {
+      "total_mentions": 15,
+      "percentage": 1.5,
+      "sample_quotes": [
+        "Ok so it was a great app but then my phone broke and it just automatically saves my password as “password” so now I can’t log in and my 300 streak is gone plus the new energy is literally the dumbest and most irritating thing they ever made like u can’t even finish a lesson before ur energy runs out and then their gonna be all “get super duolingo for more energy” like I ain’t gonna buy it if u act like that besides I don’t think anybody even likes this energy idea",
+        "I love Duolingo but over the past year the quality has gone down a lot. I get exercises that I’ve already done and sentences seem odd.",
+        "not only the many bugs (feels like they rely on AI lately) but also since the switch to “energy” battery thing its demotivating to keep learning. ive heard many people about this, many have deleted the app due to this and im considering the same because of this stupid idea. how am i supposed to learn when i barely have the energy lvl for 1 or 2 lessons????",
+        "marketing is getting obnoxious. no one needs or cares about the “lore” of the bird. the new energy update is one of the worst updates every produced by duolingo including the learning paths update a while ago. this is just a cash grab it disincentivizes free users from making progress and encourages them to pay. duolingo is no longer on the “mission” to make language learning free. plus the lessons aren’t applicable. random words and sentences do not help to learn a language. go to a different app. there are more effective ones",
+        "The app went from 5 star language tool to some cash grab, wannabe premium service that no longer serves the original purpose, but nowadays fully entertains corporate greed. Feels like the average pay-to-win platform that has no principles or the old “pro bono publico” mission. Either go fully paid or remove the new energy system. As a long term user, I am deleting it and wish you luck."
+      ]
+    },
+    "hearts_energy_mentions": {
+      "count": 132,
+      "percentage": 13.2
+    },
+    "ai_complaints": {
+      "count": 27,
+      "percentage": 2.7
+    },
+    "word_cloud": "Saved to E:\\duolingo\\output\\complaint_wordcloud.png",
+    "high_frequency_problems": [],
+    "top_technical_bugs": {
+      "bug": 4,
+      "error": 2,
+      "freeze": 1
+    },
+    "billing_complaints": {
+      "count": 9,
+      "percentage": 0.9
+    },
+    "unhappy_paid_users": {
+      "paid_user_mentions": 123,
+      "negative_percentage": 8.13
+    },
+    "top_ui_complaints": {
+      "ads": 20,
+      "screen": 3,
+      "loud": 1
+    }
+  },
+  "user_personas": {
+    "user_personas": {
+      "free_learner": {
+        "size": 24,
+        "percentage": 2.4,
+        "sample_quotes": [
+          "Since the last updates the app got worse and worse. They keep rearranging everything;  Make it impos...",
+          "Very nice, I’m learning more and better Spanish via Duo than I did back in high school. \n\nJust wish ..."
+        ]
+      },
+      "streak_keeper": {
+        "size": 37,
+        "percentage": 3.7,
+        "sample_quotes": [
+          "Ik ben al meer dan een jaar een betalende klant(familie abonnement). Sinds kort is er een wijziging ...",
+          "I tried to log a ticket with some concerns: 1. App indicates sometimes I did not do a lesson on a da..."
+        ]
+      },
+      "family_user": {
+        "size": 6,
+        "percentage": 0.6,
+        "sample_quotes": [
+          "I have a paid subscription and it’s truely annoying that Duo Lingo comes up with a free trial for 7 ...",
+          "The app is clearly being updated and taken care of. I like it and it’s fun and the family plan is af..."
+        ]
+      },
+      "serious_learner": {
+        "size": 58,
+        "percentage": 5.8,
+        "sample_quotes": [
+          "Sadly they have changed “hearts” (lives when you make mistakes) to a “battery” which runs out as tim...",
+          "Hi Duo, if the team sees this, could ya please suggest adding Papiamento and African to the app? I’d..."
+        ]
+      },
+      "casual_user": {
+        "size": 36,
+        "percentage": 3.6,
+        "sample_quotes": [
+          "I tried to log a ticket with some concerns: 1. App indicates sometimes I did not do a lesson on a da...",
+          "Sadly they have changed “hearts” (lives when you make mistakes) to a “battery” which runs out as tim..."
+        ]
+      },
+      "paid_user": {
+        "size": 123,
+        "percentage": 12.3,
+        "sample_quotes": [
+          "Super! Duolingo je lessen zijn super interessant en leuk...",
+          "Ik ben echt super slecht maar ik leer steeds meer. Ik geloofde de app Als eerst niet maar het is ech..."
+        ]
+      }
+    },
+    "churn_mentions": {
+      "count": 16,
+      "percentage": 1.6
+    },
+    "alternative_apps": {
+      "mentions": {
+        "busuu": 1
+      },
+      "sentiment": {
+        "busuu": -0.87
+      }
+    },
+    "pricing_willingness": {
+      "mentions_count": 5,
+      "sample_quotes": [
+        "Oppassen ! Ze smeren je een gratis proefperiode aan van een aantal dagen !  Doe dit absoluut niet ! Ze hebben zonder toestemming een jaarabonnement bi...",
+        "Opzich een leuke app. Ik kreeg de optie om een week gratis het abonnement uit te proberen. Er stond bij vermeld dat het abonnement automatisch zou sto...",
+        "I feel it tricked me into allowing them to take €100 out of my account, first of all. I thought they would send a reminder when the trial period would...",
+        "De nieuwste update is ronduit slecht. De energie is elke keer precies op halverwege de legendarische oefening. De hartjes werkten veel beter! Je krijg...",
+        "This app used to be about learning new languages. Now it just is about money. In the past there was room to make mistakes and learn from them, now you..."
+      ]
+    },
+    "user_demographics": {
+      "parent_family_mentions": 6,
+      "parent_percentage": 0.6,
+      "adult_learner_mentions": 8,
+      "adult_percentage": 0.8
+    },
+    "supplement_usage": {
+      "count": 7,
+      "percentage": 0.7
+    },
+    "high_streak_churn": {
+      "high_streak_users": 5,
+      "threatening_to_quit": 3,
+      "quit_percentage": 60.0
+    },
+    "top_positive_aspects": {
+      "language": 17,
+      "learning": 14,
+      "streak": 4
+    }
+  },
+  "monetization": {
+    "pricing_mentions": {
+      "euro_mentions": 6,
+      "dollar_mentions": 1,
+      "pound_mentions": 0,
+      "complaints": 0,
+      "positive": 2
+    },
+    "pay_for_features": {
+      "remove_ads": 4,
+      "grammar": 2,
+      "offline": 0,
+      "unlimited": 2
+    },
+    "wont_pay_users": {
+      "count": 1,
+      "percentage": 0.1
+    },
+    "euro5_plan_features": {},
+    "cancelled_subscriptions": {
+      "count": 1,
+      "percentage": 0.1,
+      "sample_reasons": [
+        "why can i see random people in my feed? i dont want to see them, only my friends. And i dont want others to see my stuff. please change if back otherwise i will cancel my subscription."
+      ]
+    },
+    "family_plan_demand": {
+      "count": 4,
+      "percentage": 0.4
+    }
+  },
+  "opportunities": {
+    "missing_features": {
+      "grammar_explanations": {
+        "count": 22,
+        "percentage": 2.2,
+        "sample_quotes": [
+          "Why did they add the energy thing without it I would give 5 stars....",
+          "The app itself is lovely, some inconsistencies here and there. But  let me start why two stars, if n..."
+        ]
+      },
+      "offline_mode": {
+        "count": 6,
+        "percentage": 0.6,
+        "sample_quotes": [
+          "Ik vind het wel een leuke app maar als je echt lang gaat leren verlies je batterij en moet je wachte...",
+          "Het is een leuke en handige app om talen te leren, en je kan ook muziek, wiskunde of schaken doen, m..."
+        ]
+      },
+      "speaking_practice": {
+        "count": 6,
+        "percentage": 0.6,
+        "sample_quotes": [
+          "I really like the app, because you can learn a language with small learning portions and varariety o...",
+          "No Persian while it’s one of the oldest languages around plus more than 300milion are speaking it ar..."
+        ]
+      },
+      "progress_tracking": {
+        "count": 4,
+        "percentage": 0.4,
+        "sample_quotes": [
+          "marketing is getting obnoxious. no one needs or cares about the “lore” of the bird. the new energy u...",
+          "The new energy update is such a downgrade. Progress is painfully slow unless you pay for Duo unlimit..."
+        ]
+      },
+      "social_features": {
+        "count": 3,
+        "percentage": 0.3,
+        "sample_quotes": [
+          "This app keeps getting worse and worse for the free to play people. It is supposed to be a fun way t...",
+          "why can i see random people in my feed? i dont want to see them, only my friends. And i dont want ot..."
+        ]
+      }
+    },
+    "user_wishlist": {
+      "grammar_explanations": {
+        "count": 22,
+        "percentage": 2.2,
+        "sample_quotes": [
+          "Why did they add the energy thing without it I would give 5 stars....",
+          "The app itself is lovely, some inconsistencies here and there. But  let me start why two stars, if n..."
+        ]
+      },
+      "offline_mode": {
+        "count": 6,
+        "percentage": 0.6,
+        "sample_quotes": [
+          "Ik vind het wel een leuke app maar als je echt lang gaat leren verlies je batterij en moet je wachte...",
+          "Het is een leuke en handige app om talen te leren, en je kan ook muziek, wiskunde of schaken doen, m..."
+        ]
+      },
+      "speaking_practice": {
+        "count": 6,
+        "percentage": 0.6,
+        "sample_quotes": [
+          "I really like the app, because you can learn a language with small learning portions and varariety o...",
+          "No Persian while it’s one of the oldest languages around plus more than 300milion are speaking it ar..."
+        ]
+      },
+      "progress_tracking": {
+        "count": 4,
+        "percentage": 0.4,
+        "sample_quotes": [
+          "marketing is getting obnoxious. no one needs or cares about the “lore” of the bird. the new energy u...",
+          "The new energy update is such a downgrade. Progress is painfully slow unless you pay for Duo unlimit..."
+        ]
+      },
+      "social_features": {
+        "count": 3,
+        "percentage": 0.3,
+        "sample_quotes": [
+          "This app keeps getting worse and worse for the free to play people. It is supposed to be a fun way t...",
+          "why can i see random people in my feed? i dont want to see them, only my friends. And i dont want ot..."
+        ]
+      },
+      "writing_practice": {
+        "count": 2,
+        "percentage": 0.2,
+        "sample_quotes": [
+          "Feels like playing a game, keeps you interested and helps your learning process. Not sure how they w...",
+          "This application can be really helpful with getting more familiar with the different writing systems..."
+        ]
+      },
+      "advanced_lessons": {
+        "count": 1,
+        "percentage": 0.1,
+        "sample_quotes": [
+          "Vanalles geprobeerd: schriftelijk, klassikaal. Maar dit werkt voor mij het best en is gewoon verslav..."
+        ]
+      },
+      "dark_mode": {
+        "count": 0,
+        "percentage": 0.0,
+        "sample_quotes": []
+      },
+      "stories": {
+        "count": 0,
+        "percentage": 0.0,
+        "sample_quotes": []
+      },
+      "human_voices": {
+        "count": 0,
+        "percentage": 0.0,
+        "sample_quotes": []
+      }
+    },
+    "leave_conditions": [
+      "I have been using Duolingo for a long time now to maintain some level in several languages. It used to be that I could use both the website and the ap...",
+      "Why with energy instead of hearts? It’s not fun anymore. You only want to earn money I think. Your energy is gone fast even if you don’t make mistakes...",
+      "It’s impossible to do even a single lesson without ads. Never in my life have I seen any app take points away when your answer is correct 🤯 Adding the..."
+    ],
+    "competitor_features_praised": {
+      "busuu": [
+        "An annoying put up your volume bar covers the content and now another option \"energy\" keeps you from learning :( Support even doesn't react. Cannot recommend this app anymore, check Busuu or LingoDeer!"
+      ]
+    },
+    "grammar_explanations": {
+      "total_demand": 26,
+      "percentage": 2.6,
+      "format_preferences": {
+        "separate_lesson": 3,
+        "popup": 0,
+        "video": 0,
+        "pdf": 0
+      }
+    },
+    "voice_preferences": {
+      "human_voices": 0,
+      "ai_voices": 2
+    },
+    "specific_feature_demand": {
+      "offline_mode": {
+        "count": 6,
+        "percentage": 0.6
+      },
+      "dark_mode": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "web_version": {
+        "count": 2,
+        "percentage": 0.2
+      }
+    },
+    "perfect_app_summary": [
+      "No ads or reasonable ad frequency",
+      "Grammar explanations for mistakes",
+      "Offline mode for practice anywhere",
+      "Human voices with proper pronunciation",
+      "Fair monetization without aggressive upselling"
+    ]
+  },
+  "risk_competition": {
+    "switching_barriers": {
+      "investment": 29,
+      "streak_loss": 16,
+      "progress_loss": 4,
+      "habit": 4
+    },
+    "monopoly_perception": {
+      "mentions": 0,
+      "sample_quotes": []
+    },
+    "remaining_strengths": {
+      "variety": 17,
+      "gamification": 16,
+      "accessibility": 9,
+      "streak_system": 5,
+      "community": 0
+    },
+    "top_retention_fixes": {
+      "fix_hearts": 21,
+      "remove_ads": 5,
+      "add_grammar": 4
+    }
+  },
+  "dutch_market": {
+    "dutch_complaints": {
+      "price": 50,
+      "ads": 47,
+      "ai": 21
+    },
+    "dutch_specific_mentions": {
+      "ideal": 2,
+      "gdpr": 1
+    },
+    "dutch_pricing_willingness": {
+      "mentions": 1,
+      "percentage": 0.1,
+      "sample_quotes": [
+        "De nieuwste update is ronduit slecht. De energie is elke keer precies op halverwege de legendarische oefening. De hartjes werkten veel beter! Je krijgt bij het aanvullen van de energie tijdens de legendarische oefening alleen aangeboden om een abonnement af te sluiten, maar de optie om je diamanten te gebruiken laten ze niet zien. Dat is pech, Legendarische oefening weg. Ook zeggen ze je kan een week gratis “Super DuoLingo” gebruiken, en krijg je twee dagen alvorens het eindigt een melding om kosteloos te annuleren. Deze melding heb ik dus niet gekregen en er werd na 6 dagen al een bedrag van maar liefst 104,99€ afgeschreven (gelijk het jaarbedrag en niet eens de maandelijkse optie). Gelukkig heb ik dit via Apple wel snel terug gehad maar vanuit DuoLingo vond ik dit echt slecht! Tevens de AI service desk is echt om te janken, soms heb je gewoon echt een medewerker nodig. Ik hoop oprecht dat bovenstaande punten verbeterd gaan worden want het is een leuke en goede app om een taal te leren."
+      ]
+    }
+  }
+}

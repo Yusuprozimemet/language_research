@@ -1,0 +1,182 @@
+{
+  "period": "From Oct 27, 2025 onwards (74 reviews)",
+  "total_reviews": 74,
+  "analysis": {
+    "data_validation": {
+      "total_reviews": 74,
+      "avg_rating": 3.7,
+      "rating_distribution": {
+        "1": 12,
+        "2": 8,
+        "3": 6,
+        "4": 12,
+        "5": 36
+      },
+      "sources": {
+        "apple": 74
+      },
+      "date_range": {
+        "earliest": "2025-10-27",
+        "latest": "2025-11-05"
+      }
+    },
+    "sentiment_tone": {
+      "sentiment_distribution": {
+        "Positive": 0,
+        "Negative": 0,
+        "Neutral": 0
+      },
+      "top_emotional_words": {
+        "best": 6,
+        "love": 2,
+        "terrible": 1,
+        "bad": 1,
+        "annoying": 1,
+        "awful": 1,
+        "perfect": 1
+      }
+    },
+    "problem_clusters": {
+      "complaint_themes": {
+        "monetization": 2,
+        "energy_system": 4,
+        "ai_content": 0,
+        "ads": 13,
+        "removed_features": 0,
+        "technical": 2,
+        "billing": 0,
+        "other": 0
+      },
+      "complaint_themes_pct": {
+        "monetization": 2.7,
+        "energy_system": 5.4,
+        "ai_content": 0.0,
+        "ads": 17.6,
+        "removed_features": 0.0,
+        "technical": 2.7,
+        "billing": 0.0,
+        "other": 0.0
+      },
+      "top_themes": [
+        [
+          "ads",
+          13
+        ],
+        [
+          "energy_system",
+          4
+        ],
+        [
+          "monetization",
+          2
+        ]
+      ]
+    },
+    "user_personas": {
+      "personas": {
+        "free_learner": 57,
+        "streak_keeper": 2,
+        "casual_learner": 1,
+        "family_user": 0,
+        "serious_learner": 0,
+        "paid_power_user": 14
+      },
+      "churn_signals": {
+        "quit": 0,
+        "uninstall": 0,
+        "switch_apps": 0,
+        "streak_mention": 2
+      },
+      "churn_percentage": 2.7
+    },
+    "monetization": {
+      "pricing_mentions": {
+        "euro": 3,
+        "dollar": 0,
+        "pound": 0,
+        "too_expensive": 0,
+        "reasonable_price": 0,
+        "pay_to_remove_ads": 0,
+        "pay_for_grammar": 0,
+        "wont_pay": 1
+      },
+      "pricing_mentions_pct": {
+        "euro": 4.1,
+        "dollar": 0.0,
+        "pound": 0.0,
+        "too_expensive": 0.0,
+        "reasonable_price": 0.0,
+        "pay_to_remove_ads": 0.0,
+        "pay_for_grammar": 0.0,
+        "wont_pay": 1.4
+      }
+    },
+    "opportunities": {
+      "feature_requests": {
+        "grammar_explanations": 0,
+        "offline_mode": 0,
+        "dark_mode": 0,
+        "speaking_practice": 1,
+        "human_voices": 0,
+        "web_version": 0,
+        "advanced_lessons": 0,
+        "streaming_access": 0
+      },
+      "feature_requests_pct": {
+        "grammar_explanations": 0.0,
+        "offline_mode": 0.0,
+        "dark_mode": 0.0,
+        "speaking_practice": 1.4,
+        "human_voices": 0.0,
+        "web_version": 0.0,
+        "advanced_lessons": 0.0,
+        "streaming_access": 0.0
+      },
+      "top_features": [
+        [
+          "speaking_practice",
+          1
+        ],
+        [
+          "grammar_explanations",
+          0
+        ],
+        [
+          "offline_mode",
+          0
+        ],
+        [
+          "dark_mode",
+          0
+        ],
+        [
+          "human_voices",
+          0
+        ]
+      ]
+    },
+    "risk_competition": {
+      "switching_barriers": {
+        "streak_loss": 2,
+        "habit_routine": 0,
+        "progress_investment": 0,
+        "familiarity": 0,
+        "friends_competition": 0
+      },
+      "competitors_mentioned": {
+        "memrise": 0,
+        "busuu": 0,
+        "babbel": 0,
+        "rosetta_stone": 0,
+        "lingoda": 0
+      }
+    },
+    "dutch_market": {
+      "dutch_language_mentions": 1,
+      "dutch_language_pct": 1.4,
+      "local_terms_mentions": 32,
+      "pricing_4_99_mentions": 0,
+      "pricing_4_99_pct": 0.0
+    }
+  }
+}
