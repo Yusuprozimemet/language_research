@@ -25,9 +25,15 @@ Users want **real conversation**, **grammar clarity**, **fair pricing** — **ev
 ## **1. RESEARCH DESIGN**  
 **4 Methods | Triangulated | Reproducible**
 
-
-
-<p align="center"><img src="method.png" alt="Research Methods" style="max-width:100%;height:auto;width:700px;" /></p>
+```mermaid
+graph TD
+    A[146 Apps] --> B[Ranked]
+    C[2,146 Reviews] --> D[Coded]
+    E[20 Interviews] --> F[Themed]
+    G[Chinese Cohort] --> H[Validated]
+    B & D & F & H --> I[Convergence]
+    style I fill:#dc2626,color:#fff
+```
 
 | **Method** | **Scope** | **n** |
 |-----------|---------|------|
@@ -82,10 +88,16 @@ pie title Duolingo (n=1,000)
 | Quizlet | 60% | 30% | Vocab | Paywall |
 | Busuu | 52% | 35% | Grammar | Login |
 | Babbel | 45% | 40% | Structure | Price |
-
 | **Duolingo** | **38%** | **52%** | **Habit** | **Energy + $** |
 
-<p align="center"><img src="bar_chart.png" alt="Sentiment Comparison Bar Chart" style="max-width:100%;height:auto;width:700px;" /></p>
+
+---
+
+<p align="center">
+    <img src="./bar_chart.png" alt="Image 1: Sentiment Comparison Bar Chart" style="max-width:80%;height:auto;" />
+</p>
+
+---
 
 ### **Thematic Heatmap (Normalized 0–100)**
 | **Theme** | **Duo** | **Quiz** | **Bus** | **Bab** | **Fal** | **Mem** | **Ros** |
@@ -150,8 +162,15 @@ pie title Duolingo (n=1,000)
 ## **7. STRATEGIC RECOMMENDATIONS**  
 ### **The Fluency Engine**
 
-
-<p align="center"><img src="The_Fluency_Engine.png" alt="The Fluency Engine" style="max-width:100%;height:auto;width:700px;" /></p>
+```mermaid
+graph TD
+    A[Fluency Engine] --> B[Habit<br>(Duo)]
+    A --> C[Grammar<br>(Babbel)]
+    A --> D[Speaking<br>(Falou)]
+    A --> E[€4.99 Fair Tier]
+    A --> F[AI Chat]
+    A --> G[Taal Buddy]
+```
 
 ### **Roadmap**
 | **P0 (0–3 mo)** | **P1 (3–6 mo)** | **P2 (6–12 mo)** |
@@ -169,7 +188,7 @@ pie title Duolingo (n=1,000)
 | **Sentiment Agreement** | **87.3%** |
 | **Saturation** | n=17 |
 | **95% CI** | ±3.1% |
-| **Scripts** | `github.com/yusufu/dutch-fluency` |
+| **Scripts** | `https://github.com/Yusuprozimemet/language_research` |
 
 ---
 
@@ -195,17 +214,7 @@ pie title Duolingo (n=1,000)
 
 **Prepared:** Yusufu Rouzimaimaiti  
 **Date:** November 9, 2025  
-**Contact:** [your.email]  
-
-> **Investor-ready | Peer-reviewable | Product-defining**
-
----
-
----
-
+**Contact:** https://x.com/Yusufrozimemet
 
 
 ---
-
-> **Use this in your report where `[Image 1: Sentiment Comparison Bar Chart]` appears.**  
-> **Output:** Clean, publication-ready horizontal stacked bar chart with green (positive) and red (negative) bars, sorted by positive sentiment.
