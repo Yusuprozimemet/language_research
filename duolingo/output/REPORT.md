@@ -9,6 +9,18 @@
 
 ---
 
+Clarification on counts and percentages
+
+Note: Throughout this report "counts" for themes, keywords and features are keyword/regex mention counts (i.e., how many reviews contain the word or pattern). Percentages are computed with an explicit denominator shown in each table: most cluster % values use the full sample (1,000 reviews), while the "Non-complaint" table above reports percentages of the non-complaint subset (637 reviews = 63.7% of the sample). A single review can contain multiple keywords (so counts overlap and do not sum to the subset size). If you prefer prevalence relative to the full sample, divide the non-complaint counts by 1,000 (or multiply the % by 0.637 to get the share of the full sample).
+
+Where to find raw numbers
+
+- Full machine-readable results: `duolingo/output/comprehensive_analysis_results.json` (best source for exact counts used in this report).  
+- Human summary: `duolingo/output/comprehensive_analysis_summary.txt` and this `REPORT.md`.  
+- Example positive review texts: `duolingo/output/positive_examples.json`.
+
+If you'd like me to change the denominators (show all positive counts as % of 1,000) or to deduplicate mentions so each review is counted only once per theme, I can regenerate the outputs and update the report accordingly.
+
 ## Executive Summary
 
 This report analyzes 1,000 Dutch-language Duolingo reviews to answer 50+ research questions across 8 key dimensions. The analysis reveals that while Duolingo remains popular (68.5% neutral-to-positive sentiment), users are increasingly frustrated with aggressive monetization strategies and the restrictive "energy system." The data suggests a critical inflection point where long-term users are reconsidering their commitment.
@@ -145,6 +157,8 @@ This report analyzes 1,000 Dutch-language Duolingo reviews to answer 50+ researc
 
 ## 3. PROBLEM CLUSTERS
 
+Note: Cluster percentages are computed as (number of reviews mentioning the theme) divided by the total number of reviews (1,000). Some follow-up questions use slightly different keyword/regex patterns to refine counts, so related metrics may differ slightly.
+
 ### Q1: Cluster all complaints into themes. For each: count, % of total, top 3 quotes.
 
 #### Theme #1: Monetization Issues (140 mentions, 14.0%)
@@ -248,6 +262,58 @@ This report analyzes 1,000 Dutch-language Duolingo reviews to answer 50+ researc
 | Notification system too pushy | 8 |
 | Ads placement disruptive | 6 |
 | Dark mode missing/poor | 4 |
+
+### Non-complaint reviews (the other 63.7%)
+
+Most reviews (637 / 1,000 = 63.7%) do not match the complaint-theme keywords and are predominantly neutral or positive — users describing how they use the app, praising features, or making light requests. Below is a concise breakdown (counts and % of the 637 non-complaint reviews) for common positive keywords and top feature mentions.
+
+Positive keywords (count / % of 637 non-complaints)
+
+| Word | Count | % of non-complaints |
+|------|-------:|-------------------:|
+| like | 94 | 14.8% |
+| love | 43 | 6.8% |
+| great | 35 | 5.5% |
+| amazing | 8 | 1.3% |
+| helpful | 8 | 1.3% |
+| perfect | 6 | 0.9% |
+| excellent | 5 | 0.8% |
+| wonderful | 2 | 0.3% |
+
+Top feature / wishlist mentions (count / % of 637 non-complaints)
+
+| Feature | Count | % of non-complaints |
+|---------|------:|-------------------:|
+| grammar | 8 | 1.3% |
+| offline | 3 | 0.5% |
+| speaking practice | 3 | 0.5% |
+| dark mode | 0 | 0.0% |
+| stories | 0 | 0.0% |
+
+Other signals in the non-complaint set:
+- Paid/subscription mentions: 34 (5.3% of non-complaints)
+- Churn/quitting mentions: 6 (0.9%)
+- Alternative apps (e.g., Busuu): 1 (0.2%)
+
+Example review excerpts (non-complaint reviews)
+
+Gamification / Streak (3 examples):
+
+1. "It’s the best game now I can talk Turkish"
+2. "I really liked Duolingo until today because I was on a perfect 3 week streak and I had not missed a day for 3 whole weeks and I had 150 days but today I don’t understand why but I have a 3 day streak"
+3. "I learn alot of things on Duolingo but it has Some bugs and now i cant keep my Duolingo streak alive😔"
+
+Learning progress (3 examples):
+
+1. "Hi Duo, if the team sees this, could ya please suggest adding Papiamento and African to the app? I’d love to learn those languages!"
+2. "I really like the app, because you can learn a language with small learning portions and varariety of reading, writeng and speaking. For me personally i would like less repetition.. or more personalised learning (many mistakes > more repetition , little miststakes> faster to the next level) and more positive caracters"
+3. "It is good that it challenges to keep learning, but I hate how much it manipulates, sometimes being flawed, like stating you missed a day when it is not true, messing up your score of giving wrong tips. I have a paid version and still it pressures for other additions."
+
+Accessibility / Free (3 examples):
+
+1. "Since the last updates the app got worse and worse. They keep rearranging everything;  Make it impossible to play for free;  and seem to have ditched some of their best features (like the one where you get dubbel XP in de evening if you’ve also played that morning, and dubbel XP in the morning when you’ve played the evening before)."
+2. "Very easy to use"
+3. "I really like this app because it’s designed very good and it’s so easy to learn languages definitely get this"
 
 ---
 
