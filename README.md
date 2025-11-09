@@ -1,6 +1,6 @@
 # Language Learning Apps Research: Quick Summary
 
-**Research Period:** October–November 2025 | **Duration:** 34 days | **Researcher:** Yusufu Rouzimaimaiti
+**Research Period:** October–November 2025 | **Duration:** 34 days | **Researcher:** Yusup Rozimemet
 
 ---
 

@@ -1,7 +1,7 @@
 # Comprehensive Scientific Report: Multi-Method Customer Research on Language Learning Applications
 
 **Research Period**: October 7 – November 8, 2025  
-**Principal Investigator**: Yusufu Rouzimaimaiti  
+**Principal Investigator**: Yusup Rozimemet
 **Institution**: Entrepreneurship Program  
 **Total Research Duration**: 34 days  
 **Report Date**: November 9, 2025
