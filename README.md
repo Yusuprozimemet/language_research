@@ -163,10 +163,10 @@ pie title Duolingo (n=1,000)
 ### **The Fluency Engine**
 
 ```mermaid
-graph TD
-    A[Fluency Engine] --> B[Habit<br>(Duo)]
-    A --> C[Grammar<br>(Babbel)]
-    A --> D[Speaking<br>(Falou)]
+flowchart TD
+    A[Fluency Engine] --> B[Habit\nDuo]
+    A --> C[Grammar\nBabbel]
+    A --> D[Speaking\nFalou]
     A --> E[€4.99 Fair Tier]
     A --> F[AI Chat]
     A --> G[Taal Buddy]
