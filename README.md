@@ -83,7 +83,21 @@ Churn Risk:
 ## 📋 Research Pipeline Overview
 
 **Data Collection & Processing:**
-I scraped 146 language learning apps from the Google Play Store and collected ~300 reviews per app, totaling 43,800+ reviews. These were categorized, analyzed, and ranked using sentiment analysis. The 35 highest-performing apps were identified, and 7 were selected for deep-dive qualitative analysis with Claude AI, resulting in a comprehensive research report that informed our business strategy.
+
+In short, I conducted a comprehensive market and user analysis for language learning apps.
+I scraped 146 apps, collected and processed ~43,800 reviews (~300 each), categorized and ranked them, and shortlisted the top 35 using evaluation.py. I then manually tested all 35 apps and selected 7 for in-depth analysis using NLTK and Claude AI.
+
+In addition, I performed a focused 3-month analysis of Duolingo user reviews: 1,000 reviews showed a net sentiment of -14, average rating of 3.4, and an estimated €200K/month churn risk.
+
+Alongside the app analysis, I conducted 20 interviews with Dutch learners and 5 with Chinese learners to capture cross-cultural needs, behaviors, and learning barriers.
+
+**Final Deliverables:**
+
+* `complete_research_report.md` (24.5K+ words, analytics, visualizations, interview transcripts)
+* `README.md` (executive summary)
+* Business model and strategy refined through iterative canvases and evaluation cycles, documented in `plots.md`.
+
+
 
 ### MAIN PIPELINE (146 APPS ANALYSIS)
 ═════════════════════════════════════════════════════════════════════
@@ -480,3 +494,8 @@ This summary represents a **24,500+ word comprehensive report** including:
 **Last Updated:** November 9, 2025
 
 *For questions, collaboration, or access to full research report, contact via entrepreneurship program channels.*
+
+
+---
+
+Demo App https://github.com/Yusuprozimemet/languageApp
