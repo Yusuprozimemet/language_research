@@ -1,0 +1,1212 @@
+DUOLINGO REVIEWS COMPREHENSIVE ANALYSIS SUMMARY
+==================================================
+
+DATA VALIDATION
+------------------------------
+{
+  "total_reviews": 2040,
+  "date_range": {
+    "start": "2015-02-18 18:14:11+00:00",
+    "end": "2025-11-09 10:20:08+00:00",
+    "days_span": 3916
+  },
+  "ratings": {
+    "percentage_with_ratings": 100.0,
+    "average_apple_rating": 3.73,
+    "average_google_score": 3.73,
+    "overall_average": 3.73
+  },
+  "language_mentions": {
+    "nederlands": 59,
+    "dutch": 21,
+    "japanese": 16,
+    "english": 13,
+    "spanish": 10,
+    "french": 10,
+    "german": 8,
+    "italian": 6,
+    "portuguese": 3
+  },
+  "duplicates": {
+    "initial_count": 2040,
+    "duplicates_removed": 4,
+    "final_count": 2036,
+    "duplicate_percentage": 0.2
+  },
+  "geography": {
+    "netherlands_reviews": 2040,
+    "netherlands_percentage": 100.0,
+    "note": "Dataset was specifically scraped for Dutch reviews"
+  }
+}
+
+SENTIMENT TONE
+------------------------------
+{
+  "sentiment_distribution": {
+    "positive": {
+      "count": 554,
+      "percentage": 27.16
+    },
+    "negative": {
+      "count": 81,
+      "percentage": 3.97
+    },
+    "neutral": {
+      "count": 1405,
+      "percentage": 68.87
+    }
+  },
+  "top_emotional_words": {
+    "great": 53,
+    "love": 38,
+    "perfect": 29,
+    "annoying": 15,
+    "amazing": 9,
+    "helpful": 9,
+    "useless": 9,
+    "hate": 5,
+    "worst": 5,
+    "fine": 5
+  },
+  "most_emotional_reviews": [
+    {
+      "content": "This app is super great I love using this app it's so helpful and on my french exam I have a 9/10...",
+      "score": 3
+    },
+    {
+      "content": "I've just paid for this app. I think it's amazing, the devices to add, the price is high, but within reasonable bounds (i got it 70% off). One thing i hate is the AI. Suddenly every app got AI and i t...",
+      "score": 3
+    },
+    {
+      "content": "I used to love Duolingo - I have a 1300 day streak - but this recent 'energy' update just sucks man. Losing 7-8 energy per lesson while only gaining 5 by watching an ad is awful. It feels like I'm get...",
+      "score": 2
+    }
+  ],
+  "monthly_sentiment_trend": {
+    "2015-02": {
+      "negative": 0,
+      "neutral": 0,
+      "positive": 1
+    },
+    "2015-03": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 2
+    },
+    "2015-04": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 1
+    },
+    "2015-05": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2015-06": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 1
+    },
+    "2015-07": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2015-08": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 1
+    },
+    "2015-09": {
+      "negative": 1,
+      "neutral": 0,
+      "positive": 0
+    },
+    "2015-10": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 1
+    },
+    "2015-11": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 0
+    },
+    "2015-12": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 2
+    },
+    "2016-01": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 0
+    },
+    "2016-02": {
+      "negative": 0,
+      "neutral": 5,
+      "positive": 1
+    },
+    "2016-03": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 0
+    },
+    "2016-04": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 2
+    },
+    "2016-06": {
+      "negative": 0,
+      "neutral": 0,
+      "positive": 4
+    },
+    "2016-07": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2016-08": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 0
+    },
+    "2016-11": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2016-12": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 0
+    },
+    "2017-01": {
+      "negative": 0,
+      "neutral": 4,
+      "positive": 0
+    },
+    "2017-03": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 0
+    },
+    "2017-04": {
+      "negative": 1,
+      "neutral": 2,
+      "positive": 1
+    },
+    "2017-05": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2017-06": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2017-07": {
+      "negative": 1,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2017-08": {
+      "negative": 0,
+      "neutral": 4,
+      "positive": 0
+    },
+    "2017-09": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2017-10": {
+      "negative": 0,
+      "neutral": 4,
+      "positive": 1
+    },
+    "2017-11": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 2
+    },
+    "2017-12": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 0
+    },
+    "2018-01": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2018-02": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 1
+    },
+    "2018-03": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 1
+    },
+    "2018-04": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 1
+    },
+    "2018-05": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 2
+    },
+    "2018-06": {
+      "negative": 1,
+      "neutral": 2,
+      "positive": 0
+    },
+    "2018-07": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 0
+    },
+    "2018-08": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2018-09": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 2
+    },
+    "2018-10": {
+      "negative": 0,
+      "neutral": 4,
+      "positive": 2
+    },
+    "2018-11": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 1
+    },
+    "2018-12": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2019-02": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2019-03": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2019-04": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 3
+    },
+    "2019-05": {
+      "negative": 1,
+      "neutral": 2,
+      "positive": 4
+    },
+    "2019-06": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2019-07": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2019-08": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2019-09": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 2
+    },
+    "2019-10": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 1
+    },
+    "2019-11": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 0
+    },
+    "2019-12": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 2
+    },
+    "2020-01": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 1
+    },
+    "2020-02": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 1
+    },
+    "2020-03": {
+      "negative": 2,
+      "neutral": 17,
+      "positive": 13
+    },
+    "2020-04": {
+      "negative": 0,
+      "neutral": 11,
+      "positive": 8
+    },
+    "2020-05": {
+      "negative": 0,
+      "neutral": 10,
+      "positive": 10
+    },
+    "2020-06": {
+      "negative": 0,
+      "neutral": 9,
+      "positive": 2
+    },
+    "2020-07": {
+      "negative": 0,
+      "neutral": 4,
+      "positive": 8
+    },
+    "2020-08": {
+      "negative": 1,
+      "neutral": 5,
+      "positive": 2
+    },
+    "2020-09": {
+      "negative": 0,
+      "neutral": 3,
+      "positive": 5
+    },
+    "2020-10": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 4
+    },
+    "2020-11": {
+      "negative": 2,
+      "neutral": 5,
+      "positive": 3
+    },
+    "2020-12": {
+      "negative": 0,
+      "neutral": 2,
+      "positive": 3
+    },
+    "2021-01": {
+      "negative": 0,
+      "neutral": 8,
+      "positive": 3
+    },
+    "2021-02": {
+      "negative": 0,
+      "neutral": 21,
+      "positive": 7
+    },
+    "2021-03": {
+      "negative": 0,
+      "neutral": 13,
+      "positive": 11
+    },
+    "2021-04": {
+      "negative": 3,
+      "neutral": 20,
+      "positive": 6
+    },
+    "2021-05": {
+      "negative": 0,
+      "neutral": 10,
+      "positive": 7
+    },
+    "2021-06": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 5
+    },
+    "2021-07": {
+      "negative": 0,
+      "neutral": 11,
+      "positive": 4
+    },
+    "2021-08": {
+      "negative": 0,
+      "neutral": 5,
+      "positive": 5
+    },
+    "2021-09": {
+      "negative": 0,
+      "neutral": 15,
+      "positive": 3
+    },
+    "2021-10": {
+      "negative": 0,
+      "neutral": 6,
+      "positive": 3
+    },
+    "2021-11": {
+      "negative": 2,
+      "neutral": 6,
+      "positive": 2
+    },
+    "2021-12": {
+      "negative": 1,
+      "neutral": 6,
+      "positive": 8
+    },
+    "2022-01": {
+      "negative": 0,
+      "neutral": 8,
+      "positive": 2
+    },
+    "2022-02": {
+      "negative": 1,
+      "neutral": 10,
+      "positive": 4
+    },
+    "2022-03": {
+      "negative": 0,
+      "neutral": 9,
+      "positive": 6
+    },
+    "2022-04": {
+      "negative": 0,
+      "neutral": 4,
+      "positive": 5
+    },
+    "2022-05": {
+      "negative": 0,
+      "neutral": 4,
+      "positive": 4
+    },
+    "2022-06": {
+      "negative": 1,
+      "neutral": 1,
+      "positive": 3
+    },
+    "2022-07": {
+      "negative": 1,
+      "neutral": 25,
+      "positive": 9
+    },
+    "2022-08": {
+      "negative": 1,
+      "neutral": 19,
+      "positive": 4
+    },
+    "2022-09": {
+      "negative": 2,
+      "neutral": 17,
+      "positive": 4
+    },
+    "2022-10": {
+      "negative": 3,
+      "neutral": 29,
+      "positive": 4
+    },
+    "2022-11": {
+      "negative": 3,
+      "neutral": 38,
+      "positive": 12
+    },
+    "2022-12": {
+      "negative": 1,
+      "neutral": 43,
+      "positive": 5
+    },
+    "2023-01": {
+      "negative": 0,
+      "neutral": 33,
+      "positive": 14
+    },
+    "2023-02": {
+      "negative": 1,
+      "neutral": 29,
+      "positive": 7
+    },
+    "2023-03": {
+      "negative": 0,
+      "neutral": 26,
+      "positive": 8
+    },
+    "2023-04": {
+      "negative": 1,
+      "neutral": 28,
+      "positive": 6
+    },
+    "2023-05": {
+      "negative": 0,
+      "neutral": 23,
+      "positive": 5
+    },
+    "2023-06": {
+      "negative": 1,
+      "neutral": 27,
+      "positive": 10
+    },
+    "2023-07": {
+      "negative": 0,
+      "neutral": 26,
+      "positive": 9
+    },
+    "2023-08": {
+      "negative": 1,
+      "neutral": 19,
+      "positive": 11
+    },
+    "2023-09": {
+      "negative": 0,
+      "neutral": 26,
+      "positive": 0
+    },
+    "2023-10": {
+      "negative": 0,
+      "neutral": 29,
+      "positive": 16
+    },
+    "2023-11": {
+      "negative": 0,
+      "neutral": 28,
+      "positive": 10
+    },
+    "2023-12": {
+      "negative": 1,
+      "neutral": 18,
+      "positive": 7
+    },
+    "2024-01": {
+      "negative": 1,
+      "neutral": 34,
+      "positive": 8
+    },
+    "2024-02": {
+      "negative": 1,
+      "neutral": 19,
+      "positive": 13
+    },
+    "2024-03": {
+      "negative": 1,
+      "neutral": 18,
+      "positive": 6
+    },
+    "2024-04": {
+      "negative": 4,
+      "neutral": 24,
+      "positive": 10
+    },
+    "2024-05": {
+      "negative": 2,
+      "neutral": 14,
+      "positive": 4
+    },
+    "2024-06": {
+      "negative": 1,
+      "neutral": 19,
+      "positive": 1
+    },
+    "2024-07": {
+      "negative": 2,
+      "neutral": 16,
+      "positive": 4
+    },
+    "2024-08": {
+      "negative": 0,
+      "neutral": 11,
+      "positive": 13
+    },
+    "2024-09": {
+      "negative": 1,
+      "neutral": 21,
+      "positive": 7
+    },
+    "2024-10": {
+      "negative": 1,
+      "neutral": 20,
+      "positive": 10
+    },
+    "2024-11": {
+      "negative": 1,
+      "neutral": 13,
+      "positive": 5
+    },
+    "2024-12": {
+      "negative": 2,
+      "neutral": 20,
+      "positive": 9
+    },
+    "2025-01": {
+      "negative": 1,
+      "neutral": 22,
+      "positive": 7
+    },
+    "2025-02": {
+      "negative": 1,
+      "neutral": 12,
+      "positive": 3
+    },
+    "2025-03": {
+      "negative": 1,
+      "neutral": 17,
+      "positive": 4
+    },
+    "2025-04": {
+      "negative": 0,
+      "neutral": 12,
+      "positive": 4
+    },
+    "2025-05": {
+      "negative": 1,
+      "neutral": 18,
+      "positive": 4
+    },
+    "2025-06": {
+      "negative": 1,
+      "neutral": 12,
+      "positive": 3
+    },
+    "2025-07": {
+      "negative": 0,
+      "neutral": 17,
+      "positive": 4
+    },
+    "2025-08": {
+      "negative": 0,
+      "neutral": 12,
+      "positive": 11
+    },
+    "2025-09": {
+      "negative": 2,
+      "neutral": 8,
+      "positive": 8
+    },
+    "2025-10": {
+      "negative": 0,
+      "neutral": 27,
+      "positive": 1
+    },
+    "2025-11": {
+      "negative": 23,
+      "neutral": 208,
+      "positive": 76
+    }
+  },
+  "ad_mentions_by_rating": {
+    "one_star_mention_ads_pct": 1.6,
+    "five_star_mention_ads_pct": 0.2,
+    "total_ad_mentions": 17
+  },
+  "long_streak_negativity": {
+    "long_streak_users": 3,
+    "negative_percentage": 33.33
+  }
+}
+
+PROBLEM CLUSTERS
+------------------------------
+{
+  "complaint_themes": {
+    "monetization": {
+      "count": 245,
+      "percentage": 12.01,
+      "sample_quotes": [
+        "het super leuk en leerzaam!!...",
+        "het is super leuk en leert ook nog een wat!! ik speel het nu elke dag. aleen is het jammer dat je niet elke dag iets anders leert als je het snapt. ma...",
+        "I started using duolingo recently and I quite enjoyed it, but with the recent change from hearts to energy, it is getting really demotivating. you can..."
+      ]
+    },
+    "hearts_energy": {
+      "count": 61,
+      "percentage": 2.99,
+      "sample_quotes": [
+        "Energy instead of Hearts is such an awful change, my progress has halted completely. I can barely do 2 lessons per day before energy runs out....",
+        "I started using duolingo recently and I quite enjoyed it, but with the recent change from hearts to energy, it is getting really demotivating. you can...",
+        "Before I evaluated it as 5 stars, but now it is really no more than 1. Energy system makes the app completely senseless. The lessons are little and no..."
+      ]
+    },
+    "ai_content": {
+      "count": 39,
+      "percentage": 1.91,
+      "sample_quotes": [
+        "I miss the grammar, sometimes the sentences you have to translate are quite weird, but if you practice daily you can still learn a lot....",
+        "sinds AI zitten er wel heel veel fouten in de (Nederlandse spelling) ,ook de energie ipv 5 fouten is waardeloos...",
+        "This energy system is terrible. Really discouraging to keep learning. Youre being punished for doing well.... plus when youre almost done finishing a ..."
+      ]
+    },
+    "ui_ux": {
+      "count": 19,
+      "percentage": 0.93,
+      "sample_quotes": [
+        "The current energy system is fundamentally flawed and lacks logical consistency. While it would have been more intuitive if the user gained energy upo...",
+        "App doesn't start up anymore. I only see a green screen with the text Duolingo. First I got the same lesson every time. I installed the app again seve...",
+        "The number of courses is vast. However, they lack many important aspects like translation of sentences in higher levels of language (dutch and italian..."
+      ]
+    },
+    "ads": {
+      "count": 18,
+      "percentage": 0.88,
+      "sample_quotes": [
+        "New energy system sucks, at best I can do 3 lessons, unless I watch ads for more energy. As if I didn't have to watch enough ads already. On top of th...",
+        "Duolingo wordt met de update minder prettig. Waar ik koos voor \"super\" om geen ads meer te hebben forceren ze toch vaak hun eigen ads. Vorig jaar vond...",
+        "I used to love Duolingo - I have a 1300 day streak - but this recent 'energy' update just sucks man. Losing 7-8 energy per lesson while only gaining 5..."
+      ]
+    },
+    "progress_loss": {
+      "count": 15,
+      "percentage": 0.74,
+      "sample_quotes": [
+        "Energy instead of Hearts is such an awful change, my progress has halted completely. I can barely do 2 lessons per day before energy runs out....",
+        "Since the new energy system I lost all my motivation. you are punished for cramming some lessons back to back instead of throughout the day. I will lo...",
+        "After introducing energie. Making progress is halted. Speaking exercises are there but no way of using the mic trough a bug. After 1000 day streak i q..."
+      ]
+    },
+    "removed_features": {
+      "count": 14,
+      "percentage": 0.69,
+      "sample_quotes": [
+        "No longer possible to do more than two lessons without charging energy by watching stupid ads. Duolingo has become extremely frustrating....",
+        "Yeah after 900 days of having a streak I just deleted the app and freeing myself from the owl. It's just annoying that, for a language like Japanese, ...",
+        "App doesn't start up anymore. I only see a green screen with the text Duolingo. First I got the same lesson every time. I installed the app again seve..."
+      ]
+    },
+    "technical_bugs": {
+      "count": 10,
+      "percentage": 0.49,
+      "sample_quotes": [
+        "After introducing energie. Making progress is halted. Speaking exercises are there but no way of using the mic trough a bug. After 1000 day streak i q...",
+        "App doesn't start up anymore. I only see a green screen with the text Duolingo. First I got the same lesson every time. I installed the app again seve...",
+        "Pictures on flashcards have become a lot smaller since the last update, very impractical! I hope this bug gets fixed soon....."
+      ]
+    }
+  },
+  "removed_features": {
+    "total_mentions": 15,
+    "percentage": 0.74,
+    "sample_quotes": [
+      "No longer possible to do more than two lessons without charging energy by watching stupid ads. Duolingo has become extremely frustrating.",
+      "Yeah after 900 days of having a streak I just deleted the app and freeing myself from the owl. It's just annoying that, for a language like Japanese, Duolingo doesn't show enough of *why* things are as they are. And when I make mistakes I need a subscription to get it explained! Ridiculous. How am I supposed to learn that way???",
+      "App doesn't start up anymore. I only see a green screen with the text Duolingo. First I got the same lesson every time. I installed the app again several times. Also removed the cache etcetera. And now I only see the green screen. And now the browser version is also not working anymore... Error 500. I can only start an old lesson. More than a month later: still not working. I sent a message to the helpdesk... they did not reply...",
+      "Teacher Quizlet plus.. Since you have to pay for Quizlet, it feels like it became worse. The login is confusing for my students (user name, e-mail, or one of your (4?) soc. media accounts,. Then I have to invite them manually to my class (10+classes) and I'm waisting time doing this admin and helping my students to recover their accounts. Game asteroids is gone. Tests are too easy (combine term and definition needs more options, not eg 4 on 4 ,now you can guess). Improvement desired to keep it.",
+      "I REALLY hate when it keeps deleting my stuf, like i'm writing smth that i want to learn and then i get a notif and EVERYTHING that i just wrote down gets deleted and its SO annoying AND stressful"
+    ]
+  },
+  "hearts_energy_mentions": {
+    "count": 61,
+    "percentage": 2.99
+  },
+  "ai_complaints": {
+    "count": 41,
+    "percentage": 2.01
+  },
+  "word_cloud": "Saved to E:\\language_research\\other_apps\\output\\complaint_wordcloud.png",
+  "high_frequency_problems": [],
+  "top_technical_bugs": {
+    "bug": 4,
+    "not working": 3,
+    "error": 2
+  },
+  "billing_complaints": {
+    "count": 26,
+    "percentage": 1.27
+  },
+  "unhappy_paid_users": {
+    "paid_user_mentions": 205,
+    "negative_percentage": 5.37
+  },
+  "top_ui_complaints": {
+    "ads": 12,
+    "interface": 8,
+    "button": 5
+  }
+}
+
+USER PERSONAS
+------------------------------
+{
+  "user_personas": {
+    "free_learner": {
+      "size": 35,
+      "percentage": 1.72,
+      "sample_quotes": [
+        "unusable with free version. Can only use it for a few minutes a day after which you're not allowed t...",
+        "Since Duolingo changed Hearts to Energy, the app became wortless as free language learning app. You ..."
+      ]
+    },
+    "streak_keeper": {
+      "size": 23,
+      "percentage": 1.13,
+      "sample_quotes": [
+        "Energy instead of Hearts is such an awful change, my progress has halted completely. I can barely do...",
+        "good to learn languages, but the vibrations during an animation in the app are very annoying, if I u..."
+      ]
+    },
+    "family_user": {
+      "size": 1,
+      "percentage": 0.05,
+      "sample_quotes": [
+        "Ik denk niet dat Rosetta Stone mij als klant wil. Mijn e-mailadres dat gewoon werkt, wordt als ongel..."
+      ]
+    },
+    "serious_learner": {
+      "size": 115,
+      "percentage": 5.64,
+      "sample_quotes": [
+        "good to learn languages, but the vibrations during an animation in the app are very annoying, if I u...",
+        "Been using this app for many years and used to love it. Unfortunately greed rules the word and the a..."
+      ]
+    },
+    "casual_user": {
+      "size": 38,
+      "percentage": 1.86,
+      "sample_quotes": [
+        "I started using duolingo recently and I quite enjoyed it, but with the recent change from hearts to ...",
+        "its fun you have piano and math and even chess and once or twice in a month you get super duolingo n..."
+      ]
+    },
+    "paid_user": {
+      "size": 205,
+      "percentage": 10.05,
+      "sample_quotes": [
+        "het super leuk en leerzaam!!...",
+        "het is super leuk en leert ook nog een wat!! ik speel het nu elke dag. aleen is het jammer dat je ni..."
+      ]
+    }
+  },
+  "churn_mentions": {
+    "count": 8,
+    "percentage": 0.39
+  },
+  "alternative_apps": {
+    "mentions": {
+      "babbel": 29,
+      "memrise": 22,
+      "busuu": 11,
+      "rosetta": 7,
+      "anki": 1
+    },
+    "sentiment": {
+      "memrise": 0.12,
+      "busuu": 0.22,
+      "babbel": 0.12,
+      "rosetta": 0.31,
+      "anki": 0.0
+    }
+  },
+  "pricing_willingness": {
+    "mentions_count": 5,
+    "sample_quotes": [
+      "Watch out for this app! They will try to trick you with an automatic subscription renewal after 2 years at twice the original price (€150 in my case) ...",
+      "Op zich leuk dat je zo iets kunt leren maar eerst worden je persoonlijke gegevens gevraagd, pas daarna wordt duidelijk dat het bijna €14 per maand gaa...",
+      "Wilt u alle lessen voor €224,99 kopen? Nee dank u. Kun je toch beter een gecertificeerde curcus kopen, leer je vanuit het Nedelands en staat goed op j...",
+      "Für fast 40€ alle drei Monate, sollte die Spracherkennungsfunktion in den A1-B1 Lektionen funktionieren (Niederländisch-Kurs)....",
+      "I started using duolingo recently and I quite enjoyed it, but with the recent change from hearts to energy, it is getting really demotivating. you can..."
+    ]
+  },
+  "user_demographics": {
+    "parent_family_mentions": 1,
+    "parent_percentage": 0.05,
+    "adult_learner_mentions": 25,
+    "adult_percentage": 1.23
+  },
+  "supplement_usage": {
+    "count": 20,
+    "percentage": 0.98
+  },
+  "high_streak_churn": {
+    "high_streak_users": 2,
+    "threatening_to_quit": 1,
+    "quit_percentage": 50.0
+  },
+  "top_positive_aspects": {
+    "language": 29,
+    "learning": 24,
+    "practice": 6
+  }
+}
+
+MONETIZATION
+------------------------------
+{
+  "pricing_mentions": {
+    "euro_mentions": 4,
+    "dollar_mentions": 0,
+    "pound_mentions": 0,
+    "complaints": 8,
+    "positive": 3
+  },
+  "pay_for_features": {
+    "remove_ads": 7,
+    "grammar": 0,
+    "offline": 1,
+    "unlimited": 1
+  },
+  "wont_pay_users": {
+    "count": 0,
+    "percentage": 0.0
+  },
+  "euro5_plan_features": {},
+  "cancelled_subscriptions": {
+    "count": 7,
+    "percentage": 0.34,
+    "sample_reasons": [
+      "why can i see random people in my feed? i dont want to see them, only my friends. And i dont want others to see my stuff. please change if back otherwise i will cancel my subscription.",
+      "I didn't use this app anymore. So I cancelled my subscription last year. Never got an email of my cancellation. Now I found out I was billed AGAIN? I checked and cancelled my subscription again as it wasn't cancelled apparently. This time I'm not recieving any e-mail obout my cancellation either? Will I be billed again next year too? Is it possible to get a refund?",
+      "Watch out for this app! They will try to trick you with an automatic subscription renewal after 2 years at twice the original price (€150 in my case) without warning. The internet is full of people with similar experiences. I got my refund in the end, but maybe that's only because I wrote a lengthy email explaining why what they're doing is technically illegal... Just Google \"When is auto-renewal of consumer contracts likely to be unfair?\" and you will find the arguments you need!"
+    ]
+  },
+  "family_plan_demand": {
+    "count": 1,
+    "percentage": 0.05
+  }
+}
+
+OPPORTUNITIES
+------------------------------
+{
+  "missing_features": {
+    "grammar_explanations": {
+      "count": 28,
+      "percentage": 1.37,
+      "sample_quotes": [
+        "why can i see random people in my feed? i dont want to see them, only my friends. And i dont want ot...",
+        "I miss the grammar, sometimes the sentences you have to translate are quite weird, but if you practi..."
+      ]
+    },
+    "social_features": {
+      "count": 25,
+      "percentage": 1.23,
+      "sample_quotes": [
+        "Before I evaluated it as 5 stars, but now it is really no more than 1. Energy system makes the app c...",
+        "fake friends in feed suddenly..."
+      ]
+    },
+    "speaking_practice": {
+      "count": 10,
+      "percentage": 0.49,
+      "sample_quotes": [
+        "After introducing energie. Making progress is halted. Speaking exercises are there but no way of usi...",
+        "Great app for learning languages. I especially love the peer review system. It's possible to write o..."
+      ]
+    },
+    "offline_mode": {
+      "count": 9,
+      "percentage": 0.44,
+      "sample_quotes": [
+        "als je moeite hebt met engels zoals mij is dit de perfecte app je krijgt opdrachten dat je het moet ...",
+        "Deze app wordt elk jaar slechter. Nog buiten dat alles tegenwoordig geld kost en het abonnement heel..."
+      ]
+    },
+    "writing_practice": {
+      "count": 8,
+      "percentage": 0.39,
+      "sample_quotes": [
+        "I REALLY hate when it keeps deleting my stuf, like i'm writing smth that i want to learn and then i ...",
+        "The app and website do not sync properly. It is nonsense to be forced in typing on a phone vs keyboa..."
+      ]
+    }
+  },
+  "user_wishlist": {
+    "grammar_explanations": {
+      "count": 28,
+      "percentage": 1.37,
+      "sample_quotes": [
+        "why can i see random people in my feed? i dont want to see them, only my friends. And i dont want ot...",
+        "I miss the grammar, sometimes the sentences you have to translate are quite weird, but if you practi..."
+      ]
+    },
+    "social_features": {
+      "count": 25,
+      "percentage": 1.23,
+      "sample_quotes": [
+        "Before I evaluated it as 5 stars, but now it is really no more than 1. Energy system makes the app c...",
+        "fake friends in feed suddenly..."
+      ]
+    },
+    "speaking_practice": {
+      "count": 10,
+      "percentage": 0.49,
+      "sample_quotes": [
+        "After introducing energie. Making progress is halted. Speaking exercises are there but no way of usi...",
+        "Great app for learning languages. I especially love the peer review system. It's possible to write o..."
+      ]
+    },
+    "offline_mode": {
+      "count": 9,
+      "percentage": 0.44,
+      "sample_quotes": [
+        "als je moeite hebt met engels zoals mij is dit de perfecte app je krijgt opdrachten dat je het moet ...",
+        "Deze app wordt elk jaar slechter. Nog buiten dat alles tegenwoordig geld kost en het abonnement heel..."
+      ]
+    },
+    "writing_practice": {
+      "count": 8,
+      "percentage": 0.39,
+      "sample_quotes": [
+        "I REALLY hate when it keeps deleting my stuf, like i'm writing smth that i want to learn and then i ...",
+        "The app and website do not sync properly. It is nonsense to be forced in typing on a phone vs keyboa..."
+      ]
+    },
+    "progress_tracking": {
+      "count": 8,
+      "percentage": 0.39,
+      "sample_quotes": [
+        "Energy instead of Hearts is such an awful change, my progress has halted completely. I can barely do...",
+        "After introducing energie. Making progress is halted. Speaking exercises are there but no way of usi..."
+      ]
+    },
+    "advanced_lessons": {
+      "count": 8,
+      "percentage": 0.39,
+      "sample_quotes": [
+        "Esperienza positiva! Si impara il lessico, alcuni modi di dire, gli esercizi vertono su situazioni r...",
+        "Learning should be completely free, maybe only charge for issuing language certificates? What a scam..."
+      ]
+    },
+    "stories": {
+      "count": 1,
+      "percentage": 0.05,
+      "sample_quotes": [
+        "First lesson down in tagalog. Really enjoy the fast pace of presentation and the ability to practise..."
+      ]
+    },
+    "dark_mode": {
+      "count": 0,
+      "percentage": 0.0,
+      "sample_quotes": []
+    },
+    "human_voices": {
+      "count": 0,
+      "percentage": 0.0,
+      "sample_quotes": []
+    }
+  },
+  "leave_conditions": [
+    "You can only try the app if you sign up with your e-mail adres or Google Facebook account, so they can spam you with offers. Uninstalled immediately a..."
+  ],
+  "competitor_features_praised": {
+    "busuu": [
+      "I know six languages and, in my opinion, Busuu is the best language learning app available in the Play Store. Thank you for the great value you offer!",
+      "Top, leuk om te leren bij busuu"
+    ],
+    "memrise": [
+      "Uitstekende flashcardapp die doet wat het belooft met allerlei opties om het leren niet eentonig en efficiënter te maken. Veel gratis cursussen van aardige gebruikers gratis te gebruiken. Veel beter dan Memrise en minder saai dan Anki.",
+      "Gebruik Duolingo, Babbel en Memrise, maar dit is een totaal andere ervaring. Vooral dat je gewoon Nederlands - Portugees kunt leren ipv Engels - Portugees"
+    ],
+    "babbel": [
+      "I love Busuu because it gives more explanation than for instance Duo. Also it is more Spain oriented and teaches past tense as well as the vosotros forms as well. I find Babbel confusing because they use long sentences I don't understand yet in their examples. People nagging about it is useless when free: this is a paid form of learning. And they do it very well. Want free? Use a different program. Oh, at last, what I really like: you can get in touch with native speakers who can correct you",
+      "Gebruik Duolingo, Babbel en Memrise, maar dit is een totaal andere ervaring. Vooral dat je gewoon Nederlands - Portugees kunt leren ipv Engels - Portugees"
+    ],
+    "rosetta": [
+      "Ik had rosetta stone gedownload om Noors te leren maar dat is geen optie alsjeblieft pas dit aan",
+      "Ik denk niet dat Rosetta Stone mij als klant wil. Mijn e-mailadres dat gewoon werkt, wordt als ongeldig gezien. Mijn kind dat graag Frans wil leren, mag geen aankoop vragen via Family Link. Dit lijkt me een vrij basale sign-up flow. Bij andere taal-apps werkt dat wel gewoon."
+    ],
+    "anki": [
+      "Uitstekende flashcardapp die doet wat het belooft met allerlei opties om het leren niet eentonig en efficiënter te maken. Veel gratis cursussen van aardige gebruikers gratis te gebruiken. Veel beter dan Memrise en minder saai dan Anki."
+    ]
+  },
+  "grammar_explanations": {
+    "total_demand": 38,
+    "percentage": 1.86,
+    "format_preferences": {
+      "separate_lesson": 2,
+      "video": 1,
+      "popup": 0,
+      "pdf": 0
+    }
+  },
+  "voice_preferences": {
+    "human_voices": 6,
+    "ai_voices": 0
+  },
+  "specific_feature_demand": {
+    "offline_mode": {
+      "count": 9,
+      "percentage": 0.44
+    },
+    "dark_mode": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "web_version": {
+      "count": 16,
+      "percentage": 0.78
+    }
+  },
+  "perfect_app_summary": [
+    "No ads or reasonable ad frequency",
+    "Grammar explanations for mistakes",
+    "Offline mode for practice anywhere",
+    "Human voices with proper pronunciation",
+    "Fair monetization without aggressive upselling"
+  ]
+}
+
+RISK COMPETITION
+------------------------------
+{
+  "switching_barriers": {
+    "investment": 34,
+    "progress_loss": 8,
+    "streak_loss": 5,
+    "habit": 4
+  },
+  "monopoly_perception": {
+    "mentions": 0,
+    "sample_quotes": []
+  },
+  "remaining_strengths": {
+    "variety": 31,
+    "accessibility": 24,
+    "gamification": 13,
+    "streak_system": 4,
+    "community": 2
+  },
+  "top_retention_fixes": {
+    "fix_hearts": 11,
+    "add_grammar": 7,
+    "remove_ads": 3
+  }
+}
+
+DUTCH MARKET
+------------------------------
+{
+  "dutch_complaints": {
+    "price": 80,
+    "ads": 46,
+    "ai": 25
+  },
+  "dutch_specific_mentions": {
+    "ideal": 9,
+    "privacy": 5
+  },
+  "dutch_pricing_willingness": {
+    "mentions": 17,
+    "percentage": 0.83,
+    "sample_quotes": [
+      "Opent soms niet of erg traag. Vraag me af of hij nog werkt. Kosten 35 euro. Weggegooid",
+      "I'm missing the option to use my native Dutch language. Also, it would have been nice if there was Dutch as an option to learn for foreign people. The grammatica learning in this app is the best I have seen so far.",
+      "5 sterren voor de informatie en de 'live' mogelijkheden om in de community feedback te krijgen op schrijven en uitspraak. 2 sterren omdat je maar enkele lessen kunt doen zonder betaalde account en het feit dat je wel Nederlands kunt leren met deze app maar als je Nederlands talig bent en je wilt bijvoorbeeld Frans leren dan verloopt dit in het Engels....logica????? Daarom het gemiddelde van 3 sterren."
+    ]
+  }
+}
+

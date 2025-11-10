@@ -34,6 +34,9 @@ All scripts are **modular**, **interoperable**, and **designed for automation**.
 ## Workflow Pipeline (ASCII)
 
 ```text
+MAIN PIPELINE (146 APPS ANALYSIS)
+═════════════════════════════════════════════════════════════════════
+
 ┌─────────────────────────────────────┐
 │ 1. collect_reviews_for_apps.py      │
 │    → Scrape 300 reviews/app         │
@@ -79,13 +82,42 @@ All scripts are **modular**, **interoperable**, and **designed for automation**.
    ┌─────────────────────────────────────┐
    │ 7. extract_excellent_apps.py        │
    │ → excellent_apps.csv + .jsonl       │
+   │   excellent_apps_description.md     │
    └───────────────┬─────────────────────┘
                    │
                    ▼
    ┌─────────────────────────────────────┐
    │ 8. list_excellent_names.py          │
    │ → excellent_names.txt + .json       │
-   └─────────────────────────────────────┘
+   └───────────────┬─────────────────────┘
+
+
+FOCUSED DEEP-DIVE (7 SELECTED APPS)
+═════════════════════════════════════════════════════════════════════
+
+                   │
+                   ▼
+   ┌─────────────────────────────────────┐
+   │ Manual Testing & Selection          │
+   │ → Select 7 best apps from 35        │
+   │    excellent candidates             │
+   └───────────────┬─────────────────────┘
+                   │
+                   ▼
+   ┌─────────────────────────────────────┐
+   │ 9. collect_reviews_for_apps.py      │
+   │    (targeted for 7 apps)            │
+   │ → Scrape ~200-300 reviews/app       │
+   └───────────────┬─────────────────────┘
+                   │
+                   ▼
+   ┌─────────────────────────────────────┐
+   │ output/reviews_<app>.jsonl (7 files)│
+   │                                     │
+   └───────────────┬─────────────────────┘
+                   │
+                   ▼
+   
 ```
 
 ### Execution Order
@@ -206,7 +238,36 @@ nltk.download('vader_lexicon')
 
 ---
 
-**Done!** You now have a full scientific analysis of 146 language apps.
+## New Workflow: 7 Selected Apps Analysis
+
+After initial analysis of 146 apps, a focused deep-dive was conducted on **7 selected apps** using the following workflow:
+
+### Workflow Summary
+
+1. **Collected excellent_names.txt** — List of top apps extracted from evaluation rankings
+2. **Used Grok AI** → Generated `output/Excellent_apps_description.md` (AI-curated descriptions of top apps)
+3. **Manual Testing** — Downloaded and tested each of the 35 excellent apps to validate quality
+4. **Selected 7 Best Apps** — Chose the 7 most promising apps based on manual evaluation
+5. **Collected Reviews** → Ran `collect_reviews_for_apps.py` to gather ~200–300 reviews per app
+
+
+### The 7 Selected Apps
+
+| App Name | Package ID | Output Files | Link |
+|----------|-----------|-------------|------|
+| **Duolingo** | `com.duolingo` | `com.duolingo.md`, charts | `individual_md/com.duolingo.md` |
+| **Quizlet** | `com.quizlet.quizletandroid` | `com.quizlet.quizletandroid.md`, charts | `individual_md/com.quizlet.quizletandroid.md` |
+| **Busuu** | `com.busuu.android.enc` | `com.busuu.android.enc.md`, charts | `individual_md/com.busuu.android.enc.md` |
+| **Falou** | `com.moymer.falou` | `com.moymer.falou.md`, charts | `individual_md/com.moymer.falou.md` |
+| **Babbel** | `com.babbel.mobile.android.en` | `com.babbel.mobile.android.en.md`, charts | `individual_md/com.babbel.mobile.android.en.md` |
+| **Memrise** | `com.memrise.android.memrisecompanion` | `com.memrise.android.memrisecompanion.md`, charts | `individual_md/com.memrise.android.memrisecompanion.md` |
+| **Rosetta Stone** | `air.com.rosettastone.mobile.CoursePlayer` | `air.com.rosettastone.mobile.CoursePlayer.md`, charts | `individual_md/air.com.rosettastone.mobile.CoursePlayer.md` |
+
+
+**Done!** You now have:
+- A full scientific analysis of 146 language apps (master reports in `output/categories.md`)
+- Deep analytics on 7 hand-selected apps (individual reports + charts in `individual_md/`)
+- Rigorous thematic analysis for customer research (summaries in `output/reviews_*.md`)
 
 *Generated: November 09, 2025*  
-*Updated with ASCII workflow for universal compatibility*
+*Updated: November 10, 2025 — Added 7-app deep-dive workflow documentation*

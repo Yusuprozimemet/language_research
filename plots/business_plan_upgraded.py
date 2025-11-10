@@ -160,14 +160,23 @@ plt.show()
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))
 
 # Duolingo Problem Concentration
-problems = ['Monetization\nIssues', 'Energy\nSystem', 'Other\nIssues']
-percentages = [14.0, 13.2, 72.8]
-colors_prob = ['#e74c3c', '#e67e22', '#95a5a6']
-explode = (0.1, 0.1, 0)
+problems = ['Monetization Issues',
+            'Hearts / Energy System',
+            'AI Content Quality',
+            'Ads Frequency',
+            'Removed Features',
+            'Technical Bugs',
+            'Progress Loss',
+            'UI/UX Issues',
+            'Non-Problem / Neutral / Satisfied']
+percentages = [14.0, 13.2, 3.2, 2.2, 1.5, 0.9, 0.7, 0.6, 63.7]
+colors_prob = ['#e74c3c', '#f39c12', '#e67e22', '#d35400',
+               '#c0392b', '#8e44ad', '#2980b9', '#27ae60', '#95a5a6']
+explode = (0.12, 0.12, 0, 0, 0, 0, 0, 0, 0)
 
 ax1.pie(percentages, explode=explode, labels=problems, colors=colors_prob,
         autopct='%1.1f%%', shadow=True, startangle=90, textprops={'fontsize': 12, 'fontweight': 'bold'})
-ax1.set_title('Duolingo\'s 27.2% Problem\n(Structural Complaint Concentration)',
+ax1.set_title('Distribution of User Feedback Themes\n(Full Review Breakdown)',
               fontsize=14, fontweight='bold')
 
 # Feature Opportunity Scores

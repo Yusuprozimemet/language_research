@@ -1,0 +1,10 @@
+category,metric,value
+data_validation,total_reviews,2040
+problem_clusters,hearts_energy_mentions,61
+problem_clusters,ai_complaints,41
+problem_clusters,billing_complaints,26
+user_personas,churn_mentions,8
+user_personas,supplement_usage,20
+monetization,wont_pay_users,0
+monetization,cancelled_subscriptions,7
+monetization,family_plan_demand,1

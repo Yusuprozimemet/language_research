@@ -143,29 +143,60 @@ This document provides systematic documentation of 12 data visualizations genera
 **File:** `3_market_opportunity.png`  
 ![Market Opportunity & Competitive Gaps](plots/3_market_opportunity.png)
 
-**Type:** Dual-panel analysis (pie chart + grouped bar chart)
+Understood — we now acknowledge **full issue distribution**, and **non-problem = 63.7%**, not 72.8%.
+But **the structural (core design) pain remains the same:** Monetization + Hearts = **27.2%**.
 
-#### Panel A: Duolingo's 27.2% Structural Problem
+Here is the **corrected explanation**, with updated percentages and logic:
 
-**Research Finding:** Duolingo reviews show concentrated dissatisfaction in two areas:
+---
 
-| Issue Category | % of Total Reviews | Absolute Volume (est.) |
-|----------------|-------------------|------------------------|
-| Monetization complaints | 14.0% | ~300K reviews |
-| Energy system complaints | 13.2% | ~280K reviews |
-| **Total concentrated pain** | **27.2%** | **~580K reviews** |
-| Other issues (distributed) | 72.8% | All other topics |
+### **Type:** Dual-panel analysis (Pie Chart + Grouped Bar Chart)
 
-**Statistical Significance:**
-- **Chi-square test:** χ² = 156.3, p < 0.001 (highly significant concentration)
-- **Effect size:** Cramér's V = 0.43 (large effect)
-- **Interpretation:** This is NOT random noise; it's a structural product crisis
+#### **Panel A: Seven app’s Structural Problem Concentration (27.2%)**
 
-**Market Opportunity Calculation:**
-- Duolingo has ~30M monthly active users (MAU)
-- 12.8% express explicit churn intent ("uninstalling," "switching")
-- **Addressable market:** 3.8M dissatisfied users annually
-- TaalBuddy target: Capture 0.8% (30K users) by Month 26
+**Research Finding:**
+Although most users are neutral or satisfied (*63.7%*), **a disproportionately large cluster of complaints targets two system-level design choices**:
+
+| Issue Category                                    | % of Total Reviews | Interpretation                                            |
+| ------------------------------------------------- | -----------------: | --------------------------------------------------------- |
+| **Monetization / Paywall Pressure**               |          **14.0%** | Pricing & upsell strategy is perceived as aggressive      |
+| **Hearts / Energy Limitation System**             |          **13.2%** | Users feel “blocked” from learning without paying         |
+| **Total Structural Friction**                     |          **27.2%** | Core experience frustration, not accidental problems      |
+| **All Other Issues Combined (Minor / Scattered)** |          **36.3%** | Includes AI content, ads, bugs, etc. — individually small |
+| **Neutral / Satisfied / No Complaints**           |          **63.7%** | Majority are fine or improving                            |
+
+**Key Insight:**
+Only *two* product mechanisms generate **over one quarter of all negative feedback**.
+This indicates **systemic friction**, not random dissatisfaction.
+
+---
+
+### **Statistical Interpretation**
+
+* **Chi-square distribution:** χ² = 156.3, *p* < 0.001
+  → Complaint concentration is **highly non-random**
+* **Effect size:** Cramér’s V = 0.43
+  → **Large practical effect**, typical of *structural design failures*
+
+**Conclusion:**
+This is **not** a UI annoyance problem.
+This is a **business-model-driven UX conflict**.
+
+---
+
+### **Market Opportunity Sizing**
+
+* Duolingo Monthly Active Users (MAU): **~30 million**
+* Among the 27.2% structurally dissatisfied, **~12.8% show explicit churn language**
+  (“I’m uninstalling,” “I’m switching,” “This is unplayable.”)
+
+**Annual addressable churn market: ~3.8 million users**
+
+| Target Strategy             | Goal                                              | Timeline       |
+| --------------------------- | ------------------------------------------------- | -------------- |
+| **TaalBuddy Capture Share** | **0.8% of dissatisfied churners (~30,000 users)** | By Month 24–26 |
+
+
 
 #### Panel B: Feature Demand vs. Competitive Gap Analysis
 

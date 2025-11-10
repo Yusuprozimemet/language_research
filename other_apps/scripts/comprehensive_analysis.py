@@ -101,7 +101,37 @@ class DuolingoAnalyzer:
             '').astype(str).str.lower()
         self.df['content_len'] = self.df['content_clean'].str.len()
 
+        # Normalize rating fields: some datasets use 'score' (Google) and others 'rating' (Apple)
+        # Create both columns if missing so downstream code can reference either.
+        if 'rating' not in self.df.columns and 'score' in self.df.columns:
+            self.df['rating'] = self.df['score']
+        if 'score' not in self.df.columns and 'rating' in self.df.columns:
+            self.df['score'] = self.df['rating']
+        # If neither exists, create them as NA to avoid KeyErrors later
+        if 'rating' not in self.df.columns:
+            self.df['rating'] = pd.NA
+        if 'score' not in self.df.columns:
+            self.df['score'] = pd.NA
+
         # Prepare date columns
+        # Some input files use different date field names (e.g. 'updated', 'at', 'date', 'review_date').
+        # Create a canonical 'updated' column if missing by falling back to common alternatives.
+        if 'updated' not in self.df.columns:
+            if 'at' in self.df.columns:
+                self.df['updated'] = self.df['at']
+            elif 'date' in self.df.columns:
+                self.df['updated'] = self.df['date']
+            elif 'review_date' in self.df.columns:
+                self.df['updated'] = self.df['review_date']
+            else:
+                # no date-like column found; create an empty column to avoid KeyError later
+                self.df['updated'] = pd.NA
+
+        # Ensure 'at' exists too (some code expects both)
+        if 'at' not in self.df.columns:
+            self.df['at'] = self.df['updated']
+
+        # Parse datetimes (coerce invalid formats to NaT)
         self.df['updated_dt'] = pd.to_datetime(
             self.df['updated'], errors='coerce', utc=True)
         self.df['at_dt'] = pd.to_datetime(
