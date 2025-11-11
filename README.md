@@ -17,7 +17,7 @@ Comprehensive research on language learning apps in the Netherlands market using
 
 ## 🔍 Key Findings
 
-### The Big Problem: 27.2% of Complaints in Just 2 Categories
+### The Big Problem: 27.2% of reviews in Just 2 Categories
 
 ```
 Monetization Issues     ████████████████ 14.0%
